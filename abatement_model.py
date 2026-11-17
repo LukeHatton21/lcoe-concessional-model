@@ -50,28 +50,36 @@ class AbatementEstimator:
 
         return capacity_data
 
-    def calculate_IFI_abatement(self, IFI_data, results, country_emissions, technology_type=None, additionality=None):
+    def calculate_IFI_abatement(self, IFI_data, results, country_emissions, technology_type=None):
 
         # Perform the calculation (converting from gCO2/kWh -> tCO2 / kWh requires 1e+6)
-        if additionality is not None:
-            suffix = "_AF"
-        else:
-            suffix = ""
         if technology_type == "VRE":
-            IFI_data["IFI_Emissions_Factor"] = IFI_data["IFI_Emissions_Factor_VRE"]
-            IFI_data["IFI_Emissions_Factor_AF"] = IFI_data["IFI_Emissions_Factor_VRE_AF"]
-            results["Operating_Margin"] = IFI_data["VRE_Energy"]
+            results["IFI_Emissions_Factor"] = IFI_data["IFI_Emissions_Factor_VRE"]
+            results["IFI_Emissions_Factor_AF"] = IFI_data["IFI_Emissions_Factor_VRE_AF"]
+            results["Operating_Margin"] = IFI_data["Operating_Margin"]
+            results["Build_Margin"] = IFI_data["Build_Margin_VRE"]
         else:
-            IFI_data["IFI_Emissions_Factor"] = IFI_data["IFI_Emissions_Factor_Firm"]
-            IFI_data["IFI_Emissions_Factor_AF"] = IFI_data["IFI_Emissions_Factor_Firm_AF"]
-            results["Operating_Margin"] = IFI_data["Firm_Energy"]
-        tCO2_MW = IFI_data["IFI_Emissions_Factor"] / 1e+6 * results['electricity_production'] * results["Lifetime"]
-        tCO2_CI = IFI_data["Electricity_CI"] / 1e+6 * results['electricity_production'] * results["Lifetime"]
+            results["IFI_Emissions_Factor"] = IFI_data["IFI_Emissions_Factor_Firm"]
+            results["IFI_Emissions_Factor_AF"] = IFI_data["IFI_Emissions_Factor_Firm_AF"]
+            results["Operating_Margin"] = IFI_data["Operating_Margin"]
+            results["Build_Margin"] = IFI_data["Build_Margin_Firm"]
 
-        results["abatement_MW" + suffix] = tCO2_MW
-        results["abatement_CI" + suffix] = tCO2_CI
-        results["IFI_Emissions_Factor"] = IFI_data["IFI_Emissions_Factor"]
-        results["IFI_Emissions_Factor_AF"] = IFI_data["IFI_Emissions_Factor_AF"]
+        # Store into results
+        results["Electricity_CI_AF"] = IFI_data["Electricity_CI_AF"]
+        results["Electricity_CI"] = IFI_data["Electricity_CI"]
+
+        # Do for both emissions factors
+        tCO2_MW = results["IFI_Emissions_Factor"] / 1e+6 * results['electricity_production'] * results["Lifetime"]
+        tCO2_CI = results["Electricity_CI"] / 1e+6 * results['electricity_production'] * results["Lifetime"]
+        results["abatement_MW"] = tCO2_MW
+        results["abatement_CI"] = tCO2_CI
+
+        # Do for both emissions factors with additionality
+        tCO2_MW_AF = results["IFI_Emissions_Factor_AF"] / 1e+6 * results['electricity_production'] * results["Lifetime"]
+        tCO2_CI_AF = results["Electricity_CI_AF"] / 1e+6 * results['electricity_production'] * results["Lifetime"]
+        results["abatement_MW_AF"] = tCO2_MW_AF
+        results["abatement_CI_AF"] = tCO2_CI_AF
+
         results["Additionality_Factor"] = IFI_data["Additionality_Factor"]
         results["emissions"] = country_emissions
         results["grid_intensity"] = IFI_data["Electricity_CI"]
@@ -201,8 +209,9 @@ class AbatementEstimator:
         country_grids = self.postprocessor.country_grids.rename({"land":"index"})
         country_df = country_grids.to_dataframe().reset_index()
         country_df = country_df.merge(ci_data_mapping.rename(columns={"Value":"Electricity_CI"}), how="left", on="index")
-        country_ds = country_df.drop_duplicates(subset=["latitude", "longitude"]).set_index(["latitude", "longitude"]).to_xarray()
-        country_ds = country_ds.assign_coords({"latitude":country_ds.latitude, "longitude": country_ds.longitude})
+        country_ds = country_df.drop_duplicates(subset=["latitude", "longitude"]).set_index(
+            ["latitude", "longitude"]).to_xarray()
+        country_ds = country_ds.assign_coords({"latitude": country_ds.latitude, "longitude": country_ds.longitude})
 
         return country_ds
 
@@ -210,6 +219,7 @@ class AbatementEstimator:
 
         # Extract carbon intensity data
         ci_data = ember_data.loc[(ember_data["Variable"] == "Total emissions") & (ember_data["Year"] == self.year)]
+
 
         # Get columns required
         ci_data_subset = ci_data[["Country code", "Value"]]
@@ -282,53 +292,74 @@ class AbatementEstimator:
     def extract_IFI(self):
 
         # Extract carbon intensity data
-        ifi_data = self.IFI_data[["Country code", "Firm_Energy", "VRE_Energy", "Build_Margin"]]
+        ifi_data = self.IFI_data[["Country code", "Firm_Energy", "VRE_Energy", "Operating_Margin"]]
+        ifi_data = ifi_data.loc[~(ifi_data["Country code"].isnull())]
 
         # Extract data from GEM project
-        gem = self.gem_data[["ISO", "Type", "Capacity (MW)"]]
+        gem = self.gem_data[["ISO", "Type", "Capacity (MW)", "Status"]]
         gem["Capacity (MW)"] = gem["Capacity (MW)"].astype(float)
-        grouped_gem = gem .groupby(["ISO", "Type"])["Capacity (MW)"].agg("sum").reset_index()
+        gem = gem.loc[gem["Status"].isin(["announced", "construction", "pre-construction"])]
+        grouped_gem = gem.drop(columns="Status").groupby(["ISO", "Type"])["Capacity (MW)"].agg("sum").reset_index()
 
         # Extract renewables planned capacity
-        renewables_gem = grouped_gem.loc[grouped_gem["Type"].isin(["solar", "wind"])].rename(columns={"Capacity (MW)": "Renewable_Capacity"})
+        renewables_gem = grouped_gem.loc[grouped_gem["Type"].isin(["utility-scale solar", "wind", "geothermal", "hydropower", "bioenergy"])].rename(columns={"Capacity (MW)": "Renewable_Capacity"})
         renewables_gem = renewables_gem[["ISO", "Renewable_Capacity"]].groupby("ISO").agg("sum").reset_index()
-        oil_gas_gem = grouped_gem.loc[grouped_gem["Type"] == "oil/gas"].rename(columns={"Capacity (MW)": "Fossil_Capacity"})
+        fossil_gem = (
+            grouped_gem[grouped_gem["Type"].isin(["oil/gas", "coal"])]
+                .groupby("ISO", as_index=False)["Capacity (MW)"].sum()
+                .rename(columns={"Capacity (MW)": "Fossil_Capacity"})
+        )
 
         # Merge together
-        merged_gem = pd.merge(renewables_gem, oil_gas_gem, how="outer", on="ISO")
-        merged_gem["Fossil_Renewable"] = merged_gem["Fossil_Capacity"] / merged_gem["Renewable_Capacity"]
+        merged_gem = pd.merge(renewables_gem, fossil_gem, how="outer", on="ISO")
         merged_gem["Country code"] = merged_gem["ISO"]
+        merged_gem.drop(columns=["ISO"], inplace=True)
+
+        # Address empty rows
+        merged_gem["Renewable_Capacity"].fillna(0, inplace=True)
+        merged_gem["Fossil_Capacity"].fillna(0, inplace=True)
+        merged_gem["Fossil_Share_Planned"] = merged_gem["Fossil_Capacity"] / (merged_gem["Renewable_Capacity"] + merged_gem["Fossil_Capacity"])
 
         # Merge onto IFI data
-        ifi_data = ifi_data.merge(merged_gem[["Country code", "Fossil_Renewable"]], how="left", on="Country code")
-        ifi_data = ifi_data.merge(merged_gem[["Country code", "Fossil_Capacity"]], how="left", on="Country code")
-        ifi_data["Additionality_Factor"] = ifi_data["Fossil_Renewable"].clip(upper=1, lower=0.1).fillna(1)
+        ifi_data = ifi_data.merge(merged_gem[["Country code", "Fossil_Share_Planned", "Fossil_Capacity", "Renewable_Capacity"]], how="outer", on="Country code")
+        ifi_data["Additionality_Factor"] = ifi_data["Fossil_Share_Planned"].clip(upper=1, lower=0.01).fillna(1)
+        ifi_data.loc[ifi_data["Fossil_Share_Planned"].isnull() & ifi_data["Additionality_Factor"] == 1, "No_Data_Fallback_Applied"] = "Y"
+        ifi_data.loc[ifi_data["Fossil_Share_Planned"] < 0.01, "Floor_Applied"] = "Y"
+        ifi_data["GEM_Version"] = "September-2026"
+
+        # Store results
+        ifi_data.to_csv("GEM_IFI_Additionality_Factors_Logging.csv")
 
         # Extract ember data for countries without data
         ember_CI = self.extract_ci()
         ifi_data = ifi_data.merge(ember_CI, how="left", on="Country code")
 
-        # Replace VRE_Energy and Build Margin with electricity carbon intensity if below
-        ifi_data.loc[ifi_data["VRE_Energy"] < 10, "VRE_Energy"] = ifi_data["Electricity_CI"]
-        ifi_data.loc[ifi_data["Build_Margin"] < 10, "Build_Margin"] = np.nanmedian(ifi_data["Build_Margin"])
-
         # Calculate emissions factor
         vre_factor = 0.75
         firm_factor = 0.33
 
+        # Calculate operating margin
+        ifi_data["Operating_Margin"] = ifi_data["Operating_Margin"]
+        ifi_data["Build_Margin_VRE"] = (ifi_data["VRE_Energy"] - (vre_factor) * ifi_data["Operating_Margin"]) / (1 - vre_factor)
+        ifi_data["Build_Margin_Firm"] = (ifi_data["Firm_Energy"] - (firm_factor) * ifi_data["Operating_Margin"]) / (1 - firm_factor)
+        ifi_data["Build_Margin_Check"] = (ifi_data["Build_Margin_VRE"] - ifi_data["Build_Margin_Firm"])
+        average_diff = np.nanmean(ifi_data["Build_Margin_Check"])
+        print(f"IFI Calculations for Build Margin average a {average_diff} difference")
+        ifi_data["Build_Margin"] = ifi_data["Build_Margin_VRE"]
+
         # Apply without additionality
-        ifi_data["IFI_Emissions_Factor_VRE"] =  (ifi_data["VRE_Energy"] * (vre_factor) + (1 - vre_factor) * ifi_data["Build_Margin"])
-        ifi_data["IFI_Emissions_Factor_Firm"] = (
-                    ifi_data["Firm_Energy"] * (firm_factor) + (1 - firm_factor)  * ifi_data["Build_Margin"])
+        ifi_data["IFI_Emissions_Factor_VRE"] = ifi_data["VRE_Energy"]
+        ifi_data["IFI_Emissions_Factor_Firm"] = ifi_data["Firm_Energy"]
 
         # Calculate with additionality
-        ifi_data["IFI_Emissions_Factor_VRE_AF"] = ifi_data["Additionality_Factor"] * (
-                    ifi_data["VRE_Energy"] * (vre_factor) + (1 - vre_factor) * ifi_data["Build_Margin"])
-        ifi_data["IFI_Emissions_Factor_Firm_AF"] = ifi_data["Additionality_Factor"] * (
-                ifi_data["Firm_Energy"] * (firm_factor) + (1 - firm_factor) * ifi_data["Build_Margin"])
+        ifi_data["IFI_Emissions_Factor_VRE_AF"] = ifi_data["Additionality_Factor"] * ifi_data["VRE_Energy"]
+        ifi_data["IFI_Emissions_Factor_Firm_AF"] = ifi_data["Additionality_Factor"] * ifi_data["Firm_Energy"]
+        ifi_data["Electricity_CI_AF"] = ifi_data["Additionality_Factor"] * ifi_data["Electricity_CI"]
 
         # Get columns required
-        ifi_data_subset = ifi_data
+        ifi_data_subset = ifi_data[["Country code", "Electricity_CI","Electricity_CI_AF", "IFI_Emissions_Factor_VRE", "IFI_Emissions_Factor_Firm",
+                                    "IFI_Emissions_Factor_VRE_AF", "IFI_Emissions_Factor_Firm_AF",
+                                    "Additionality_Factor", "Operating_Margin", "Build_Margin_VRE", "Build_Margin_Firm"]]
 
         # Merge onto country mapping
         ifi_data_mapping = pd.merge(self.postprocessor.country_mapping, ifi_data_subset, how="left", on="Country code")
@@ -352,11 +383,8 @@ class AbatementEstimator:
         country_emissions = self.extract_emissions(self.carbon_intensity)
         country_emissions = country_emissions["emissions"]
 
-        # 3. Calculate abatement costs
+        # 3. Calculate abatement costs with and without additionality
         results_with_abatement = self.calculate_IFI_abatement(country_IFI, results, country_emissions, technology_type=technology_type)
-
-        # 4. Calculate with additionality abatement
-        results_with_abatement = self.calculate_IFI_abatement(country_IFI, results_with_abatement, country_emissions, technology_type=technology_type, additionality="Future")
 
         return results_with_abatement
     

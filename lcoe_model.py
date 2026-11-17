@@ -73,6 +73,7 @@ class LCOEEstimator:
         self.ren_mapping = pd.read_excel(data_path + "Renewable_Inputs.xlsx", sheet_name="MAPPING")
         self.geothermal_potential = pd.read_csv(data_path + "Geothermal_allPlacements.csv")
         self.bio_potential = rxr.open_rasterio(data_path +"Biomass_crop_residue_ton.tif")
+        self.inflation_converter = 1.043 * 1.057 # USD 2024 to USD 2026
         
         # Read in costs and assumptions
         self.economic_parameters = pd.read_csv(data_path + economic_parameters)
@@ -445,7 +446,7 @@ class LCOEEstimator:
             return locational_waccs
         
         # Set inflation factor to convert from 2024 USD to 2026
-        inflation_factor = 1.057 * 1.043
+        inflation_factor = self.inflation_converter
 
         # Extract country grids
         if technology == "Offshore Wind":
@@ -1161,7 +1162,7 @@ class LCOEEstimator:
             raise ValueError("annual_om_pct must be >= 0")
 
         # CRF (special case r = 0)
-        inflation_factor = 1.057 * 1.043
+        inflation_factor = self.inflation_converter
         crf = np.where(
             r == 0,
             1 / lifetime,
@@ -1420,8 +1421,8 @@ class LCOEEstimator:
 
 
         # Set benchmark
-        #benchmark=[30, 40, 50, 60, 70]
-        benchmark = [50]
+        benchmark=[30, 40, 50, 60, 70]
+        #benchmark = [50]
 
         # Calculate LCOE using predicted WACCs and regional costs, alongside a uniform calculation
         self.solar_lcoe = self.calculate_lcoe_v4(self.solar_processed, technology="Solar")
@@ -1439,7 +1440,7 @@ class LCOEEstimator:
                                                   carbon_intensity=self.carbon_intensity, geodata_class=self.geodata,
                                                   postprocessor=self.postprocessor, ember_data=self.ember_data,
                                                   IFI_data="./DATA/IFI Grid Factors.csv",
-                                                  GEM_data="./DATA/Global-Integrated-Power-February-2026.csv")
+                                                  GEM_data="./DATA/Global-Integrated-Power-September-2026.csv")
         self.solar_lcoe, self.wind_lcoe = self.abatement_class.abatement_model_pipeline()
         # Calculate for all
         self.solar_lcoe = process_result(self.solar_lcoe, benchmark=benchmark, technology="Solar")
@@ -1453,7 +1454,7 @@ class LCOEEstimator:
         filenames=["Geothermal", "Hydro", "Bioenergy", "Wind", "Solar", "Full_Cheapest"]
         for i, results in enumerate([self.geothermal_lcoe, self.hydro_lcoe, self.bioenergy_lcoe, self.wind_lcoe, self.solar_lcoe, cheapest_technology]):
             name = filenames[i]
-            results.to_netcdf("./RESULTS/FullResults_" + name + ".nc")
+            results.to_netcdf("./RESULTS/CHECKFINALFullResults_" + name + ".nc")
         
         
         
