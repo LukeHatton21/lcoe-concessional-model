@@ -1,0 +1,15 @@
+Parameter,Value
+renewables_capacity,1000
+renew_discount_rate, 0.097 
+solar_op_cost,0.023
+onshore_op_cost,0.026
+offshore_op_cost, 0.03
+wind_capex, 1274
+solar_capex, 876
+land_foundations, 115
+lifetime, 20
+turbine_diameter, 100
+turbine_rating, 10000
+battery_cost, 2526
+battery_duration, 8
+battery_power_relative, 0.05

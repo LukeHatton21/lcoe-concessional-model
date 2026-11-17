@@ -1,0 +1,2320 @@
+﻿country,region,Country code,year,segment,price
+Albania,Europe,ALB,2019,Average,127.71
+Albania,Europe,ALB,2020,Average,129.56
+Albania,Europe,ALB,2021,Average,135.6
+Albania,Europe,ALB,2022,Average,124.24
+Albania,Europe,ALB,2023,Average,139.81
+Albania,Europe,ALB,2024,Average,150.44
+Albania,Europe,ALB,2019,Commercial,139.71
+Albania,Europe,ALB,2020,Commercial,141.83
+Albania,Europe,ALB,2021,Commercial,148.37
+Albania,Europe,ALB,2022,Commercial,135.94
+Albania,Europe,ALB,2023,Commercial,152.98
+Albania,Europe,ALB,2024,Commercial,165.2
+Albania,Europe,ALB,2019,Industrial,139.71
+Albania,Europe,ALB,2020,Industrial,141.83
+Albania,Europe,ALB,2021,Industrial,148.37
+Albania,Europe,ALB,2022,Industrial,135.94
+Albania,Europe,ALB,2023,Industrial,152.98
+Albania,Europe,ALB,2024,Industrial,165.2
+Albania,Europe,ALB,2019,Residential,103.72
+Albania,Europe,ALB,2020,Residential,105.01
+Albania,Europe,ALB,2021,Residential,110.07
+Albania,Europe,ALB,2022,Residential,100.85
+Albania,Europe,ALB,2023,Residential,113.46
+Albania,Europe,ALB,2024,Residential,120.92
+Albania,Europe,ALB,2023,Wholesale,108.37
+Albania,Europe,ALB,2024,Wholesale,121.21
+Algeria,Africa,DZA,2019,Average,29.34
+Algeria,Africa,DZA,2020,Average,27.63
+Algeria,Africa,DZA,2021,Average,28.85
+Algeria,Africa,DZA,2022,Average,27.55
+Algeria,Africa,DZA,2023,Average,28.95
+Algeria,Africa,DZA,2024,Average,30.57
+Algeria,Africa,DZA,2019,Commercial,36.6
+Algeria,Africa,DZA,2020,Commercial,34.47
+Algeria,Africa,DZA,2021,Commercial,33.9
+Algeria,Africa,DZA,2022,Commercial,32.6
+Algeria,Africa,DZA,2023,Commercial,34.47
+Algeria,Africa,DZA,2024,Commercial,36.41
+Algeria,Africa,DZA,2019,Industrial,14.82
+Algeria,Africa,DZA,2020,Industrial,13.96
+Algeria,Africa,DZA,2021,Industrial,13.11
+Algeria,Africa,DZA,2022,Industrial,12.46
+Algeria,Africa,DZA,2023,Industrial,13.04
+Algeria,Africa,DZA,2024,Industrial,14.7
+Algeria,Africa,DZA,2019,Residential,36.6
+Algeria,Africa,DZA,2020,Residential,34.47
+Algeria,Africa,DZA,2021,Residential,39.54
+Algeria,Africa,DZA,2022,Residential,37.58
+Algeria,Africa,DZA,2023,Residential,39.33
+Algeria,Africa,DZA,2024,Residential,40.59
+Angola,Africa,AGO,2019,Average,27.06
+Angola,Africa,AGO,2020,Average,17.13
+Angola,Africa,AGO,2021,Average,15.72
+Angola,Africa,AGO,2022,Average,21.52
+Angola,Africa,AGO,2023,Average,14.24
+Angola,Africa,AGO,2024,Average,11.61
+Angola,Africa,AGO,2019,Commercial,31.5
+Angola,Africa,AGO,2020,Commercial,19.94
+Angola,Africa,AGO,2021,Commercial,18.3
+Angola,Africa,AGO,2022,Commercial,25.05
+Angola,Africa,AGO,2023,Commercial,16.58
+Angola,Africa,AGO,2024,Commercial,13.1
+Angola,Africa,AGO,2019,Industrial,19.95
+Angola,Africa,AGO,2020,Industrial,12.63
+Angola,Africa,AGO,2021,Industrial,11.59
+Angola,Africa,AGO,2022,Industrial,15.87
+Angola,Africa,AGO,2023,Industrial,10.5
+Angola,Africa,AGO,2024,Industrial,8.3
+Angola,Africa,AGO,2019,Residential,29.72
+Angola,Africa,AGO,2020,Residential,18.82
+Angola,Africa,AGO,2021,Residential,17.27
+Angola,Africa,AGO,2022,Residential,23.64
+Angola,Africa,AGO,2023,Residential,15.64
+Angola,Africa,AGO,2024,Residential,13.43
+Argentina,Latin America,ARG,2019,Average,98.46
+Argentina,Latin America,ARG,2020,Average,69.13
+Argentina,Latin America,ARG,2021,Average,63.41
+Argentina,Latin America,ARG,2022,Average,100.02
+Argentina,Latin America,ARG,2023,Average,93.46
+Argentina,Latin America,ARG,2024,Average,100.51
+Argentina,Latin America,ARG,2019,Commercial,115.33
+Argentina,Latin America,ARG,2020,Commercial,80.41
+Argentina,Latin America,ARG,2021,Commercial,75.17
+Argentina,Latin America,ARG,2022,Commercial,108.67
+Argentina,Latin America,ARG,2023,Commercial,95.99
+Argentina,Latin America,ARG,2024,Commercial,161.81
+Argentina,Latin America,ARG,2019,Industrial,92.63
+Argentina,Latin America,ARG,2020,Industrial,66.18
+Argentina,Latin America,ARG,2021,Industrial,59.36
+Argentina,Latin America,ARG,2022,Industrial,95.61
+Argentina,Latin America,ARG,2023,Industrial,90.92
+Argentina,Latin America,ARG,2024,Industrial,84.87
+Argentina,Latin America,ARG,2019,Residential,87.42
+Argentina,Latin America,ARG,2020,Residential,60.79
+Argentina,Latin America,ARG,2021,Residential,55.71
+Argentina,Latin America,ARG,2022,Residential,95.79
+Argentina,Latin America,ARG,2023,Residential,93.46
+Argentina,Latin America,ARG,2024,Residential,54.86
+Armenia,Asia-Pacific,ARM,2019,Average,75.23
+Armenia,Asia-Pacific,ARM,2020,Average,73.95
+Armenia,Asia-Pacific,ARM,2021,Average,87.06
+Armenia,Asia-Pacific,ARM,2022,Average,113.78
+Armenia,Asia-Pacific,ARM,2023,Average,126.25
+Armenia,Asia-Pacific,ARM,2024,Average,116.75
+Armenia,Asia-Pacific,ARM,2019,Commercial,76.97
+Armenia,Asia-Pacific,ARM,2020,Commercial,75.65
+Armenia,Asia-Pacific,ARM,2021,Commercial,90.38
+Armenia,Asia-Pacific,ARM,2022,Commercial,111.48
+Armenia,Asia-Pacific,ARM,2023,Commercial,123.7
+Armenia,Asia-Pacific,ARM,2024,Commercial,128.64
+Armenia,Asia-Pacific,ARM,2019,Industrial,65.52
+Armenia,Asia-Pacific,ARM,2020,Industrial,64.4
+Armenia,Asia-Pacific,ARM,2021,Industrial,84.41
+Armenia,Asia-Pacific,ARM,2022,Industrial,122.98
+Armenia,Asia-Pacific,ARM,2023,Industrial,136.46
+Armenia,Asia-Pacific,ARM,2024,Industrial,106.98
+Armenia,Asia-Pacific,ARM,2019,Residential,83.21
+Armenia,Asia-Pacific,ARM,2020,Residential,81.79
+Armenia,Asia-Pacific,ARM,2021,Residential,86.4
+Armenia,Asia-Pacific,ARM,2022,Residential,106.88
+Armenia,Asia-Pacific,ARM,2023,Residential,118.6
+Armenia,Asia-Pacific,ARM,2024,Residential,114.62
+Armenia,Asia-Pacific,ARM,2022,Wholesale,122.98
+Armenia,Asia-Pacific,ARM,2023,Wholesale,136.46
+Armenia,Asia-Pacific,ARM,2024,Wholesale,136.28
+Azerbaijan,Asia-Pacific,AZE,2019,Average,49.04
+Azerbaijan,Asia-Pacific,AZE,2020,Average,49.04
+Azerbaijan,Asia-Pacific,AZE,2021,Average,52.97
+Azerbaijan,Asia-Pacific,AZE,2022,Average,58.96
+Azerbaijan,Asia-Pacific,AZE,2023,Average,58.91
+Azerbaijan,Asia-Pacific,AZE,2024,Average,58.06
+Azerbaijan,Asia-Pacific,AZE,2019,Commercial,52.96
+Azerbaijan,Asia-Pacific,AZE,2020,Commercial,52.96
+Azerbaijan,Asia-Pacific,AZE,2021,Commercial,52.97
+Azerbaijan,Asia-Pacific,AZE,2022,Commercial,64.86
+Azerbaijan,Asia-Pacific,AZE,2023,Commercial,64.8
+Azerbaijan,Asia-Pacific,AZE,2024,Commercial,62.37
+Azerbaijan,Asia-Pacific,AZE,2019,Industrial,52.96
+Azerbaijan,Asia-Pacific,AZE,2020,Industrial,52.96
+Azerbaijan,Asia-Pacific,AZE,2021,Industrial,52.97
+Azerbaijan,Asia-Pacific,AZE,2022,Industrial,64.86
+Azerbaijan,Asia-Pacific,AZE,2023,Industrial,64.8
+Azerbaijan,Asia-Pacific,AZE,2024,Industrial,62.37
+Azerbaijan,Asia-Pacific,AZE,2019,Residential,41.19
+Azerbaijan,Asia-Pacific,AZE,2020,Residential,41.19
+Azerbaijan,Asia-Pacific,AZE,2021,Residential,52.97
+Azerbaijan,Asia-Pacific,AZE,2022,Residential,47.17
+Azerbaijan,Asia-Pacific,AZE,2023,Residential,47.13
+Azerbaijan,Asia-Pacific,AZE,2024,Residential,49.43
+Bangladesh,Asia-Pacific,BGD,2019,Average,93.81
+Bangladesh,Asia-Pacific,BGD,2020,Average,99.18
+Bangladesh,Asia-Pacific,BGD,2021,Average,97.83
+Bangladesh,Asia-Pacific,BGD,2022,Average,89.02
+Bangladesh,Asia-Pacific,BGD,2023,Average,83.94
+Bangladesh,Asia-Pacific,BGD,2024,Average,95.51
+Bangladesh,Asia-Pacific,BGD,2019,Commercial,122.14
+Bangladesh,Asia-Pacific,BGD,2020,Commercial,125.8
+Bangladesh,Asia-Pacific,BGD,2021,Commercial,122
+Bangladesh,Asia-Pacific,BGD,2022,Commercial,111.02
+Bangladesh,Asia-Pacific,BGD,2023,Commercial,97.74
+Bangladesh,Asia-Pacific,BGD,2024,Commercial,100.8
+Bangladesh,Asia-Pacific,BGD,2019,Industrial,95.46
+Bangladesh,Asia-Pacific,BGD,2020,Industrial,101.54
+Bangladesh,Asia-Pacific,BGD,2021,Industrial,98.92
+Bangladesh,Asia-Pacific,BGD,2022,Industrial,90.01
+Bangladesh,Asia-Pacific,BGD,2023,Industrial,89.68
+Bangladesh,Asia-Pacific,BGD,2024,Industrial,94.3
+Bangladesh,Asia-Pacific,BGD,2019,Residential,63.83
+Bangladesh,Asia-Pacific,BGD,2020,Residential,70.21
+Bangladesh,Asia-Pacific,BGD,2021,Residential,72.56
+Bangladesh,Asia-Pacific,BGD,2022,Residential,66.03
+Bangladesh,Asia-Pacific,BGD,2023,Residential,64.39
+Bangladesh,Asia-Pacific,BGD,2024,Residential,91.44
+Bangladesh,Asia-Pacific,BGD,2019,Wholesale,93.81
+Bangladesh,Asia-Pacific,BGD,2020,Wholesale,99.18
+Bangladesh,Asia-Pacific,BGD,2021,Wholesale,97.83
+Bangladesh,Asia-Pacific,BGD,2022,Wholesale,89.02
+Bangladesh,Asia-Pacific,BGD,2023,Wholesale,83.94
+Bangladesh,Asia-Pacific,BGD,2024,Wholesale,95.51
+Benin,Africa,BEN,2019,Average,168.77
+Benin,Africa,BEN,2020,Average,194.06
+Benin,Africa,BEN,2021,Average,219.42
+Benin,Africa,BEN,2022,Average,195.12
+Benin,Africa,BEN,2023,Average,200.75
+Benin,Africa,BEN,2024,Average,200.81
+Benin,Africa,BEN,2019,Commercial,174.64
+Benin,Africa,BEN,2020,Commercial,203.91
+Benin,Africa,BEN,2021,Commercial,228.23
+Benin,Africa,BEN,2022,Commercial,202.96
+Benin,Africa,BEN,2023,Commercial,208.81
+Benin,Africa,BEN,2024,Commercial,208.87
+Benin,Africa,BEN,2019,Industrial,160.16
+Benin,Africa,BEN,2020,Industrial,189.43
+Benin,Africa,BEN,2021,Industrial,214.42
+Benin,Africa,BEN,2022,Industrial,190.67
+Benin,Africa,BEN,2023,Industrial,196.17
+Benin,Africa,BEN,2024,Industrial,196.23
+Benin,Africa,BEN,2019,Residential,171.52
+Benin,Africa,BEN,2020,Residential,188.85
+Benin,Africa,BEN,2021,Residential,215.62
+Benin,Africa,BEN,2022,Residential,191.74
+Benin,Africa,BEN,2023,Residential,197.27
+Benin,Africa,BEN,2024,Residential,197.33
+Bolivia,Latin America,BOL,2019,Average,16.14
+Bolivia,Latin America,BOL,2020,Average,16.39
+Bolivia,Latin America,BOL,2021,Average,15.56
+Bolivia,Latin America,BOL,2022,Average,16
+Bolivia,Latin America,BOL,2023,Average,16.4
+Bolivia,Latin America,BOL,2024,Average,16.39
+Bolivia,Latin America,BOL,2019,Commercial,21.06
+Bolivia,Latin America,BOL,2020,Commercial,21.8
+Bolivia,Latin America,BOL,2021,Commercial,20.3
+Bolivia,Latin America,BOL,2022,Commercial,20.92
+Bolivia,Latin America,BOL,2023,Commercial,21.42
+Bolivia,Latin America,BOL,2024,Commercial,21.41
+Bolivia,Latin America,BOL,2019,Industrial,12.25
+Bolivia,Latin America,BOL,2020,Industrial,12.24
+Bolivia,Latin America,BOL,2021,Industrial,11.64
+Bolivia,Latin America,BOL,2022,Industrial,11.72
+Bolivia,Latin America,BOL,2023,Industrial,11.84
+Bolivia,Latin America,BOL,2024,Industrial,11.84
+Bolivia,Latin America,BOL,2019,Residential,15.12
+Bolivia,Latin America,BOL,2020,Residential,15.12
+Bolivia,Latin America,BOL,2021,Residential,14.74
+Bolivia,Latin America,BOL,2022,Residential,15.36
+Bolivia,Latin America,BOL,2023,Residential,15.93
+Bolivia,Latin America,BOL,2024,Residential,15.92
+Bolivia,Latin America,BOL,2019,Wholesale,2.73
+Bolivia,Latin America,BOL,2020,Wholesale,2.71
+Bolivia,Latin America,BOL,2021,Wholesale,2.26
+Bolivia,Latin America,BOL,2022,Wholesale,2.31
+Bolivia,Latin America,BOL,2023,Wholesale,2.36
+Bolivia,Latin America,BOL,2024,Wholesale,2.36
+Bosnia and Herzegovina,Europe,BIH,2019,Average,97.43
+Bosnia and Herzegovina,Europe,BIH,2020,Average,102.46
+Bosnia and Herzegovina,Europe,BIH,2021,Average,105.29
+Bosnia and Herzegovina,Europe,BIH,2022,Average,103.11
+Bosnia and Herzegovina,Europe,BIH,2023,Average,109.88
+Bosnia and Herzegovina,Europe,BIH,2024,Average,112.23
+Bosnia and Herzegovina,Europe,BIH,2019,Commercial,114.82
+Bosnia and Herzegovina,Europe,BIH,2020,Commercial,120.91
+Bosnia and Herzegovina,Europe,BIH,2021,Commercial,123.07
+Bosnia and Herzegovina,Europe,BIH,2022,Commercial,116.83
+Bosnia and Herzegovina,Europe,BIH,2023,Commercial,124.19
+Bosnia and Herzegovina,Europe,BIH,2024,Commercial,127.17
+Bosnia and Herzegovina,Europe,BIH,2019,Industrial,79.86
+Bosnia and Herzegovina,Europe,BIH,2020,Industrial,85.56
+Bosnia and Herzegovina,Europe,BIH,2021,Industrial,89.81
+Bosnia and Herzegovina,Europe,BIH,2022,Industrial,98.96
+Bosnia and Herzegovina,Europe,BIH,2023,Industrial,112.51
+Bosnia and Herzegovina,Europe,BIH,2024,Industrial,115.66
+Bosnia and Herzegovina,Europe,BIH,2019,Residential,97.62
+Bosnia and Herzegovina,Europe,BIH,2020,Residential,100.91
+Bosnia and Herzegovina,Europe,BIH,2021,Residential,102.98
+Bosnia and Herzegovina,Europe,BIH,2022,Residential,93.55
+Bosnia and Herzegovina,Europe,BIH,2023,Residential,92.94
+Bosnia and Herzegovina,Europe,BIH,2024,Residential,93.85
+Botswana,Africa,BWA,2019,Average,111.23
+Botswana,Africa,BWA,2020,Average,110.26
+Botswana,Africa,BWA,2021,Average,119.55
+Botswana,Africa,BWA,2022,Average,113.57
+Botswana,Africa,BWA,2023,Average,107.48
+Botswana,Africa,BWA,2024,Average,111.32
+Botswana,Africa,BWA,2019,Commercial,113.59
+Botswana,Africa,BWA,2020,Commercial,116.3
+Botswana,Africa,BWA,2021,Commercial,126.1
+Botswana,Africa,BWA,2022,Commercial,119.79
+Botswana,Africa,BWA,2023,Commercial,112.72
+Botswana,Africa,BWA,2024,Commercial,116.75
+Botswana,Africa,BWA,2019,Industrial,116.37
+Botswana,Africa,BWA,2020,Industrial,114.65
+Botswana,Africa,BWA,2021,Industrial,124.31
+Botswana,Africa,BWA,2022,Industrial,118.1
+Botswana,Africa,BWA,2023,Industrial,114.88
+Botswana,Africa,BWA,2024,Industrial,118.98
+Botswana,Africa,BWA,2019,Residential,103.73
+Botswana,Africa,BWA,2020,Residential,99.83
+Botswana,Africa,BWA,2021,Residential,108.24
+Botswana,Africa,BWA,2022,Residential,102.83
+Botswana,Africa,BWA,2023,Residential,94.83
+Botswana,Africa,BWA,2024,Residential,98.22
+Brazil,Latin America,BRA,2019,Average,132.85
+Brazil,Latin America,BRA,2020,Average,101.3
+Brazil,Latin America,BRA,2021,Average,114.25
+Brazil,Latin America,BRA,2022,Average,125.62
+Brazil,Latin America,BRA,2023,Average,131.03
+Brazil,Latin America,BRA,2024,Average,129.73
+Brazil,Latin America,BRA,2019,Commercial,137.08
+Brazil,Latin America,BRA,2020,Commercial,105.72
+Brazil,Latin America,BRA,2021,Commercial,119.35
+Brazil,Latin America,BRA,2022,Commercial,133.04
+Brazil,Latin America,BRA,2023,Commercial,138.34
+Brazil,Latin America,BRA,2024,Commercial,136.19
+Brazil,Latin America,BRA,2019,Industrial,121.77
+Brazil,Latin America,BRA,2020,Industrial,93.34
+Brazil,Latin America,BRA,2021,Industrial,106.62
+Brazil,Latin America,BRA,2022,Industrial,117.23
+Brazil,Latin America,BRA,2023,Industrial,122.67
+Brazil,Latin America,BRA,2024,Industrial,124.09
+Brazil,Latin America,BRA,2019,Residential,139.68
+Brazil,Latin America,BRA,2020,Residential,104.84
+Brazil,Latin America,BRA,2021,Residential,116.77
+Brazil,Latin America,BRA,2022,Residential,126.59
+Brazil,Latin America,BRA,2023,Residential,132.08
+Brazil,Latin America,BRA,2024,Residential,128.9
+Brazil,Latin America,BRA,2019,Wholesale,48.62
+Brazil,Latin America,BRA,2020,Wholesale,32
+Brazil,Latin America,BRA,2021,Wholesale,50.79
+Brazil,Latin America,BRA,2022,Wholesale,11.37
+Brazil,Latin America,BRA,2023,Wholesale,14.45
+Brazil,Latin America,BRA,2024,Wholesale,23.71
+Bulgaria,Europe,BGR,2019,Average,115.42
+Bulgaria,Europe,BGR,2020,Average,115.21
+Bulgaria,Europe,BGR,2021,Average,156.86
+Bulgaria,Europe,BGR,2022,Average,188.32
+Bulgaria,Europe,BGR,2023,Average,169.15
+Bulgaria,Europe,BGR,2024,Average,155.32
+Bulgaria,Europe,BGR,2019,Commercial,130.4
+Bulgaria,Europe,BGR,2020,Commercial,129.24
+Bulgaria,Europe,BGR,2021,Commercial,181.75
+Bulgaria,Europe,BGR,2022,Commercial,241.5
+Bulgaria,Europe,BGR,2023,Commercial,202.65
+Bulgaria,Europe,BGR,2024,Commercial,178.75
+Bulgaria,Europe,BGR,2019,Industrial,106.44
+Bulgaria,Europe,BGR,2020,Industrial,103.56
+Bulgaria,Europe,BGR,2021,Industrial,163.81
+Bulgaria,Europe,BGR,2022,Industrial,205.74
+Bulgaria,Europe,BGR,2023,Industrial,178.81
+Bulgaria,Europe,BGR,2024,Industrial,157.57
+Bulgaria,Europe,BGR,2019,Residential,109.41
+Bulgaria,Europe,BGR,2020,Residential,112.82
+Bulgaria,Europe,BGR,2021,Residential,125.01
+Bulgaria,Europe,BGR,2022,Residential,117.7
+Bulgaria,Europe,BGR,2023,Residential,125.98
+Bulgaria,Europe,BGR,2024,Residential,129.65
+Bulgaria,Europe,BGR,2019,Wholesale,27.17
+Bulgaria,Europe,BGR,2020,Wholesale,22.9
+Bulgaria,Europe,BGR,2021,Wholesale,65.69
+Bulgaria,Europe,BGR,2022,Wholesale,135.87
+Bulgaria,Europe,BGR,2023,Wholesale,57.41
+Bulgaria,Europe,BGR,2024,Wholesale,56.71
+Burkina Faso,Africa,BFA,2019,Average,190.32
+Burkina Faso,Africa,BFA,2020,Average,184.21
+Burkina Faso,Africa,BFA,2021,Average,394.14
+Burkina Faso,Africa,BFA,2022,Average,356.92
+Burkina Faso,Africa,BFA,2023,Average,198.5
+Burkina Faso,Africa,BFA,2024,Average,211.87
+Burkina Faso,Africa,BFA,2019,Commercial,190.32
+Burkina Faso,Africa,BFA,2020,Commercial,187.69
+Burkina Faso,Africa,BFA,2021,Commercial,480
+Burkina Faso,Africa,BFA,2022,Commercial,436.54
+Burkina Faso,Africa,BFA,2023,Commercial,196.01
+Burkina Faso,Africa,BFA,2024,Commercial,216.02
+Burkina Faso,Africa,BFA,2019,Industrial,190.32
+Burkina Faso,Africa,BFA,2020,Industrial,198.12
+Burkina Faso,Africa,BFA,2021,Industrial,480
+Burkina Faso,Africa,BFA,2022,Industrial,436.54
+Burkina Faso,Africa,BFA,2023,Industrial,196.01
+Burkina Faso,Africa,BFA,2024,Industrial,216.02
+Burkina Faso,Africa,BFA,2019,Residential,190.32
+Burkina Faso,Africa,BFA,2020,Residential,166.84
+Burkina Faso,Africa,BFA,2021,Residential,222.42
+Burkina Faso,Africa,BFA,2022,Residential,197.67
+Burkina Faso,Africa,BFA,2023,Residential,203.49
+Burkina Faso,Africa,BFA,2024,Residential,203.57
+Burundi,Africa,BDI,2019,Average,181.05
+Burundi,Africa,BDI,2020,Average,174.28
+Burundi,Africa,BDI,2021,Average,169.05
+Burundi,Africa,BDI,2022,Average,163.68
+Burundi,Africa,BDI,2023,Average,133.39
+Burundi,Africa,BDI,2024,Average,116.01
+Burundi,Africa,BDI,2019,Commercial,169.66
+Burundi,Africa,BDI,2020,Commercial,163.32
+Burundi,Africa,BDI,2021,Commercial,158.43
+Burundi,Africa,BDI,2022,Commercial,153.39
+Burundi,Africa,BDI,2023,Commercial,125.01
+Burundi,Africa,BDI,2024,Commercial,108.72
+Burundi,Africa,BDI,2019,Industrial,216.28
+Burundi,Africa,BDI,2020,Industrial,208.19
+Burundi,Africa,BDI,2021,Industrial,201.95
+Burundi,Africa,BDI,2022,Industrial,195.54
+Burundi,Africa,BDI,2023,Industrial,159.35
+Burundi,Africa,BDI,2024,Industrial,138.59
+Burundi,Africa,BDI,2019,Residential,157.2
+Burundi,Africa,BDI,2020,Residential,151.32
+Burundi,Africa,BDI,2021,Residential,146.78
+Burundi,Africa,BDI,2022,Residential,142.12
+Burundi,Africa,BDI,2023,Residential,115.82
+Burundi,Africa,BDI,2024,Residential,100.73
+Cambodia,Asia-Pacific,KHM,2019,Average,141.42
+Cambodia,Asia-Pacific,KHM,2020,Average,140.54
+Cambodia,Asia-Pacific,KHM,2021,Average,137.64
+Cambodia,Asia-Pacific,KHM,2022,Average,137.47
+Cambodia,Asia-Pacific,KHM,2023,Average,137.27
+Cambodia,Asia-Pacific,KHM,2024,Average,148.99
+Cambodia,Asia-Pacific,KHM,2019,Commercial,147
+Cambodia,Asia-Pacific,KHM,2020,Commercial,146
+Cambodia,Asia-Pacific,KHM,2021,Commercial,137
+Cambodia,Asia-Pacific,KHM,2022,Commercial,137
+Cambodia,Asia-Pacific,KHM,2023,Commercial,137
+Cambodia,Asia-Pacific,KHM,2024,Commercial,149.81
+Cambodia,Asia-Pacific,KHM,2019,Industrial,159
+Cambodia,Asia-Pacific,KHM,2020,Industrial,158
+Cambodia,Asia-Pacific,KHM,2021,Industrial,158
+Cambodia,Asia-Pacific,KHM,2022,Industrial,158
+Cambodia,Asia-Pacific,KHM,2023,Industrial,158
+Cambodia,Asia-Pacific,KHM,2024,Industrial,179.28
+Cambodia,Asia-Pacific,KHM,2019,Residential,118.27
+Cambodia,Asia-Pacific,KHM,2020,Residential,117.63
+Cambodia,Asia-Pacific,KHM,2021,Residential,117.91
+Cambodia,Asia-Pacific,KHM,2022,Residential,117.42
+Cambodia,Asia-Pacific,KHM,2023,Residential,116.8
+Cambodia,Asia-Pacific,KHM,2024,Residential,117.88
+Cameroon,Africa,CMR,2019,Average,114.47
+Cameroon,Africa,CMR,2020,Average,117.69
+Cameroon,Africa,CMR,2021,Average,160.68
+Cameroon,Africa,CMR,2022,Average,142.87
+Cameroon,Africa,CMR,2023,Average,146.99
+Cameroon,Africa,CMR,2024,Average,147.04
+Cameroon,Africa,CMR,2019,Commercial,132.6
+Cameroon,Africa,CMR,2020,Commercial,136.33
+Cameroon,Africa,CMR,2021,Commercial,178.4
+Cameroon,Africa,CMR,2022,Commercial,158.63
+Cameroon,Africa,CMR,2023,Commercial,163.2
+Cameroon,Africa,CMR,2024,Commercial,163.25
+Cameroon,Africa,CMR,2019,Industrial,126.35
+Cameroon,Africa,CMR,2020,Industrial,129.9
+Cameroon,Africa,CMR,2021,Industrial,158.57
+Cameroon,Africa,CMR,2022,Industrial,141
+Cameroon,Africa,CMR,2023,Industrial,145.07
+Cameroon,Africa,CMR,2024,Industrial,145.11
+Cameroon,Africa,CMR,2019,Residential,84.46
+Cameroon,Africa,CMR,2020,Residential,86.83
+Cameroon,Africa,CMR,2021,Residential,145.06
+Cameroon,Africa,CMR,2022,Residential,128.98
+Cameroon,Africa,CMR,2023,Residential,132.71
+Cameroon,Africa,CMR,2024,Residential,132.74
+Chad,Africa,TCD,2019,Average,166.11
+Chad,Africa,TCD,2020,Average,170.77
+Chad,Africa,TCD,2021,Average,177.19
+Chad,Africa,TCD,2022,Average,157.56
+Chad,Africa,TCD,2023,Average,162.1
+Chad,Africa,TCD,2024,Average,162.15
+Chad,Africa,TCD,2019,Commercial,143.58
+Chad,Africa,TCD,2020,Commercial,147.62
+Chad,Africa,TCD,2021,Commercial,153.17
+Chad,Africa,TCD,2022,Commercial,136.19
+Chad,Africa,TCD,2023,Commercial,140.12
+Chad,Africa,TCD,2024,Commercial,140.16
+Chad,Africa,TCD,2019,Industrial,211.15
+Chad,Africa,TCD,2020,Industrial,217.09
+Chad,Africa,TCD,2021,Industrial,225.25
+Chad,Africa,TCD,2022,Industrial,200.29
+Chad,Africa,TCD,2023,Industrial,206.07
+Chad,Africa,TCD,2024,Industrial,206.12
+Chad,Africa,TCD,2019,Residential,143.58
+Chad,Africa,TCD,2020,Residential,147.62
+Chad,Africa,TCD,2021,Residential,153.17
+Chad,Africa,TCD,2022,Residential,136.19
+Chad,Africa,TCD,2023,Residential,140.12
+Chad,Africa,TCD,2024,Residential,140.16
+Chile,Latin America,CHL,2019,Average,272.64
+Chile,Latin America,CHL,2020,Average,230.34
+Chile,Latin America,CHL,2021,Average,254.76
+Chile,Latin America,CHL,2022,Average,146.13
+Chile,Latin America,CHL,2023,Average,200.11
+Chile,Latin America,CHL,2024,Average,175.78
+Chile,Latin America,CHL,2019,Commercial,312.58
+Chile,Latin America,CHL,2020,Commercial,255.44
+Chile,Latin America,CHL,2021,Commercial,282.53
+Chile,Latin America,CHL,2022,Commercial,160.06
+Chile,Latin America,CHL,2023,Commercial,222.13
+Chile,Latin America,CHL,2024,Commercial,196.2
+Chile,Latin America,CHL,2019,Industrial,226.61
+Chile,Latin America,CHL,2020,Industrial,207.81
+Chile,Latin America,CHL,2021,Industrial,229.82
+Chile,Latin America,CHL,2022,Industrial,132.97
+Chile,Latin America,CHL,2023,Industrial,180.25
+Chile,Latin America,CHL,2024,Industrial,172.39
+Chile,Latin America,CHL,2019,Residential,278.72
+Chile,Latin America,CHL,2020,Residential,227.77
+Chile,Latin America,CHL,2021,Residential,251.92
+Chile,Latin America,CHL,2022,Residential,145.36
+Chile,Latin America,CHL,2023,Residential,197.95
+Chile,Latin America,CHL,2024,Residential,158.76
+Chile,Latin America,CHL,2019,Wholesale,48.7
+Chile,Latin America,CHL,2020,Wholesale,39.6
+Chile,Latin America,CHL,2021,Wholesale,75
+Chile,Latin America,CHL,2022,Wholesale,102
+Chile,Latin America,CHL,2023,Wholesale,78.92
+Chile,Latin America,CHL,2024,Wholesale,85.45
+Colombia,Latin America,COL,2019,Average,129.23
+Colombia,Latin America,COL,2020,Average,126.43
+Colombia,Latin America,COL,2021,Average,135.48
+Colombia,Latin America,COL,2022,Average,145.87
+Colombia,Latin America,COL,2023,Average,164.69
+Colombia,Latin America,COL,2024,Average,227.35
+Colombia,Latin America,COL,2019,Commercial,103.56
+Colombia,Latin America,COL,2020,Commercial,112.88
+Colombia,Latin America,COL,2021,Commercial,120.97
+Colombia,Latin America,COL,2022,Commercial,131.46
+Colombia,Latin America,COL,2023,Commercial,150.83
+Colombia,Latin America,COL,2024,Commercial,241.72
+Colombia,Latin America,COL,2019,Industrial,103.56
+Colombia,Latin America,COL,2020,Industrial,112.88
+Colombia,Latin America,COL,2021,Industrial,120.97
+Colombia,Latin America,COL,2022,Industrial,131.46
+Colombia,Latin America,COL,2023,Industrial,150.83
+Colombia,Latin America,COL,2024,Industrial,241.72
+Colombia,Latin America,COL,2019,Residential,180.56
+Colombia,Latin America,COL,2020,Residential,153.53
+Colombia,Latin America,COL,2021,Residential,164.52
+Colombia,Latin America,COL,2022,Residential,174.67
+Colombia,Latin America,COL,2023,Residential,192.39
+Colombia,Latin America,COL,2024,Residential,198.62
+Colombia,Latin America,COL,2019,Wholesale,70.73
+Colombia,Latin America,COL,2020,Wholesale,69
+Colombia,Latin America,COL,2021,Wholesale,40.32
+Colombia,Latin America,COL,2022,Wholesale,51.27
+Colombia,Latin America,COL,2023,Wholesale,132.53
+Colombia,Latin America,COL,2024,Wholesale,168.41
+Costa Rica,Latin America,CRI,2019,Average,181.82
+Costa Rica,Latin America,CRI,2020,Average,184.91
+Costa Rica,Latin America,CRI,2021,Average,161.67
+Costa Rica,Latin America,CRI,2022,Average,152.14
+Costa Rica,Latin America,CRI,2023,Average,191.96
+Costa Rica,Latin America,CRI,2024,Average,205.26
+Costa Rica,Latin America,CRI,2019,Commercial,197.09
+Costa Rica,Latin America,CRI,2020,Commercial,190.38
+Costa Rica,Latin America,CRI,2021,Commercial,161.88
+Costa Rica,Latin America,CRI,2022,Commercial,164.04
+Costa Rica,Latin America,CRI,2023,Commercial,207.41
+Costa Rica,Latin America,CRI,2024,Commercial,218.87
+Costa Rica,Latin America,CRI,2019,Industrial,188.85
+Costa Rica,Latin America,CRI,2020,Industrial,204.99
+Costa Rica,Latin America,CRI,2021,Industrial,170.95
+Costa Rica,Latin America,CRI,2022,Industrial,161.29
+Costa Rica,Latin America,CRI,2023,Industrial,201.28
+Costa Rica,Latin America,CRI,2024,Industrial,218.28
+Costa Rica,Latin America,CRI,2019,Residential,159.53
+Costa Rica,Latin America,CRI,2020,Residential,159.37
+Costa Rica,Latin America,CRI,2021,Residential,152.18
+Costa Rica,Latin America,CRI,2022,Residential,131.1
+Costa Rica,Latin America,CRI,2023,Residential,167.18
+Costa Rica,Latin America,CRI,2024,Residential,178.62
+Croatia,Europe,HRV,2019,Average,139.54
+Croatia,Europe,HRV,2020,Average,140.15
+Croatia,Europe,HRV,2021,Average,149.1
+Croatia,Europe,HRV,2022,Average,211.57
+Croatia,Europe,HRV,2023,Average,261.61
+Croatia,Europe,HRV,2024,Average,236.76
+Croatia,Europe,HRV,2019,Commercial,157.64
+Croatia,Europe,HRV,2020,Commercial,156.03
+Croatia,Europe,HRV,2021,Commercial,170.88
+Croatia,Europe,HRV,2022,Commercial,300.61
+Croatia,Europe,HRV,2023,Commercial,359.27
+Croatia,Europe,HRV,2024,Commercial,304.96
+Croatia,Europe,HRV,2019,Industrial,112.98
+Croatia,Europe,HRV,2020,Industrial,115.75
+Croatia,Europe,HRV,2021,Industrial,122.5
+Croatia,Europe,HRV,2022,Industrial,185.2
+Croatia,Europe,HRV,2023,Industrial,265.52
+Croatia,Europe,HRV,2024,Industrial,245.38
+Croatia,Europe,HRV,2019,Residential,148.01
+Croatia,Europe,HRV,2020,Residential,148.67
+Croatia,Europe,HRV,2021,Residential,153.92
+Croatia,Europe,HRV,2022,Residential,148.89
+Croatia,Europe,HRV,2023,Residential,160.03
+Croatia,Europe,HRV,2024,Residential,159.94
+Croatia,Europe,HRV,2019,Wholesale,55.42
+Croatia,Europe,HRV,2020,Wholesale,43.36
+Croatia,Europe,HRV,2021,Wholesale,135.6
+Croatia,Europe,HRV,2022,Wholesale,286.31
+Croatia,Europe,HRV,2023,Wholesale,112.15
+Croatia,Europe,HRV,2024,Wholesale,102.42
+Dominican Republic,Latin America,DOM,2019,Average,132.55
+Dominican Republic,Latin America,DOM,2020,Average,120.19
+Dominican Republic,Latin America,DOM,2021,Average,119.36
+Dominican Republic,Latin America,DOM,2022,Average,124.01
+Dominican Republic,Latin America,DOM,2023,Average,121.68
+Dominican Republic,Latin America,DOM,2024,Average,123.5
+Dominican Republic,Latin America,DOM,2019,Commercial,167.78
+Dominican Republic,Latin America,DOM,2020,Commercial,152.06
+Dominican Republic,Latin America,DOM,2021,Commercial,151.01
+Dominican Republic,Latin America,DOM,2022,Commercial,156.89
+Dominican Republic,Latin America,DOM,2023,Commercial,153.95
+Dominican Republic,Latin America,DOM,2024,Commercial,146.07
+Dominican Republic,Latin America,DOM,2019,Industrial,143.45
+Dominican Republic,Latin America,DOM,2020,Industrial,130.19
+Dominican Republic,Latin America,DOM,2021,Industrial,129.29
+Dominican Republic,Latin America,DOM,2022,Industrial,134.32
+Dominican Republic,Latin America,DOM,2023,Industrial,131.8
+Dominican Republic,Latin America,DOM,2024,Industrial,147.19
+Dominican Republic,Latin America,DOM,2019,Residential,86.42
+Dominican Republic,Latin America,DOM,2020,Residential,78.32
+Dominican Republic,Latin America,DOM,2021,Residential,77.78
+Dominican Republic,Latin America,DOM,2022,Residential,80.81
+Dominican Republic,Latin America,DOM,2023,Residential,79.29
+Dominican Republic,Latin America,DOM,2024,Residential,77.24
+Dominican Republic,Latin America,DOM,2019,Wholesale,119
+Dominican Republic,Latin America,DOM,2020,Wholesale,83.99
+Dominican Republic,Latin America,DOM,2021,Wholesale,109.98
+Dominican Republic,Latin America,DOM,2022,Wholesale,114.27
+Dominican Republic,Latin America,DOM,2023,Wholesale,143.99
+Dominican Republic,Latin America,DOM,2024,Wholesale,135.68
+Ecuador,Latin America,ECU,2019,Average,95.7
+Ecuador,Latin America,ECU,2020,Average,95.7
+Ecuador,Latin America,ECU,2021,Average,95.07
+Ecuador,Latin America,ECU,2022,Average,95.57
+Ecuador,Latin America,ECU,2023,Average,95.37
+Ecuador,Latin America,ECU,2024,Average,115.37
+Ecuador,Latin America,ECU,2019,Commercial,104.4
+Ecuador,Latin America,ECU,2020,Commercial,104.4
+Ecuador,Latin America,ECU,2021,Commercial,103.9
+Ecuador,Latin America,ECU,2022,Commercial,104.5
+Ecuador,Latin America,ECU,2023,Commercial,103.6
+Ecuador,Latin America,ECU,2024,Commercial,123.6
+Ecuador,Latin America,ECU,2019,Industrial,79.9
+Ecuador,Latin America,ECU,2020,Industrial,79.9
+Ecuador,Latin America,ECU,2021,Industrial,78.4
+Ecuador,Latin America,ECU,2022,Industrial,78
+Ecuador,Latin America,ECU,2023,Industrial,78.5
+Ecuador,Latin America,ECU,2024,Industrial,98.5
+Ecuador,Latin America,ECU,2019,Residential,102.8
+Ecuador,Latin America,ECU,2020,Residential,102.8
+Ecuador,Latin America,ECU,2021,Residential,102.9
+Ecuador,Latin America,ECU,2022,Residential,104.2
+Ecuador,Latin America,ECU,2023,Residential,104
+Ecuador,Latin America,ECU,2024,Residential,124
+Ecuador,Latin America,ECU,2019,Wholesale,71.69
+Ecuador,Latin America,ECU,2020,Wholesale,70.58
+Ecuador,Latin America,ECU,2021,Wholesale,66.88
+Ecuador,Latin America,ECU,2022,Wholesale,76.73
+Ecuador,Latin America,ECU,2023,Wholesale,84.57
+Ecuador,Latin America,ECU,2024,Wholesale,138.26
+Egypt,Africa,EGY,2019,Average,88.89
+Egypt,Africa,EGY,2020,Average,77.56
+Egypt,Africa,EGY,2021,Average,78.13
+Egypt,Africa,EGY,2022,Average,56.47
+Egypt,Africa,EGY,2023,Average,55.06
+Egypt,Africa,EGY,2024,Average,35.57
+Egypt,Africa,EGY,2019,Commercial,107.02
+Egypt,Africa,EGY,2020,Commercial,88.52
+Egypt,Africa,EGY,2021,Commercial,89.17
+Egypt,Africa,EGY,2022,Commercial,59.6
+Egypt,Africa,EGY,2023,Commercial,60.81
+Egypt,Africa,EGY,2024,Commercial,41.11
+Egypt,Africa,EGY,2019,Industrial,96.02
+Egypt,Africa,EGY,2020,Industrial,69.55
+Egypt,Africa,EGY,2021,Industrial,70.06
+Egypt,Africa,EGY,2022,Industrial,55.54
+Egypt,Africa,EGY,2023,Industrial,56.71
+Egypt,Africa,EGY,2024,Industrial,38.33
+Egypt,Africa,EGY,2019,Residential,63.62
+Egypt,Africa,EGY,2020,Residential,74.61
+Egypt,Africa,EGY,2021,Residential,75.16
+Egypt,Africa,EGY,2022,Residential,54.28
+Egypt,Africa,EGY,2023,Residential,47.65
+Egypt,Africa,EGY,2024,Residential,27.27
+El Salvador,Latin America,SLV,2019,Average,188.1
+El Salvador,Latin America,SLV,2020,Average,187.6
+El Salvador,Latin America,SLV,2021,Average,136.4
+El Salvador,Latin America,SLV,2022,Average,160.9
+El Salvador,Latin America,SLV,2023,Average,142.77
+El Salvador,Latin America,SLV,2024,Average,171.69
+El Salvador,Latin America,SLV,2019,Commercial,186.9
+El Salvador,Latin America,SLV,2020,Commercial,172.5
+El Salvador,Latin America,SLV,2021,Commercial,132.16
+El Salvador,Latin America,SLV,2022,Commercial,158.4
+El Salvador,Latin America,SLV,2023,Commercial,139.57
+El Salvador,Latin America,SLV,2024,Commercial,162.25
+El Salvador,Latin America,SLV,2019,Industrial,168.44
+El Salvador,Latin America,SLV,2020,Industrial,155
+El Salvador,Latin America,SLV,2021,Industrial,126.91
+El Salvador,Latin America,SLV,2022,Industrial,164.8
+El Salvador,Latin America,SLV,2023,Industrial,147.45
+El Salvador,Latin America,SLV,2024,Industrial,174.41
+El Salvador,Latin America,SLV,2019,Residential,208.95
+El Salvador,Latin America,SLV,2020,Residential,235.3
+El Salvador,Latin America,SLV,2021,Residential,150.14
+El Salvador,Latin America,SLV,2022,Residential,159.5
+El Salvador,Latin America,SLV,2023,Residential,141.28
+El Salvador,Latin America,SLV,2024,Residential,178.4
+El Salvador,Latin America,SLV,2019,Wholesale,93.47
+El Salvador,Latin America,SLV,2020,Wholesale,68.99
+El Salvador,Latin America,SLV,2021,Wholesale,102.74
+El Salvador,Latin America,SLV,2022,Wholesale,120.56
+El Salvador,Latin America,SLV,2023,Wholesale,115.78
+El Salvador,Latin America,SLV,2024,Wholesale,111.39
+Eritrea,Africa,ERI,2019,Average,15.46
+Eritrea,Africa,ERI,2020,Average,15.46
+Eritrea,Africa,ERI,2021,Average,15.46
+Eritrea,Africa,ERI,2022,Average,15.46
+Eritrea,Africa,ERI,2023,Average,16
+Eritrea,Africa,ERI,2024,Average,16
+Eritrea,Africa,ERI,2019,Commercial,15.46
+Eritrea,Africa,ERI,2020,Commercial,15.46
+Eritrea,Africa,ERI,2021,Commercial,15.46
+Eritrea,Africa,ERI,2022,Commercial,15.46
+Eritrea,Africa,ERI,2023,Commercial,16
+Eritrea,Africa,ERI,2024,Commercial,16
+Eritrea,Africa,ERI,2019,Industrial,15.46
+Eritrea,Africa,ERI,2020,Industrial,15.46
+Eritrea,Africa,ERI,2021,Industrial,15.46
+Eritrea,Africa,ERI,2022,Industrial,15.46
+Eritrea,Africa,ERI,2023,Industrial,16
+Eritrea,Africa,ERI,2024,Industrial,16
+Eritrea,Africa,ERI,2019,Residential,15.46
+Eritrea,Africa,ERI,2020,Residential,15.46
+Eritrea,Africa,ERI,2021,Residential,15.46
+Eritrea,Africa,ERI,2022,Residential,15.46
+Eritrea,Africa,ERI,2023,Residential,16
+Eritrea,Africa,ERI,2024,Residential,16
+Georgia,Asia-Pacific,GEO,2019,Average,66.24
+Georgia,Asia-Pacific,GEO,2020,Average,64.91
+Georgia,Asia-Pacific,GEO,2021,Average,91.92
+Georgia,Asia-Pacific,GEO,2022,Average,99.93
+Georgia,Asia-Pacific,GEO,2023,Average,109.08
+Georgia,Asia-Pacific,GEO,2024,Average,99.01
+Georgia,Asia-Pacific,GEO,2019,Commercial,72.19
+Georgia,Asia-Pacific,GEO,2020,Commercial,70.36
+Georgia,Asia-Pacific,GEO,2021,Commercial,98.46
+Georgia,Asia-Pacific,GEO,2022,Commercial,111.93
+Georgia,Asia-Pacific,GEO,2023,Commercial,116.92
+Georgia,Asia-Pacific,GEO,2024,Commercial,107.24
+Georgia,Asia-Pacific,GEO,2019,Industrial,55.08
+Georgia,Asia-Pacific,GEO,2020,Industrial,54.49
+Georgia,Asia-Pacific,GEO,2021,Industrial,100.86
+Georgia,Asia-Pacific,GEO,2022,Industrial,106.09
+Georgia,Asia-Pacific,GEO,2023,Industrial,117.58
+Georgia,Asia-Pacific,GEO,2024,Industrial,113.4
+Georgia,Asia-Pacific,GEO,2019,Residential,71.44
+Georgia,Asia-Pacific,GEO,2020,Residential,69.87
+Georgia,Asia-Pacific,GEO,2021,Residential,76.45
+Georgia,Asia-Pacific,GEO,2022,Residential,81.77
+Georgia,Asia-Pacific,GEO,2023,Residential,92.74
+Georgia,Asia-Pacific,GEO,2024,Residential,76.37
+Georgia,Asia-Pacific,GEO,2021,Wholesale,48.61
+Georgia,Asia-Pacific,GEO,2022,Wholesale,67.26
+Georgia,Asia-Pacific,GEO,2023,Wholesale,55.08
+Georgia,Asia-Pacific,GEO,2024,Wholesale,57.84
+Ghana,Africa,GHA,2019,Average,147.68
+Ghana,Africa,GHA,2020,Average,125.9
+Ghana,Africa,GHA,2021,Average,166.68
+Ghana,Africa,GHA,2022,Average,101.32
+Ghana,Africa,GHA,2023,Average,110.34
+Ghana,Africa,GHA,2024,Average,105.86
+Ghana,Africa,GHA,2019,Commercial,148.54
+Ghana,Africa,GHA,2020,Commercial,133.97
+Ghana,Africa,GHA,2021,Commercial,168.56
+Ghana,Africa,GHA,2022,Commercial,106.4
+Ghana,Africa,GHA,2023,Commercial,133.37
+Ghana,Africa,GHA,2024,Commercial,105.33
+Ghana,Africa,GHA,2019,Industrial,145.99
+Ghana,Africa,GHA,2020,Industrial,133.97
+Ghana,Africa,GHA,2021,Industrial,224.93
+Ghana,Africa,GHA,2022,Industrial,106.4
+Ghana,Africa,GHA,2023,Industrial,133.37
+Ghana,Africa,GHA,2024,Industrial,110.58
+Ghana,Africa,GHA,2019,Residential,148.52
+Ghana,Africa,GHA,2020,Residential,109.76
+Ghana,Africa,GHA,2021,Residential,106.55
+Ghana,Africa,GHA,2022,Residential,91.17
+Ghana,Africa,GHA,2023,Residential,64.28
+Ghana,Africa,GHA,2024,Residential,101.66
+Ghana,Africa,GHA,2019,Wholesale,73
+Ghana,Africa,GHA,2020,Wholesale,66
+Ghana,Africa,GHA,2021,Wholesale,105
+Ghana,Africa,GHA,2022,Wholesale,105
+Ghana,Africa,GHA,2023,Wholesale,105
+Ghana,Africa,GHA,2024,Wholesale,124.38
+Guatemala,Latin America,GTM,2019,Average,163.73
+Guatemala,Latin America,GTM,2020,Average,160.74
+Guatemala,Latin America,GTM,2021,Average,166.31
+Guatemala,Latin America,GTM,2022,Average,150.85
+Guatemala,Latin America,GTM,2023,Average,142.36
+Guatemala,Latin America,GTM,2024,Average,153.55
+Guatemala,Latin America,GTM,2019,Commercial,143.91
+Guatemala,Latin America,GTM,2020,Commercial,140.11
+Guatemala,Latin America,GTM,2021,Commercial,144.58
+Guatemala,Latin America,GTM,2022,Commercial,178.77
+Guatemala,Latin America,GTM,2023,Commercial,186
+Guatemala,Latin America,GTM,2024,Commercial,247.64
+Guatemala,Latin America,GTM,2019,Industrial,131.2
+Guatemala,Latin America,GTM,2020,Industrial,127.55
+Guatemala,Latin America,GTM,2021,Industrial,131.63
+Guatemala,Latin America,GTM,2022,Industrial,140.6
+Guatemala,Latin America,GTM,2023,Industrial,126.61
+Guatemala,Latin America,GTM,2024,Industrial,113.38
+Guatemala,Latin America,GTM,2019,Residential,216.07
+Guatemala,Latin America,GTM,2020,Residential,214.56
+Guatemala,Latin America,GTM,2021,Residential,222.73
+Guatemala,Latin America,GTM,2022,Residential,133.18
+Guatemala,Latin America,GTM,2023,Residential,114.47
+Guatemala,Latin America,GTM,2024,Residential,99.64
+Guatemala,Latin America,GTM,2019,Wholesale,63.32
+Guatemala,Latin America,GTM,2020,Wholesale,46.41
+Guatemala,Latin America,GTM,2021,Wholesale,63.38
+Guatemala,Latin America,GTM,2022,Wholesale,86.93
+Guatemala,Latin America,GTM,2023,Wholesale,104.35
+Guatemala,Latin America,GTM,2024,Wholesale,167.54
+Guinea,Africa,GIN,2019,Average,128.77
+Guinea,Africa,GIN,2020,Average,118.44
+Guinea,Africa,GIN,2021,Average,136.79
+Guinea,Africa,GIN,2022,Average,152.87
+Guinea,Africa,GIN,2023,Average,156.25
+Guinea,Africa,GIN,2024,Average,156.23
+Guinea,Africa,GIN,2019,Commercial,177.04
+Guinea,Africa,GIN,2020,Commercial,162.46
+Guinea,Africa,GIN,2021,Commercial,185.5
+Guinea,Africa,GIN,2022,Commercial,207.3
+Guinea,Africa,GIN,2023,Commercial,211.89
+Guinea,Africa,GIN,2024,Commercial,211.85
+Guinea,Africa,GIN,2019,Industrial,177.04
+Guinea,Africa,GIN,2020,Industrial,162.46
+Guinea,Africa,GIN,2021,Industrial,185.5
+Guinea,Africa,GIN,2022,Industrial,207.3
+Guinea,Africa,GIN,2023,Industrial,211.89
+Guinea,Africa,GIN,2024,Industrial,211.85
+Guinea,Africa,GIN,2019,Residential,32.21
+Guinea,Africa,GIN,2020,Residential,30.41
+Guinea,Africa,GIN,2021,Residential,39.38
+Guinea,Africa,GIN,2022,Residential,44.01
+Guinea,Africa,GIN,2023,Residential,44.98
+Guinea,Africa,GIN,2024,Residential,44.97
+Haiti,Latin America,HTI,2019,Average,124.47
+Haiti,Latin America,HTI,2020,Average,108.8
+Haiti,Latin America,HTI,2021,Average,118.69
+Haiti,Latin America,HTI,2022,Average,97.93
+Haiti,Latin America,HTI,2023,Average,146.44
+Haiti,Latin America,HTI,2024,Average,156.82
+Haiti,Latin America,HTI,2019,Commercial,143.91
+Haiti,Latin America,HTI,2020,Commercial,125.79
+Haiti,Latin America,HTI,2021,Commercial,137.22
+Haiti,Latin America,HTI,2022,Commercial,113.23
+Haiti,Latin America,HTI,2023,Commercial,161.41
+Haiti,Latin America,HTI,2024,Commercial,172.85
+Haiti,Latin America,HTI,2019,Industrial,146.63
+Haiti,Latin America,HTI,2020,Industrial,128.17
+Haiti,Latin America,HTI,2021,Industrial,139.82
+Haiti,Latin America,HTI,2022,Industrial,115.38
+Haiti,Latin America,HTI,2023,Industrial,164.89
+Haiti,Latin America,HTI,2024,Industrial,176.57
+Haiti,Latin America,HTI,2019,Residential,82.86
+Haiti,Latin America,HTI,2020,Residential,72.43
+Haiti,Latin America,HTI,2021,Residential,79.01
+Haiti,Latin America,HTI,2022,Residential,65.2
+Haiti,Latin America,HTI,2023,Residential,113.03
+Haiti,Latin America,HTI,2024,Residential,121.03
+Honduras,Latin America,HND,2019,Average,169.79
+Honduras,Latin America,HND,2020,Average,169.28
+Honduras,Latin America,HND,2021,Average,173.28
+Honduras,Latin America,HND,2022,Average,169.52
+Honduras,Latin America,HND,2023,Average,165.59
+Honduras,Latin America,HND,2024,Average,177.96
+Honduras,Latin America,HND,2019,Commercial,212.44
+Honduras,Latin America,HND,2020,Commercial,211.81
+Honduras,Latin America,HND,2021,Commercial,216.81
+Honduras,Latin America,HND,2022,Commercial,212.1
+Honduras,Latin America,HND,2023,Commercial,160.17
+Honduras,Latin America,HND,2024,Commercial,173.16
+Honduras,Latin America,HND,2019,Industrial,135.93
+Honduras,Latin America,HND,2020,Industrial,135.52
+Honduras,Latin America,HND,2021,Industrial,138.72
+Honduras,Latin America,HND,2022,Industrial,135.71
+Honduras,Latin America,HND,2023,Industrial,151.3
+Honduras,Latin America,HND,2024,Industrial,163.87
+Honduras,Latin America,HND,2019,Residential,161
+Honduras,Latin America,HND,2020,Residential,160.52
+Honduras,Latin America,HND,2021,Residential,164.31
+Honduras,Latin America,HND,2022,Residential,160.74
+Honduras,Latin America,HND,2023,Residential,185.28
+Honduras,Latin America,HND,2024,Residential,196.86
+Honduras,Latin America,HND,2019,Wholesale,115.29
+Honduras,Latin America,HND,2020,Wholesale,114.95
+Honduras,Latin America,HND,2021,Wholesale,122.58
+Honduras,Latin America,HND,2022,Wholesale,137.91
+Honduras,Latin America,HND,2023,Wholesale,132.19
+Honduras,Latin America,HND,2024,Wholesale,149.42
+India,Asia-Pacific,IND,2019,Average,102.97
+India,Asia-Pacific,IND,2020,Average,97.11
+India,Asia-Pacific,IND,2021,Average,98.3
+India,Asia-Pacific,IND,2022,Average,95.13
+India,Asia-Pacific,IND,2023,Average,93.29
+India,Asia-Pacific,IND,2024,Average,93.08
+India,Asia-Pacific,IND,2019,Commercial,120.43
+India,Asia-Pacific,IND,2020,Commercial,113.44
+India,Asia-Pacific,IND,2021,Commercial,114.71
+India,Asia-Pacific,IND,2022,Commercial,110.6
+India,Asia-Pacific,IND,2023,Commercial,107.69
+India,Asia-Pacific,IND,2024,Commercial,106.95
+India,Asia-Pacific,IND,2019,Industrial,104.63
+India,Asia-Pacific,IND,2020,Industrial,98.72
+India,Asia-Pacific,IND,2021,Industrial,100.02
+India,Asia-Pacific,IND,2022,Industrial,96.05
+India,Asia-Pacific,IND,2023,Industrial,94.32
+India,Asia-Pacific,IND,2024,Industrial,94.28
+India,Asia-Pacific,IND,2019,Residential,83.86
+India,Asia-Pacific,IND,2020,Residential,79.18
+India,Asia-Pacific,IND,2021,Residential,80.17
+India,Asia-Pacific,IND,2022,Residential,78.73
+India,Asia-Pacific,IND,2023,Residential,77.85
+India,Asia-Pacific,IND,2024,Residential,78.01
+India,Asia-Pacific,IND,2019,Wholesale,44.25
+India,Asia-Pacific,IND,2020,Wholesale,35.34
+India,Asia-Pacific,IND,2021,Wholesale,53.78
+India,Asia-Pacific,IND,2022,Wholesale,73.39
+India,Asia-Pacific,IND,2023,Wholesale,66.04
+India,Asia-Pacific,IND,2024,Wholesale,53.48
+Indonesia,Asia-Pacific,IDN,2019,Average,81.6
+Indonesia,Asia-Pacific,IDN,2020,Average,76.22
+Indonesia,Asia-Pacific,IDN,2021,Average,77.99
+Indonesia,Asia-Pacific,IDN,2022,Average,77.74
+Indonesia,Asia-Pacific,IDN,2023,Average,76.47
+Indonesia,Asia-Pacific,IDN,2024,Average,72.93
+Indonesia,Asia-Pacific,IDN,2019,Commercial,89.31
+Indonesia,Asia-Pacific,IDN,2020,Commercial,85.3
+Indonesia,Asia-Pacific,IDN,2021,Commercial,86.36
+Indonesia,Asia-Pacific,IDN,2022,Commercial,84.52
+Indonesia,Asia-Pacific,IDN,2023,Commercial,82.7
+Indonesia,Asia-Pacific,IDN,2024,Commercial,78.14
+Indonesia,Asia-Pacific,IDN,2019,Industrial,77.22
+Indonesia,Asia-Pacific,IDN,2020,Industrial,75.08
+Indonesia,Asia-Pacific,IDN,2021,Industrial,75.98
+Indonesia,Asia-Pacific,IDN,2022,Industrial,72.75
+Indonesia,Asia-Pacific,IDN,2023,Industrial,70.87
+Indonesia,Asia-Pacific,IDN,2024,Industrial,67.17
+Indonesia,Asia-Pacific,IDN,2019,Residential,78.28
+Indonesia,Asia-Pacific,IDN,2020,Residential,68.27
+Indonesia,Asia-Pacific,IDN,2021,Residential,71.62
+Indonesia,Asia-Pacific,IDN,2022,Residential,75.96
+Indonesia,Asia-Pacific,IDN,2023,Residential,75.84
+Indonesia,Asia-Pacific,IDN,2024,Residential,73.48
+Jamaica,Latin America,JAM,2019,Average,245.1
+Jamaica,Latin America,JAM,2020,Average,252.07
+Jamaica,Latin America,JAM,2021,Average,273.98
+Jamaica,Latin America,JAM,2022,Average,327.21
+Jamaica,Latin America,JAM,2023,Average,284.05
+Jamaica,Latin America,JAM,2024,Average,279.62
+Jamaica,Latin America,JAM,2019,Commercial,215.8
+Jamaica,Latin America,JAM,2020,Commercial,210.52
+Jamaica,Latin America,JAM,2021,Commercial,239.53
+Jamaica,Latin America,JAM,2022,Commercial,283.96
+Jamaica,Latin America,JAM,2023,Commercial,242.98
+Jamaica,Latin America,JAM,2024,Commercial,239.19
+Jamaica,Latin America,JAM,2019,Industrial,218.97
+Jamaica,Latin America,JAM,2020,Industrial,235.78
+Jamaica,Latin America,JAM,2021,Industrial,237.01
+Jamaica,Latin America,JAM,2022,Industrial,287.61
+Jamaica,Latin America,JAM,2023,Industrial,250.07
+Jamaica,Latin America,JAM,2024,Industrial,246.18
+Jamaica,Latin America,JAM,2019,Residential,300.54
+Jamaica,Latin America,JAM,2020,Residential,309.9
+Jamaica,Latin America,JAM,2021,Residential,345.39
+Jamaica,Latin America,JAM,2022,Residential,410.07
+Jamaica,Latin America,JAM,2023,Residential,359.09
+Jamaica,Latin America,JAM,2024,Residential,353.5
+Jordan,Middle East,JOR,2019,Average,220.37
+Jordan,Middle East,JOR,2020,Average,226.99
+Jordan,Middle East,JOR,2021,Average,230.36
+Jordan,Middle East,JOR,2022,Average,230.29
+Jordan,Middle East,JOR,2023,Average,230.19
+Jordan,Middle East,JOR,2024,Average,229.46
+Jordan,Middle East,JOR,2019,Commercial,230.39
+Jordan,Middle East,JOR,2020,Commercial,240.34
+Jordan,Middle East,JOR,2021,Commercial,240.37
+Jordan,Middle East,JOR,2022,Commercial,240.3
+Jordan,Middle East,JOR,2023,Commercial,240.2
+Jordan,Middle East,JOR,2024,Commercial,304.7
+Jordan,Middle East,JOR,2019,Industrial,190.32
+Jordan,Middle East,JOR,2020,Industrial,200.28
+Jordan,Middle East,JOR,2021,Industrial,200.31
+Jordan,Middle East,JOR,2022,Industrial,200.25
+Jordan,Middle East,JOR,2023,Industrial,200.17
+Jordan,Middle East,JOR,2024,Industrial,133.31
+Jordan,Middle East,JOR,2019,Residential,240.41
+Jordan,Middle East,JOR,2020,Residential,240.34
+Jordan,Middle East,JOR,2021,Residential,250.39
+Jordan,Middle East,JOR,2022,Residential,250.32
+Jordan,Middle East,JOR,2023,Residential,250.21
+Jordan,Middle East,JOR,2024,Residential,250.39
+Kazakhstan,Asia-Pacific,KAZ,2019,Average,52.69
+Kazakhstan,Asia-Pacific,KAZ,2020,Average,45.14
+Kazakhstan,Asia-Pacific,KAZ,2021,Average,47.81
+Kazakhstan,Asia-Pacific,KAZ,2022,Average,44.25
+Kazakhstan,Asia-Pacific,KAZ,2023,Average,69.03
+Kazakhstan,Asia-Pacific,KAZ,2024,Average,61.98
+Kazakhstan,Asia-Pacific,KAZ,2019,Commercial,54.02
+Kazakhstan,Asia-Pacific,KAZ,2020,Commercial,48.82
+Kazakhstan,Asia-Pacific,KAZ,2021,Commercial,47.43
+Kazakhstan,Asia-Pacific,KAZ,2022,Commercial,43.9
+Kazakhstan,Asia-Pacific,KAZ,2023,Commercial,67.16
+Kazakhstan,Asia-Pacific,KAZ,2024,Commercial,61.82
+Kazakhstan,Asia-Pacific,KAZ,2019,Industrial,54.02
+Kazakhstan,Asia-Pacific,KAZ,2020,Industrial,48.82
+Kazakhstan,Asia-Pacific,KAZ,2021,Industrial,59.3
+Kazakhstan,Asia-Pacific,KAZ,2022,Industrial,54.88
+Kazakhstan,Asia-Pacific,KAZ,2023,Industrial,83.96
+Kazakhstan,Asia-Pacific,KAZ,2024,Industrial,77.27
+Kazakhstan,Asia-Pacific,KAZ,2019,Residential,50.05
+Kazakhstan,Asia-Pacific,KAZ,2020,Residential,37.77
+Kazakhstan,Asia-Pacific,KAZ,2021,Residential,36.69
+Kazakhstan,Asia-Pacific,KAZ,2022,Residential,33.96
+Kazakhstan,Asia-Pacific,KAZ,2023,Residential,55.97
+Kazakhstan,Asia-Pacific,KAZ,2024,Residential,46.87
+Kazakhstan,Asia-Pacific,KAZ,2019,Wholesale,21.98
+Kazakhstan,Asia-Pacific,KAZ,2020,Wholesale,20.32
+Kazakhstan,Asia-Pacific,KAZ,2021,Wholesale,20.16
+Kazakhstan,Asia-Pacific,KAZ,2022,Wholesale,18.59
+Kazakhstan,Asia-Pacific,KAZ,2023,Wholesale,20.13
+Kazakhstan,Asia-Pacific,KAZ,2024,Wholesale,32.29
+Kenya,Africa,KEN,2019,Average,109.52
+Kenya,Africa,KEN,2020,Average,104.9
+Kenya,Africa,KEN,2021,Average,101.88
+Kenya,Africa,KEN,2022,Average,74.12
+Kenya,Africa,KEN,2023,Average,91.54
+Kenya,Africa,KEN,2024,Average,104.45
+Kenya,Africa,KEN,2019,Commercial,126.43
+Kenya,Africa,KEN,2020,Commercial,121.09
+Kenya,Africa,KEN,2021,Commercial,117.61
+Kenya,Africa,KEN,2022,Commercial,85.2
+Kenya,Africa,KEN,2023,Commercial,104.17
+Kenya,Africa,KEN,2024,Commercial,118.62
+Kenya,Africa,KEN,2019,Industrial,75.7
+Kenya,Africa,KEN,2020,Industrial,72.5
+Kenya,Africa,KEN,2021,Industrial,70.42
+Kenya,Africa,KEN,2022,Industrial,51.12
+Kenya,Africa,KEN,2023,Industrial,68.54
+Kenya,Africa,KEN,2024,Industrial,88.01
+Kenya,Africa,KEN,2019,Residential,126.43
+Kenya,Africa,KEN,2020,Residential,121.09
+Kenya,Africa,KEN,2021,Residential,117.61
+Kenya,Africa,KEN,2022,Residential,86.05
+Kenya,Africa,KEN,2023,Residential,101.9
+Kenya,Africa,KEN,2024,Residential,106.71
+Kuwait,Middle East,KWT,2019,Average,27.42
+Kuwait,Middle East,KWT,2020,Average,27.16
+Kuwait,Middle East,KWT,2021,Average,27.62
+Kuwait,Middle East,KWT,2022,Average,27.2
+Kuwait,Middle East,KWT,2023,Average,27.11
+Kuwait,Middle East,KWT,2024,Average,27.15
+Kuwait,Middle East,KWT,2019,Commercial,32.91
+Kuwait,Middle East,KWT,2020,Commercial,32.59
+Kuwait,Middle East,KWT,2021,Commercial,33.14
+Kuwait,Middle East,KWT,2022,Commercial,32.64
+Kuwait,Middle East,KWT,2023,Commercial,32.53
+Kuwait,Middle East,KWT,2024,Commercial,32.58
+Kuwait,Middle East,KWT,2019,Industrial,32.91
+Kuwait,Middle East,KWT,2020,Industrial,32.59
+Kuwait,Middle East,KWT,2021,Industrial,33.14
+Kuwait,Middle East,KWT,2022,Industrial,32.64
+Kuwait,Middle East,KWT,2023,Industrial,32.53
+Kuwait,Middle East,KWT,2024,Industrial,32.58
+Kuwait,Middle East,KWT,2019,Residential,16.45
+Kuwait,Middle East,KWT,2020,Residential,16.3
+Kuwait,Middle East,KWT,2021,Residential,16.57
+Kuwait,Middle East,KWT,2022,Residential,16.32
+Kuwait,Middle East,KWT,2023,Residential,16.27
+Kuwait,Middle East,KWT,2024,Residential,16.29
+Kyrgyzstan,Asia-Pacific,KGZ,2019,Average,24.42
+Kyrgyzstan,Asia-Pacific,KGZ,2020,Average,22.26
+Kyrgyzstan,Asia-Pacific,KGZ,2021,Average,25.63
+Kyrgyzstan,Asia-Pacific,KGZ,2022,Average,25.65
+Kyrgyzstan,Asia-Pacific,KGZ,2023,Average,28.65
+Kyrgyzstan,Asia-Pacific,KGZ,2024,Average,31.98
+Kyrgyzstan,Asia-Pacific,KGZ,2019,Commercial,30.61
+Kyrgyzstan,Asia-Pacific,KGZ,2020,Commercial,27.9
+Kyrgyzstan,Asia-Pacific,KGZ,2021,Commercial,33.36
+Kyrgyzstan,Asia-Pacific,KGZ,2022,Commercial,33.39
+Kyrgyzstan,Asia-Pacific,KGZ,2023,Commercial,36.59
+Kyrgyzstan,Asia-Pacific,KGZ,2024,Commercial,40.86
+Kyrgyzstan,Asia-Pacific,KGZ,2019,Industrial,31.75
+Kyrgyzstan,Asia-Pacific,KGZ,2020,Industrial,28.93
+Kyrgyzstan,Asia-Pacific,KGZ,2021,Industrial,33.36
+Kyrgyzstan,Asia-Pacific,KGZ,2022,Industrial,33.39
+Kyrgyzstan,Asia-Pacific,KGZ,2023,Industrial,36.59
+Kyrgyzstan,Asia-Pacific,KGZ,2024,Industrial,40.86
+Kyrgyzstan,Asia-Pacific,KGZ,2019,Residential,10.91
+Kyrgyzstan,Asia-Pacific,KGZ,2020,Residential,9.95
+Kyrgyzstan,Asia-Pacific,KGZ,2021,Residential,10.17
+Kyrgyzstan,Asia-Pacific,KGZ,2022,Residential,10.18
+Kyrgyzstan,Asia-Pacific,KGZ,2023,Residential,12.77
+Kyrgyzstan,Asia-Pacific,KGZ,2024,Residential,14.23
+Laos,Asia-Pacific,LAO,2019,Average,86.67
+Laos,Asia-Pacific,LAO,2020,Average,77.03
+Laos,Asia-Pacific,LAO,2021,Average,77.54
+Laos,Asia-Pacific,LAO,2022,Average,59.2
+Laos,Asia-Pacific,LAO,2023,Average,62.35
+Laos,Asia-Pacific,LAO,2024,Average,65.82
+Laos,Asia-Pacific,LAO,2019,Commercial,116.3
+Laos,Asia-Pacific,LAO,2020,Commercial,106.88
+Laos,Asia-Pacific,LAO,2021,Commercial,105.23
+Laos,Asia-Pacific,LAO,2022,Commercial,71.24
+Laos,Asia-Pacific,LAO,2023,Commercial,77.95
+Laos,Asia-Pacific,LAO,2024,Commercial,78.18
+Laos,Asia-Pacific,LAO,2019,Industrial,73.97
+Laos,Asia-Pacific,LAO,2020,Industrial,61.95
+Laos,Asia-Pacific,LAO,2021,Industrial,64.56
+Laos,Asia-Pacific,LAO,2022,Industrial,63.34
+Laos,Asia-Pacific,LAO,2023,Industrial,74.57
+Laos,Asia-Pacific,LAO,2024,Industrial,88.05
+Laos,Asia-Pacific,LAO,2019,Residential,69.75
+Laos,Asia-Pacific,LAO,2020,Residential,62.27
+Laos,Asia-Pacific,LAO,2021,Residential,62.84
+Laos,Asia-Pacific,LAO,2022,Residential,43.04
+Laos,Asia-Pacific,LAO,2023,Residential,34.53
+Laos,Asia-Pacific,LAO,2024,Residential,31.23
+Lesotho,Africa,LSO,2019,Average,46.87
+Lesotho,Africa,LSO,2020,Average,44.64
+Lesotho,Africa,LSO,2021,Average,45.78
+Lesotho,Africa,LSO,2022,Average,45.23
+Lesotho,Africa,LSO,2023,Average,42.98
+Lesotho,Africa,LSO,2024,Average,45.68
+Lesotho,Africa,LSO,2019,Commercial,19.15
+Lesotho,Africa,LSO,2020,Commercial,19.81
+Lesotho,Africa,LSO,2021,Commercial,18.7
+Lesotho,Africa,LSO,2022,Commercial,18.26
+Lesotho,Africa,LSO,2023,Commercial,17.2
+Lesotho,Africa,LSO,2024,Commercial,18.66
+Lesotho,Africa,LSO,2019,Industrial,19.15
+Lesotho,Africa,LSO,2020,Industrial,19.81
+Lesotho,Africa,LSO,2021,Industrial,18.7
+Lesotho,Africa,LSO,2022,Industrial,18.26
+Lesotho,Africa,LSO,2023,Industrial,17.2
+Lesotho,Africa,LSO,2024,Industrial,18.66
+Lesotho,Africa,LSO,2019,Residential,102.3
+Lesotho,Africa,LSO,2020,Residential,94.3
+Lesotho,Africa,LSO,2021,Residential,99.93
+Lesotho,Africa,LSO,2022,Residential,99.17
+Lesotho,Africa,LSO,2023,Residential,94.54
+Lesotho,Africa,LSO,2024,Residential,99.73
+Liberia,Africa,LBR,2019,Average,3.74
+Liberia,Africa,LBR,2020,Average,2.9
+Liberia,Africa,LBR,2021,Average,1.21
+Liberia,Africa,LBR,2022,Average,1.29
+Liberia,Africa,LBR,2023,Average,1.29
+Liberia,Africa,LBR,2024,Average,1.17
+Liberia,Africa,LBR,2019,Commercial,3.74
+Liberia,Africa,LBR,2020,Commercial,2.9
+Liberia,Africa,LBR,2021,Commercial,1.23
+Liberia,Africa,LBR,2022,Commercial,1.31
+Liberia,Africa,LBR,2023,Commercial,1.26
+Liberia,Africa,LBR,2024,Commercial,1.15
+Liberia,Africa,LBR,2019,Industrial,3.74
+Liberia,Africa,LBR,2020,Industrial,2.9
+Liberia,Africa,LBR,2021,Industrial,1.1
+Liberia,Africa,LBR,2022,Industrial,1.17
+Liberia,Africa,LBR,2023,Industrial,1.09
+Liberia,Africa,LBR,2024,Industrial,0.99
+Liberia,Africa,LBR,2019,Residential,3.74
+Liberia,Africa,LBR,2020,Residential,2.9
+Liberia,Africa,LBR,2021,Residential,1.31
+Liberia,Africa,LBR,2022,Residential,1.4
+Liberia,Africa,LBR,2023,Residential,1.51
+Liberia,Africa,LBR,2024,Residential,1.38
+Madagascar,Africa,MDG,2019,Average,184.78
+Madagascar,Africa,MDG,2020,Average,117.34
+Madagascar,Africa,MDG,2021,Average,127.3
+Madagascar,Africa,MDG,2022,Average,118.74
+Madagascar,Africa,MDG,2023,Average,118.28
+Madagascar,Africa,MDG,2024,Average,116.38
+Madagascar,Africa,MDG,2019,Commercial,209.66
+Madagascar,Africa,MDG,2020,Commercial,116.71
+Madagascar,Africa,MDG,2021,Commercial,115.35
+Madagascar,Africa,MDG,2022,Commercial,107.59
+Madagascar,Africa,MDG,2023,Commercial,112.21
+Madagascar,Africa,MDG,2024,Commercial,110.32
+Madagascar,Africa,MDG,2019,Industrial,237.38
+Madagascar,Africa,MDG,2020,Industrial,116.71
+Madagascar,Africa,MDG,2021,Industrial,115.35
+Madagascar,Africa,MDG,2022,Industrial,107.59
+Madagascar,Africa,MDG,2023,Industrial,112.21
+Madagascar,Africa,MDG,2024,Industrial,110.32
+Madagascar,Africa,MDG,2019,Residential,107.3
+Madagascar,Africa,MDG,2020,Residential,118.6
+Madagascar,Africa,MDG,2021,Residential,151.21
+Madagascar,Africa,MDG,2022,Residential,141.04
+Madagascar,Africa,MDG,2023,Residential,130.41
+Madagascar,Africa,MDG,2024,Residential,128.51
+Mainland China,Asia-Pacific,CHN,2019,Average,84.6
+Mainland China,Asia-Pacific,CHN,2020,Average,83.24
+Mainland China,Asia-Pacific,CHN,2021,Average,93.81
+Mainland China,Asia-Pacific,CHN,2022,Average,69.4
+Mainland China,Asia-Pacific,CHN,2023,Average,64.96
+Mainland China,Asia-Pacific,CHN,2024,Average,62.11
+Mainland China,Asia-Pacific,CHN,2019,Commercial,88.4
+Mainland China,Asia-Pacific,CHN,2020,Commercial,84.11
+Mainland China,Asia-Pacific,CHN,2021,Commercial,97.15
+Mainland China,Asia-Pacific,CHN,2022,Commercial,62.07
+Mainland China,Asia-Pacific,CHN,2023,Commercial,60.51
+Mainland China,Asia-Pacific,CHN,2024,Commercial,55.65
+Mainland China,Asia-Pacific,CHN,2019,Industrial,83.39
+Mainland China,Asia-Pacific,CHN,2020,Industrial,83.51
+Mainland China,Asia-Pacific,CHN,2021,Industrial,96.45
+Mainland China,Asia-Pacific,CHN,2022,Industrial,62.07
+Mainland China,Asia-Pacific,CHN,2023,Industrial,60.51
+Mainland China,Asia-Pacific,CHN,2024,Industrial,55.65
+Mainland China,Asia-Pacific,CHN,2019,Residential,82
+Mainland China,Asia-Pacific,CHN,2020,Residential,82.12
+Mainland China,Asia-Pacific,CHN,2021,Residential,87.82
+Mainland China,Asia-Pacific,CHN,2022,Residential,84.06
+Mainland China,Asia-Pacific,CHN,2023,Residential,73.88
+Mainland China,Asia-Pacific,CHN,2024,Residential,75.03
+Mainland China,Asia-Pacific,CHN,2019,Wholesale,55.18
+Mainland China,Asia-Pacific,CHN,2020,Wholesale,55.26
+Mainland China,Asia-Pacific,CHN,2021,Wholesale,59.1
+Mainland China,Asia-Pacific,CHN,2022,Wholesale,56.57
+Mainland China,Asia-Pacific,CHN,2023,Wholesale,58.96
+Mainland China,Asia-Pacific,CHN,2024,Wholesale,51.99
+Malawi,Africa,MWI,2019,Average,82.21
+Malawi,Africa,MWI,2020,Average,97.96
+Malawi,Africa,MWI,2021,Average,107.34
+Malawi,Africa,MWI,2022,Average,91.33
+Malawi,Africa,MWI,2023,Average,98.54
+Malawi,Africa,MWI,2024,Average,81.29
+Malawi,Africa,MWI,2019,Commercial,89.03
+Malawi,Africa,MWI,2020,Commercial,90.55
+Malawi,Africa,MWI,2021,Commercial,99.18
+Malawi,Africa,MWI,2022,Commercial,84.39
+Malawi,Africa,MWI,2023,Commercial,121.16
+Malawi,Africa,MWI,2024,Commercial,113.23
+Malawi,Africa,MWI,2019,Industrial,79.62
+Malawi,Africa,MWI,2020,Industrial,129.26
+Malawi,Africa,MWI,2021,Industrial,141.58
+Malawi,Africa,MWI,2022,Industrial,120.46
+Malawi,Africa,MWI,2023,Industrial,103.54
+Malawi,Africa,MWI,2024,Industrial,77.52
+Malawi,Africa,MWI,2019,Residential,77.99
+Malawi,Africa,MWI,2020,Residential,74.06
+Malawi,Africa,MWI,2021,Residential,81.27
+Malawi,Africa,MWI,2022,Residential,69.14
+Malawi,Africa,MWI,2023,Residential,70.91
+Malawi,Africa,MWI,2024,Residential,53.13
+Malaysia,Asia-Pacific,MYS,2019,Average,81.85
+Malaysia,Asia-Pacific,MYS,2020,Average,78.25
+Malaysia,Asia-Pacific,MYS,2021,Average,72.85
+Malaysia,Asia-Pacific,MYS,2022,Average,77.22
+Malaysia,Asia-Pacific,MYS,2023,Average,96.08
+Malaysia,Asia-Pacific,MYS,2024,Average,93.01
+Malaysia,Asia-Pacific,MYS,2019,Commercial,91.86
+Malaysia,Asia-Pacific,MYS,2020,Commercial,86.89
+Malaysia,Asia-Pacific,MYS,2021,Commercial,80.81
+Malaysia,Asia-Pacific,MYS,2022,Commercial,89.03
+Malaysia,Asia-Pacific,MYS,2023,Commercial,118.28
+Malaysia,Asia-Pacific,MYS,2024,Commercial,113.71
+Malaysia,Asia-Pacific,MYS,2019,Industrial,76.06
+Malaysia,Asia-Pacific,MYS,2020,Industrial,71.31
+Malaysia,Asia-Pacific,MYS,2021,Industrial,65.02
+Malaysia,Asia-Pacific,MYS,2022,Industrial,74.16
+Malaysia,Asia-Pacific,MYS,2023,Industrial,103.94
+Malaysia,Asia-Pacific,MYS,2024,Industrial,99.4
+Malaysia,Asia-Pacific,MYS,2019,Residential,77.62
+Malaysia,Asia-Pacific,MYS,2020,Residential,76.54
+Malaysia,Asia-Pacific,MYS,2021,Residential,72.73
+Malaysia,Asia-Pacific,MYS,2022,Residential,68.47
+Malaysia,Asia-Pacific,MYS,2023,Residential,66.04
+Malaysia,Asia-Pacific,MYS,2024,Residential,65.93
+Malaysia,Asia-Pacific,MYS,2019,Wholesale,59.88
+Malaysia,Asia-Pacific,MYS,2020,Wholesale,42.03
+Malaysia,Asia-Pacific,MYS,2021,Wholesale,40.89
+Malaysia,Asia-Pacific,MYS,2022,Wholesale,55.87
+Malaysia,Asia-Pacific,MYS,2023,Wholesale,51.14
+Malaysia,Asia-Pacific,MYS,2024,Wholesale,46.43
+Mauritania,Africa,MRT,2019,Average,13.18
+Mauritania,Africa,MRT,2020,Average,16.53
+Mauritania,Africa,MRT,2021,Average,16.51
+Mauritania,Africa,MRT,2022,Average,16.51
+Mauritania,Africa,MRT,2023,Average,16.51
+Mauritania,Africa,MRT,2024,Average,14.81
+Mauritania,Africa,MRT,2019,Commercial,16.54
+Mauritania,Africa,MRT,2020,Commercial,16.53
+Mauritania,Africa,MRT,2021,Commercial,16.51
+Mauritania,Africa,MRT,2022,Commercial,16.51
+Mauritania,Africa,MRT,2023,Commercial,16.51
+Mauritania,Africa,MRT,2024,Commercial,14.81
+Mauritania,Africa,MRT,2019,Industrial,6.48
+Mauritania,Africa,MRT,2020,Industrial,16.53
+Mauritania,Africa,MRT,2021,Industrial,16.51
+Mauritania,Africa,MRT,2022,Industrial,16.51
+Mauritania,Africa,MRT,2023,Industrial,16.51
+Mauritania,Africa,MRT,2024,Industrial,14.81
+Mauritania,Africa,MRT,2019,Residential,16.54
+Mauritania,Africa,MRT,2020,Residential,16.53
+Mauritania,Africa,MRT,2021,Residential,16.51
+Mauritania,Africa,MRT,2022,Residential,16.51
+Mauritania,Africa,MRT,2023,Residential,16.51
+Mauritania,Africa,MRT,2024,Residential,14.81
+Mexico,Latin America,MEX,2019,Average,132.48
+Mexico,Latin America,MEX,2020,Average,118.59
+Mexico,Latin America,MEX,2021,Average,128.5
+Mexico,Latin America,MEX,2022,Average,119.52
+Mexico,Latin America,MEX,2023,Average,151.62
+Mexico,Latin America,MEX,2024,Average,147.14
+Mexico,Latin America,MEX,2019,Commercial,179.87
+Mexico,Latin America,MEX,2020,Commercial,162.05
+Mexico,Latin America,MEX,2021,Commercial,175.86
+Mexico,Latin America,MEX,2022,Commercial,156.06
+Mexico,Latin America,MEX,2023,Commercial,198.28
+Mexico,Latin America,MEX,2024,Commercial,213.91
+Mexico,Latin America,MEX,2019,Industrial,105.14
+Mexico,Latin America,MEX,2020,Industrial,93.06
+Mexico,Latin America,MEX,2021,Industrial,100.63
+Mexico,Latin America,MEX,2022,Industrial,86.19
+Mexico,Latin America,MEX,2023,Industrial,120.93
+Mexico,Latin America,MEX,2024,Industrial,95.4
+Mexico,Latin America,MEX,2019,Residential,112.42
+Mexico,Latin America,MEX,2020,Residential,100.65
+Mexico,Latin America,MEX,2021,Residential,109.01
+Mexico,Latin America,MEX,2022,Residential,116.32
+Mexico,Latin America,MEX,2023,Residential,135.65
+Mexico,Latin America,MEX,2024,Residential,132.11
+Mexico,Latin America,MEX,2019,Wholesale,69.97
+Mexico,Latin America,MEX,2020,Wholesale,28.87
+Mexico,Latin America,MEX,2021,Wholesale,52.99
+Mexico,Latin America,MEX,2022,Wholesale,57.99
+Mexico,Latin America,MEX,2023,Wholesale,57.56
+Mexico,Latin America,MEX,2024,Wholesale,49.66
+Moldova,Europe,MDA,2019,Average,103.61
+Moldova,Europe,MDA,2020,Average,107.56
+Moldova,Europe,MDA,2021,Average,92.53
+Moldova,Europe,MDA,2022,Average,155.08
+Moldova,Europe,MDA,2023,Average,169.64
+Moldova,Europe,MDA,2024,Average,133.39
+Moldova,Europe,MDA,2019,Commercial,114.13
+Moldova,Europe,MDA,2020,Commercial,111.63
+Moldova,Europe,MDA,2021,Commercial,95.43
+Moldova,Europe,MDA,2022,Commercial,150.75
+Moldova,Europe,MDA,2023,Commercial,177.44
+Moldova,Europe,MDA,2024,Commercial,137.98
+Moldova,Europe,MDA,2019,Industrial,93.64
+Moldova,Europe,MDA,2020,Industrial,93.49
+Moldova,Europe,MDA,2021,Industrial,79.34
+Moldova,Europe,MDA,2022,Industrial,134.68
+Moldova,Europe,MDA,2023,Industrial,154.64
+Moldova,Europe,MDA,2024,Industrial,115.24
+Moldova,Europe,MDA,2019,Residential,103.06
+Moldova,Europe,MDA,2020,Residential,117.56
+Moldova,Europe,MDA,2021,Residential,102.82
+Moldova,Europe,MDA,2022,Residential,179.8
+Moldova,Europe,MDA,2023,Residential,176.85
+Moldova,Europe,MDA,2024,Residential,146.96
+Moldova,Europe,MDA,2024,Wholesale,99.6
+Mongolia,Asia-Pacific,MNG,2019,Average,57.03
+Mongolia,Asia-Pacific,MNG,2020,Average,53.94
+Mongolia,Asia-Pacific,MNG,2021,Average,55.96
+Mongolia,Asia-Pacific,MNG,2022,Average,50.73
+Mongolia,Asia-Pacific,MNG,2023,Average,46.26
+Mongolia,Asia-Pacific,MNG,2024,Average,82.09
+Mongolia,Asia-Pacific,MNG,2019,Commercial,57.03
+Mongolia,Asia-Pacific,MNG,2020,Commercial,53.94
+Mongolia,Asia-Pacific,MNG,2021,Commercial,57.69
+Mongolia,Asia-Pacific,MNG,2022,Commercial,52.3
+Mongolia,Asia-Pacific,MNG,2023,Commercial,47.69
+Mongolia,Asia-Pacific,MNG,2024,Commercial,78.16
+Mongolia,Asia-Pacific,MNG,2019,Industrial,57.03
+Mongolia,Asia-Pacific,MNG,2020,Industrial,53.94
+Mongolia,Asia-Pacific,MNG,2021,Industrial,63.06
+Mongolia,Asia-Pacific,MNG,2022,Industrial,57.17
+Mongolia,Asia-Pacific,MNG,2023,Industrial,52.13
+Mongolia,Asia-Pacific,MNG,2024,Industrial,84.05
+Mongolia,Asia-Pacific,MNG,2019,Residential,57.03
+Mongolia,Asia-Pacific,MNG,2020,Residential,53.94
+Mongolia,Asia-Pacific,MNG,2021,Residential,47.13
+Mongolia,Asia-Pacific,MNG,2022,Residential,42.72
+Mongolia,Asia-Pacific,MNG,2023,Residential,38.95
+Mongolia,Asia-Pacific,MNG,2024,Residential,84.05
+Morocco,Africa,MAR,2019,Average,99.6
+Morocco,Africa,MAR,2020,Average,100.93
+Morocco,Africa,MAR,2021,Average,108.48
+Morocco,Africa,MAR,2022,Average,97.52
+Morocco,Africa,MAR,2023,Average,105.2
+Morocco,Africa,MAR,2024,Average,111.16
+Morocco,Africa,MAR,2019,Commercial,104.44
+Morocco,Africa,MAR,2020,Commercial,105.84
+Morocco,Africa,MAR,2021,Commercial,117.41
+Morocco,Africa,MAR,2022,Commercial,103.81
+Morocco,Africa,MAR,2023,Commercial,99.96
+Morocco,Africa,MAR,2024,Commercial,107.81
+Morocco,Africa,MAR,2019,Industrial,100.67
+Morocco,Africa,MAR,2020,Industrial,102.02
+Morocco,Africa,MAR,2021,Industrial,107.75
+Morocco,Africa,MAR,2022,Industrial,100.08
+Morocco,Africa,MAR,2023,Industrial,99.96
+Morocco,Africa,MAR,2024,Industrial,107.81
+Morocco,Africa,MAR,2019,Residential,93.68
+Morocco,Africa,MAR,2020,Residential,94.94
+Morocco,Africa,MAR,2021,Residential,100.27
+Morocco,Africa,MAR,2022,Residential,88.66
+Morocco,Africa,MAR,2023,Residential,115.67
+Morocco,Africa,MAR,2024,Residential,117.87
+Mozambique,Africa,MOZ,2019,Average,112.82
+Mozambique,Africa,MOZ,2020,Average,101.17
+Mozambique,Africa,MOZ,2021,Average,118.88
+Mozambique,Africa,MOZ,2022,Average,130.73
+Mozambique,Africa,MOZ,2023,Average,147.98
+Mozambique,Africa,MOZ,2024,Average,145.93
+Mozambique,Africa,MOZ,2019,Commercial,157.4
+Mozambique,Africa,MOZ,2020,Commercial,141.16
+Mozambique,Africa,MOZ,2021,Commercial,150.44
+Mozambique,Africa,MOZ,2022,Commercial,208.38
+Mozambique,Africa,MOZ,2023,Commercial,208.28
+Mozambique,Africa,MOZ,2024,Commercial,230.41
+Mozambique,Africa,MOZ,2019,Industrial,75.11
+Mozambique,Africa,MOZ,2020,Industrial,67.35
+Mozambique,Africa,MOZ,2021,Industrial,87.67
+Mozambique,Africa,MOZ,2022,Industrial,89.87
+Mozambique,Africa,MOZ,2023,Industrial,89.82
+Mozambique,Africa,MOZ,2024,Industrial,80.15
+Mozambique,Africa,MOZ,2019,Residential,105.95
+Mozambique,Africa,MOZ,2020,Residential,95.01
+Mozambique,Africa,MOZ,2021,Residential,118.52
+Mozambique,Africa,MOZ,2022,Residential,93.94
+Mozambique,Africa,MOZ,2023,Residential,145.85
+Mozambique,Africa,MOZ,2024,Residential,127.22
+Namibia,Africa,NAM,2019,Average,25.15
+Namibia,Africa,NAM,2020,Average,24.76
+Namibia,Africa,NAM,2021,Average,25.26
+Namibia,Africa,NAM,2022,Average,24.26
+Namibia,Africa,NAM,2023,Average,25.81
+Namibia,Africa,NAM,2024,Average,32.45
+Namibia,Africa,NAM,2019,Commercial,23.99
+Namibia,Africa,NAM,2020,Commercial,23.46
+Namibia,Africa,NAM,2021,Commercial,25.85
+Namibia,Africa,NAM,2022,Commercial,24.83
+Namibia,Africa,NAM,2023,Commercial,30.38
+Namibia,Africa,NAM,2024,Commercial,32.24
+Namibia,Africa,NAM,2019,Industrial,23.11
+Namibia,Africa,NAM,2020,Industrial,23.46
+Namibia,Africa,NAM,2021,Industrial,25.85
+Namibia,Africa,NAM,2022,Industrial,24.83
+Namibia,Africa,NAM,2023,Industrial,18.72
+Namibia,Africa,NAM,2024,Industrial,32.24
+Namibia,Africa,NAM,2019,Residential,28.35
+Namibia,Africa,NAM,2020,Residential,27.34
+Namibia,Africa,NAM,2021,Residential,24.08
+Namibia,Africa,NAM,2022,Residential,23.13
+Namibia,Africa,NAM,2023,Residential,28.33
+Namibia,Africa,NAM,2024,Residential,32.87
+Nepal,Asia-Pacific,NPL,2019,Average,92.26
+Nepal,Asia-Pacific,NPL,2020,Average,76.82
+Nepal,Asia-Pacific,NPL,2021,Average,81.99
+Nepal,Asia-Pacific,NPL,2022,Average,69.14
+Nepal,Asia-Pacific,NPL,2023,Average,69.9
+Nepal,Asia-Pacific,NPL,2024,Average,71.39
+Nepal,Asia-Pacific,NPL,2019,Commercial,101.53
+Nepal,Asia-Pacific,NPL,2020,Commercial,86.96
+Nepal,Asia-Pacific,NPL,2021,Commercial,94.67
+Nepal,Asia-Pacific,NPL,2022,Commercial,88.22
+Nepal,Asia-Pacific,NPL,2023,Commercial,83.24
+Nepal,Asia-Pacific,NPL,2024,Commercial,82.18
+Nepal,Asia-Pacific,NPL,2019,Industrial,76.18
+Nepal,Asia-Pacific,NPL,2020,Industrial,65.01
+Nepal,Asia-Pacific,NPL,2021,Industrial,71
+Nepal,Asia-Pacific,NPL,2022,Industrial,73.2
+Nepal,Asia-Pacific,NPL,2023,Industrial,62.81
+Nepal,Asia-Pacific,NPL,2024,Industrial,62.01
+Nepal,Asia-Pacific,NPL,2019,Residential,99.07
+Nepal,Asia-Pacific,NPL,2020,Residential,78.49
+Nepal,Asia-Pacific,NPL,2021,Residential,80.3
+Nepal,Asia-Pacific,NPL,2022,Residential,46.02
+Nepal,Asia-Pacific,NPL,2023,Residential,63.64
+Nepal,Asia-Pacific,NPL,2024,Residential,70
+Niger,Africa,NER,2019,Average,129.77
+Niger,Africa,NER,2020,Average,132.36
+Niger,Africa,NER,2021,Average,137.23
+Niger,Africa,NER,2022,Average,122.03
+Niger,Africa,NER,2023,Average,125.55
+Niger,Africa,NER,2024,Average,125.59
+Niger,Africa,NER,2019,Commercial,164.22
+Niger,Africa,NER,2020,Commercial,167.5
+Niger,Africa,NER,2021,Commercial,173.66
+Niger,Africa,NER,2022,Commercial,154.43
+Niger,Africa,NER,2023,Commercial,158.88
+Niger,Africa,NER,2024,Commercial,158.93
+Niger,Africa,NER,2019,Industrial,123.79
+Niger,Africa,NER,2020,Industrial,126.26
+Niger,Africa,NER,2021,Industrial,130.91
+Niger,Africa,NER,2022,Industrial,116.41
+Niger,Africa,NER,2023,Industrial,119.77
+Niger,Africa,NER,2024,Industrial,119.81
+Niger,Africa,NER,2019,Residential,101.29
+Niger,Africa,NER,2020,Residential,103.32
+Niger,Africa,NER,2021,Residential,107.12
+Niger,Africa,NER,2022,Residential,95.26
+Niger,Africa,NER,2023,Residential,98
+Niger,Africa,NER,2024,Residential,98.03
+Nigeria,Africa,NGA,2019,Average,92.19
+Nigeria,Africa,NGA,2020,Average,83.24
+Nigeria,Africa,NGA,2021,Average,95.48
+Nigeria,Africa,NGA,2022,Average,135.9
+Nigeria,Africa,NGA,2023,Average,96.23
+Nigeria,Africa,NGA,2024,Average,42.46
+Nigeria,Africa,NGA,2019,Commercial,102.47
+Nigeria,Africa,NGA,2020,Commercial,92.46
+Nigeria,Africa,NGA,2021,Commercial,104.34
+Nigeria,Africa,NGA,2022,Commercial,142.98
+Nigeria,Africa,NGA,2023,Commercial,100.82
+Nigeria,Africa,NGA,2024,Commercial,42.46
+Nigeria,Africa,NGA,2019,Industrial,99.77
+Nigeria,Africa,NGA,2020,Industrial,90.43
+Nigeria,Africa,NGA,2021,Industrial,100.97
+Nigeria,Africa,NGA,2022,Industrial,137.99
+Nigeria,Africa,NGA,2023,Industrial,97.02
+Nigeria,Africa,NGA,2024,Industrial,42.46
+Nigeria,Africa,NGA,2019,Residential,74.34
+Nigeria,Africa,NGA,2020,Residential,66.82
+Nigeria,Africa,NGA,2021,Residential,81.13
+Nigeria,Africa,NGA,2022,Residential,126.71
+Nigeria,Africa,NGA,2023,Residential,90.85
+Nigeria,Africa,NGA,2024,Residential,42.46
+North Macedonia,Europe,MKD,2019,Average,96.95
+North Macedonia,Europe,MKD,2020,Average,103.73
+North Macedonia,Europe,MKD,2021,Average,106.94
+North Macedonia,Europe,MKD,2022,Average,154.91
+North Macedonia,Europe,MKD,2023,Average,248.81
+North Macedonia,Europe,MKD,2024,Average,170.48
+North Macedonia,Europe,MKD,2019,Commercial,116.17
+North Macedonia,Europe,MKD,2020,Commercial,123.18
+North Macedonia,Europe,MKD,2021,Commercial,128.39
+North Macedonia,Europe,MKD,2022,Commercial,226.94
+North Macedonia,Europe,MKD,2023,Commercial,317.38
+North Macedonia,Europe,MKD,2024,Commercial,186.31
+North Macedonia,Europe,MKD,2019,Industrial,86.64
+North Macedonia,Europe,MKD,2020,Industrial,95.91
+North Macedonia,Europe,MKD,2021,Industrial,93.06
+North Macedonia,Europe,MKD,2022,Industrial,134.25
+North Macedonia,Europe,MKD,2023,Industrial,309.46
+North Macedonia,Europe,MKD,2024,Industrial,206.36
+North Macedonia,Europe,MKD,2019,Residential,88.02
+North Macedonia,Europe,MKD,2020,Residential,92.1
+North Macedonia,Europe,MKD,2021,Residential,99.37
+North Macedonia,Europe,MKD,2022,Residential,103.54
+North Macedonia,Europe,MKD,2023,Residential,119.6
+North Macedonia,Europe,MKD,2024,Residential,118.78
+North Macedonia,Europe,MKD,2019,Wholesale,66.4
+North Macedonia,Europe,MKD,2020,Wholesale,62.8
+North Macedonia,Europe,MKD,2021,Wholesale,124.35
+North Macedonia,Europe,MKD,2022,Wholesale,88.65
+North Macedonia,Europe,MKD,2023,Wholesale,124.1
+North Macedonia,Europe,MKD,2024,Wholesale,111.41
+Oman,Middle East,OMN,2019,Average,45.03
+Oman,Middle East,OMN,2020,Average,45.03
+Oman,Middle East,OMN,2021,Average,60.62
+Oman,Middle East,OMN,2022,Average,61.74
+Oman,Middle East,OMN,2023,Average,61.74
+Oman,Middle East,OMN,2024,Average,61.73
+Oman,Middle East,OMN,2019,Commercial,51.96
+Oman,Middle East,OMN,2020,Commercial,51.96
+Oman,Middle East,OMN,2021,Commercial,64.95
+Oman,Middle East,OMN,2022,Commercial,64.95
+Oman,Middle East,OMN,2023,Commercial,64.94
+Oman,Middle East,OMN,2024,Commercial,64.94
+Oman,Middle East,OMN,2019,Industrial,41.57
+Oman,Middle East,OMN,2020,Industrial,41.57
+Oman,Middle East,OMN,2021,Industrial,64.95
+Oman,Middle East,OMN,2022,Industrial,64.95
+Oman,Middle East,OMN,2023,Industrial,64.94
+Oman,Middle East,OMN,2024,Industrial,64.94
+Oman,Middle East,OMN,2019,Residential,41.57
+Oman,Middle East,OMN,2020,Residential,41.57
+Oman,Middle East,OMN,2021,Residential,51.96
+Oman,Middle East,OMN,2022,Residential,55.33
+Oman,Middle East,OMN,2023,Residential,55.33
+Oman,Middle East,OMN,2024,Residential,55.33
+Oman,Middle East,OMN,2022,Wholesale,21.04
+Oman,Middle East,OMN,2023,Wholesale,21.82
+Oman,Middle East,OMN,2024,Wholesale,23.64
+Pakistan,Asia-Pacific,PAK,2019,Average,108.15
+Pakistan,Asia-Pacific,PAK,2020,Average,80.15
+Pakistan,Asia-Pacific,PAK,2021,Average,109.44
+Pakistan,Asia-Pacific,PAK,2022,Average,120.67
+Pakistan,Asia-Pacific,PAK,2023,Average,90.18
+Pakistan,Asia-Pacific,PAK,2024,Average,131.53
+Pakistan,Asia-Pacific,PAK,2019,Commercial,66.81
+Pakistan,Asia-Pacific,PAK,2020,Commercial,83.28
+Pakistan,Asia-Pacific,PAK,2021,Commercial,113.46
+Pakistan,Asia-Pacific,PAK,2022,Commercial,123.55
+Pakistan,Asia-Pacific,PAK,2023,Commercial,92.3
+Pakistan,Asia-Pacific,PAK,2024,Commercial,133.21
+Pakistan,Asia-Pacific,PAK,2019,Industrial,169.89
+Pakistan,Asia-Pacific,PAK,2020,Industrial,78.09
+Pakistan,Asia-Pacific,PAK,2021,Industrial,106.66
+Pakistan,Asia-Pacific,PAK,2022,Industrial,124.22
+Pakistan,Asia-Pacific,PAK,2023,Industrial,92.79
+Pakistan,Asia-Pacific,PAK,2024,Industrial,134.29
+Pakistan,Asia-Pacific,PAK,2019,Residential,87.74
+Pakistan,Asia-Pacific,PAK,2020,Residential,79.08
+Pakistan,Asia-Pacific,PAK,2021,Residential,108.19
+Pakistan,Asia-Pacific,PAK,2022,Residential,114.24
+Pakistan,Asia-Pacific,PAK,2023,Residential,85.46
+Pakistan,Asia-Pacific,PAK,2024,Residential,127.1
+Panama,Latin America,PAN,2019,Average,193.1
+Panama,Latin America,PAN,2020,Average,169.13
+Panama,Latin America,PAN,2021,Average,169.17
+Panama,Latin America,PAN,2022,Average,193.03
+Panama,Latin America,PAN,2023,Average,198.67
+Panama,Latin America,PAN,2024,Average,173.36
+Panama,Latin America,PAN,2019,Commercial,210
+Panama,Latin America,PAN,2020,Commercial,195
+Panama,Latin America,PAN,2021,Commercial,177.4
+Panama,Latin America,PAN,2022,Commercial,205
+Panama,Latin America,PAN,2023,Commercial,192.8
+Panama,Latin America,PAN,2024,Commercial,160.22
+Panama,Latin America,PAN,2019,Industrial,192.1
+Panama,Latin America,PAN,2020,Industrial,126.2
+Panama,Latin America,PAN,2021,Industrial,152.7
+Panama,Latin America,PAN,2022,Industrial,169.1
+Panama,Latin America,PAN,2023,Industrial,210.4
+Panama,Latin America,PAN,2024,Industrial,149.88
+Panama,Latin America,PAN,2019,Residential,177.2
+Panama,Latin America,PAN,2020,Residential,186.2
+Panama,Latin America,PAN,2021,Residential,177.4
+Panama,Latin America,PAN,2022,Residential,205
+Panama,Latin America,PAN,2023,Residential,192.8
+Panama,Latin America,PAN,2024,Residential,209.97
+Panama,Latin America,PAN,2019,Wholesale,90.68
+Panama,Latin America,PAN,2020,Wholesale,48.45
+Panama,Latin America,PAN,2021,Wholesale,71.08
+Panama,Latin America,PAN,2022,Wholesale,105.46
+Panama,Latin America,PAN,2023,Wholesale,105.46
+Peru,Latin America,PER,2019,Average,122.86
+Peru,Latin America,PER,2020,Average,123.48
+Peru,Latin America,PER,2021,Average,120.11
+Peru,Latin America,PER,2022,Average,152.88
+Peru,Latin America,PER,2023,Average,127.53
+Peru,Latin America,PER,2024,Average,118.4
+Peru,Latin America,PER,2019,Commercial,119.94
+Peru,Latin America,PER,2020,Commercial,121.26
+Peru,Latin America,PER,2021,Commercial,117.26
+Peru,Latin America,PER,2022,Commercial,179.91
+Peru,Latin America,PER,2023,Commercial,157.63
+Peru,Latin America,PER,2024,Commercial,133.33
+Peru,Latin America,PER,2019,Industrial,92.35
+Peru,Latin America,PER,2020,Industrial,93.19
+Peru,Latin America,PER,2021,Industrial,90.69
+Peru,Latin America,PER,2022,Industrial,45.11
+Peru,Latin America,PER,2023,Industrial,41.14
+Peru,Latin America,PER,2024,Industrial,39.73
+Peru,Latin America,PER,2019,Residential,156.3
+Peru,Latin America,PER,2020,Residential,155.98
+Peru,Latin America,PER,2021,Residential,152.37
+Peru,Latin America,PER,2022,Residential,233.63
+Peru,Latin America,PER,2023,Residential,183.81
+Peru,Latin America,PER,2024,Residential,182.13
+Peru,Latin America,PER,2019,Wholesale,8.99
+Peru,Latin America,PER,2020,Wholesale,9.45
+Peru,Latin America,PER,2021,Wholesale,17.27
+Peru,Latin America,PER,2022,Wholesale,36.14
+Peru,Latin America,PER,2023,Wholesale,73.43
+Peru,Latin America,PER,2024,Wholesale,30.27
+Philippines,Asia-Pacific,PHL,2019,Average,169.65
+Philippines,Asia-Pacific,PHL,2020,Average,151.72
+Philippines,Asia-Pacific,PHL,2021,Average,167.85
+Philippines,Asia-Pacific,PHL,2022,Average,163.86
+Philippines,Asia-Pacific,PHL,2023,Average,187.6
+Philippines,Asia-Pacific,PHL,2024,Average,173.72
+Philippines,Asia-Pacific,PHL,2019,Commercial,191.89
+Philippines,Asia-Pacific,PHL,2020,Commercial,150.38
+Philippines,Asia-Pacific,PHL,2021,Commercial,164.54
+Philippines,Asia-Pacific,PHL,2022,Commercial,164.35
+Philippines,Asia-Pacific,PHL,2023,Commercial,186.16
+Philippines,Asia-Pacific,PHL,2024,Commercial,185.82
+Philippines,Asia-Pacific,PHL,2019,Industrial,113.71
+Philippines,Asia-Pacific,PHL,2020,Industrial,125.18
+Philippines,Asia-Pacific,PHL,2021,Industrial,138.57
+Philippines,Asia-Pacific,PHL,2022,Industrial,140.68
+Philippines,Asia-Pacific,PHL,2023,Industrial,163.52
+Philippines,Asia-Pacific,PHL,2024,Industrial,135.66
+Philippines,Asia-Pacific,PHL,2019,Residential,203.36
+Philippines,Asia-Pacific,PHL,2020,Residential,179.6
+Philippines,Asia-Pacific,PHL,2021,Residential,200.45
+Philippines,Asia-Pacific,PHL,2022,Residential,186.54
+Philippines,Asia-Pacific,PHL,2023,Residential,213.12
+Philippines,Asia-Pacific,PHL,2024,Residential,199.68
+Philippines,Asia-Pacific,PHL,2019,Wholesale,104.76
+Philippines,Asia-Pacific,PHL,2020,Wholesale,49.39
+Philippines,Asia-Pacific,PHL,2021,Wholesale,105.74
+Philippines,Asia-Pacific,PHL,2022,Wholesale,144.63
+Philippines,Asia-Pacific,PHL,2023,Wholesale,116.89
+Philippines,Asia-Pacific,PHL,2024,Wholesale,97.45
+Qatar,Middle East,QAT,2019,Average,40.35
+Qatar,Middle East,QAT,2020,Average,40.22
+Qatar,Middle East,QAT,2021,Average,40.14
+Qatar,Middle East,QAT,2022,Average,40.26
+Qatar,Middle East,QAT,2023,Average,40.45
+Qatar,Middle East,QAT,2024,Average,43.27
+Qatar,Middle East,QAT,2019,Commercial,47.28
+Qatar,Middle East,QAT,2020,Commercial,47.12
+Qatar,Middle East,QAT,2021,Commercial,47.02
+Qatar,Middle East,QAT,2022,Commercial,47.16
+Qatar,Middle East,QAT,2023,Commercial,47.39
+Qatar,Middle East,QAT,2024,Commercial,47.54
+Qatar,Middle East,QAT,2019,Industrial,35.53
+Qatar,Middle East,QAT,2020,Industrial,35.41
+Qatar,Middle East,QAT,2021,Industrial,35.33
+Qatar,Middle East,QAT,2022,Industrial,35.44
+Qatar,Middle East,QAT,2023,Industrial,35.61
+Qatar,Middle East,QAT,2024,Industrial,35.65
+Qatar,Middle East,QAT,2019,Residential,38.26
+Qatar,Middle East,QAT,2020,Residential,38.13
+Qatar,Middle East,QAT,2021,Residential,38.05
+Qatar,Middle East,QAT,2022,Residential,38.17
+Qatar,Middle East,QAT,2023,Residential,38.35
+Qatar,Middle East,QAT,2024,Residential,46.63
+Republic of the Congo,Africa,COG,2019,Average,58.11
+Republic of the Congo,Africa,COG,2020,Average,88.18
+Republic of the Congo,Africa,COG,2021,Average,91.49
+Republic of the Congo,Africa,COG,2022,Average,81.35
+Republic of the Congo,Africa,COG,2023,Average,83.7
+Republic of the Congo,Africa,COG,2024,Average,83.73
+Republic of the Congo,Africa,COG,2019,Commercial,48.45
+Republic of the Congo,Africa,COG,2020,Commercial,87.6
+Republic of the Congo,Africa,COG,2021,Commercial,90.89
+Republic of the Congo,Africa,COG,2022,Commercial,80.82
+Republic of the Congo,Africa,COG,2023,Commercial,83.15
+Republic of the Congo,Africa,COG,2024,Commercial,83.18
+Republic of the Congo,Africa,COG,2019,Industrial,42.97
+Republic of the Congo,Africa,COG,2020,Industrial,45.92
+Republic of the Congo,Africa,COG,2021,Industrial,47.64
+Republic of the Congo,Africa,COG,2022,Industrial,42.36
+Republic of the Congo,Africa,COG,2023,Industrial,43.59
+Republic of the Congo,Africa,COG,2024,Industrial,43.6
+Republic of the Congo,Africa,COG,2019,Residential,82.91
+Republic of the Congo,Africa,COG,2020,Residential,131.02
+Republic of the Congo,Africa,COG,2021,Residential,135.94
+Republic of the Congo,Africa,COG,2022,Residential,120.88
+Republic of the Congo,Africa,COG,2023,Residential,124.36
+Republic of the Congo,Africa,COG,2024,Residential,124.4
+Romania,Europe,ROU,2019,Average,140.45
+Romania,Europe,ROU,2020,Average,150.91
+Romania,Europe,ROU,2021,Average,172.26
+Romania,Europe,ROU,2022,Average,338.41
+Romania,Europe,ROU,2023,Average,219.1
+Romania,Europe,ROU,2024,Average,211.47
+Romania,Europe,ROU,2019,Commercial,146.28
+Romania,Europe,ROU,2020,Commercial,160.28
+Romania,Europe,ROU,2021,Commercial,177.52
+Romania,Europe,ROU,2022,Commercial,394.38
+Romania,Europe,ROU,2023,Commercial,239.55
+Romania,Europe,ROU,2024,Commercial,227.24
+Romania,Europe,ROU,2019,Industrial,119.56
+Romania,Europe,ROU,2020,Industrial,126.64
+Romania,Europe,ROU,2021,Industrial,153.82
+Romania,Europe,ROU,2022,Industrial,317.44
+Romania,Europe,ROU,2023,Industrial,212.22
+Romania,Europe,ROU,2024,Industrial,203.26
+Romania,Europe,ROU,2019,Residential,155.52
+Romania,Europe,ROU,2020,Residential,165.81
+Romania,Europe,ROU,2021,Residential,185.44
+Romania,Europe,ROU,2022,Residential,303.4
+Romania,Europe,ROU,2023,Residential,205.54
+Romania,Europe,ROU,2024,Residential,203.91
+Romania,Europe,ROU,2019,Wholesale,56.26
+Romania,Europe,ROU,2020,Wholesale,45
+Romania,Europe,ROU,2021,Wholesale,131.98
+Romania,Europe,ROU,2022,Wholesale,278.22
+Romania,Europe,ROU,2023,Wholesale,111.86
+Romania,Europe,ROU,2024,Wholesale,111.92
+Rwanda,Africa,RWA,2019,Average,173.62
+Rwanda,Africa,RWA,2020,Average,208.33
+Rwanda,Africa,RWA,2021,Average,198.3
+Rwanda,Africa,RWA,2022,Average,196.69
+Rwanda,Africa,RWA,2023,Average,176.76
+Rwanda,Africa,RWA,2024,Average,155.43
+Rwanda,Africa,RWA,2019,Commercial,210.54
+Rwanda,Africa,RWA,2020,Commercial,266.51
+Rwanda,Africa,RWA,2021,Commercial,251.96
+Rwanda,Africa,RWA,2022,Commercial,246.66
+Rwanda,Africa,RWA,2023,Commercial,220.23
+Rwanda,Africa,RWA,2024,Commercial,193.65
+Rwanda,Africa,RWA,2019,Industrial,103.08
+Rwanda,Africa,RWA,2020,Industrial,98.24
+Rwanda,Africa,RWA,2021,Industrial,93.98
+Rwanda,Africa,RWA,2022,Industrial,102.53
+Rwanda,Africa,RWA,2023,Industrial,95
+Rwanda,Africa,RWA,2024,Industrial,83.54
+Rwanda,Africa,RWA,2019,Residential,207.25
+Rwanda,Africa,RWA,2020,Residential,260.24
+Rwanda,Africa,RWA,2021,Residential,248.96
+Rwanda,Africa,RWA,2022,Residential,240.86
+Rwanda,Africa,RWA,2023,Residential,215.05
+Rwanda,Africa,RWA,2024,Residential,189.1
+Saudi Arabia,Middle East,SAU,2019,Average,58.66
+Saudi Arabia,Middle East,SAU,2020,Average,58.62
+Saudi Arabia,Middle East,SAU,2021,Average,58.65
+Saudi Arabia,Middle East,SAU,2022,Average,59.48
+Saudi Arabia,Middle East,SAU,2023,Average,59.53
+Saudi Arabia,Middle East,SAU,2024,Average,61.29
+Saudi Arabia,Middle East,SAU,2019,Commercial,79.99
+Saudi Arabia,Middle East,SAU,2020,Commercial,79.94
+Saudi Arabia,Middle East,SAU,2021,Commercial,79.98
+Saudi Arabia,Middle East,SAU,2022,Commercial,66.58
+Saudi Arabia,Middle East,SAU,2023,Commercial,66.63
+Saudi Arabia,Middle East,SAU,2024,Commercial,66.62
+Saudi Arabia,Middle East,SAU,2019,Industrial,47.99
+Saudi Arabia,Middle East,SAU,2020,Industrial,47.96
+Saudi Arabia,Middle East,SAU,2021,Industrial,47.99
+Saudi Arabia,Middle East,SAU,2022,Industrial,47.94
+Saudi Arabia,Middle East,SAU,2023,Industrial,47.98
+Saudi Arabia,Middle East,SAU,2024,Industrial,53.3
+Saudi Arabia,Middle East,SAU,2019,Residential,47.99
+Saudi Arabia,Middle East,SAU,2020,Residential,47.96
+Saudi Arabia,Middle East,SAU,2021,Residential,47.99
+Saudi Arabia,Middle East,SAU,2022,Residential,63.92
+Saudi Arabia,Middle East,SAU,2023,Residential,63.97
+Saudi Arabia,Middle East,SAU,2024,Residential,63.96
+Senegal,Africa,SEN,2019,Average,170.99
+Senegal,Africa,SEN,2020,Average,182.54
+Senegal,Africa,SEN,2021,Average,188.41
+Senegal,Africa,SEN,2022,Average,166.2
+Senegal,Africa,SEN,2023,Average,201.17
+Senegal,Africa,SEN,2024,Average,204.34
+Senegal,Africa,SEN,2019,Commercial,191.96
+Senegal,Africa,SEN,2020,Commercial,197.36
+Senegal,Africa,SEN,2021,Commercial,204.78
+Senegal,Africa,SEN,2022,Commercial,179.44
+Senegal,Africa,SEN,2023,Commercial,226.14
+Senegal,Africa,SEN,2024,Commercial,228.74
+Senegal,Africa,SEN,2019,Industrial,136.49
+Senegal,Africa,SEN,2020,Industrial,147.2
+Senegal,Africa,SEN,2021,Industrial,153.2
+Senegal,Africa,SEN,2022,Industrial,134.34
+Senegal,Africa,SEN,2023,Industrial,162.27
+Senegal,Africa,SEN,2024,Industrial,169.34
+Senegal,Africa,SEN,2019,Residential,184.51
+Senegal,Africa,SEN,2020,Residential,203.07
+Senegal,Africa,SEN,2021,Residential,207.26
+Senegal,Africa,SEN,2022,Residential,184.82
+Senegal,Africa,SEN,2023,Residential,215.09
+Senegal,Africa,SEN,2024,Residential,214.93
+Serbia,Europe,SRB,2019,Average,98
+Serbia,Europe,SRB,2020,Average,103.71
+Serbia,Europe,SRB,2021,Average,113.01
+Serbia,Europe,SRB,2022,Average,119.72
+Serbia,Europe,SRB,2023,Average,162.13
+Serbia,Europe,SRB,2024,Average,163.56
+Serbia,Europe,SRB,2019,Commercial,126.84
+Serbia,Europe,SRB,2020,Commercial,127.92
+Serbia,Europe,SRB,2021,Commercial,138.43
+Serbia,Europe,SRB,2022,Commercial,152.86
+Serbia,Europe,SRB,2023,Commercial,203.04
+Serbia,Europe,SRB,2024,Commercial,202.91
+Serbia,Europe,SRB,2019,Industrial,95.19
+Serbia,Europe,SRB,2020,Industrial,99.11
+Serbia,Europe,SRB,2021,Industrial,105.92
+Serbia,Europe,SRB,2022,Industrial,118.14
+Serbia,Europe,SRB,2023,Industrial,174.68
+Serbia,Europe,SRB,2024,Industrial,169.35
+Serbia,Europe,SRB,2019,Residential,71.98
+Serbia,Europe,SRB,2020,Residential,84.09
+Serbia,Europe,SRB,2021,Residential,94.69
+Serbia,Europe,SRB,2022,Residential,88.15
+Serbia,Europe,SRB,2023,Residential,108.68
+Serbia,Europe,SRB,2024,Residential,118.43
+Serbia,Europe,SRB,2019,Wholesale,56.66
+Serbia,Europe,SRB,2020,Wholesale,49.46
+Serbia,Europe,SRB,2021,Wholesale,134.52
+Serbia,Europe,SRB,2022,Wholesale,286.96
+Serbia,Europe,SRB,2023,Wholesale,108.05
+Serbia,Europe,SRB,2024,Wholesale,110.28
+Sierra Leone,Africa,SLE,2019,Average,285.26
+Sierra Leone,Africa,SLE,2020,Average,248.79
+Sierra Leone,Africa,SLE,2021,Average,220.88
+Sierra Leone,Africa,SLE,2022,Average,222.76
+Sierra Leone,Africa,SLE,2023,Average,231.74
+Sierra Leone,Africa,SLE,2024,Average,219.18
+Sierra Leone,Africa,SLE,2019,Commercial,242.95
+Sierra Leone,Africa,SLE,2020,Commercial,224.89
+Sierra Leone,Africa,SLE,2021,Commercial,154.21
+Sierra Leone,Africa,SLE,2022,Commercial,214.96
+Sierra Leone,Africa,SLE,2023,Commercial,257
+Sierra Leone,Africa,SLE,2024,Commercial,243.07
+Sierra Leone,Africa,SLE,2019,Industrial,409.08
+Sierra Leone,Africa,SLE,2020,Industrial,378.66
+Sierra Leone,Africa,SLE,2021,Industrial,356.67
+Sierra Leone,Africa,SLE,2022,Industrial,240.49
+Sierra Leone,Africa,SLE,2023,Industrial,273.09
+Sierra Leone,Africa,SLE,2024,Industrial,258.29
+Sierra Leone,Africa,SLE,2019,Residential,203.74
+Sierra Leone,Africa,SLE,2020,Residential,142.81
+Sierra Leone,Africa,SLE,2021,Residential,151.75
+Sierra Leone,Africa,SLE,2022,Residential,212.82
+Sierra Leone,Africa,SLE,2023,Residential,165.13
+Sierra Leone,Africa,SLE,2024,Residential,156.18
+Singapore,Asia-Pacific,SGP,2019,Average,146.77
+Singapore,Asia-Pacific,SGP,2020,Average,134.78
+Singapore,Asia-Pacific,SGP,2021,Average,141.53
+Singapore,Asia-Pacific,SGP,2022,Average,176.42
+Singapore,Asia-Pacific,SGP,2023,Average,238.04
+Singapore,Asia-Pacific,SGP,2024,Average,207.23
+Singapore,Asia-Pacific,SGP,2019,Commercial,134.36
+Singapore,Asia-Pacific,SGP,2020,Commercial,122.73
+Singapore,Asia-Pacific,SGP,2021,Commercial,128.4
+Singapore,Asia-Pacific,SGP,2022,Commercial,162.48
+Singapore,Asia-Pacific,SGP,2023,Commercial,244.25
+Singapore,Asia-Pacific,SGP,2024,Commercial,188.06
+Singapore,Asia-Pacific,SGP,2019,Industrial,133.25
+Singapore,Asia-Pacific,SGP,2020,Industrial,121.63
+Singapore,Asia-Pacific,SGP,2021,Industrial,127.28
+Singapore,Asia-Pacific,SGP,2022,Industrial,161.39
+Singapore,Asia-Pacific,SGP,2023,Industrial,243.05
+Singapore,Asia-Pacific,SGP,2024,Industrial,191.7
+Singapore,Asia-Pacific,SGP,2019,Residential,172.7
+Singapore,Asia-Pacific,SGP,2020,Residential,159.97
+Singapore,Asia-Pacific,SGP,2021,Residential,168.91
+Singapore,Asia-Pacific,SGP,2022,Residential,205.4
+Singapore,Asia-Pacific,SGP,2023,Residential,226.82
+Singapore,Asia-Pacific,SGP,2024,Residential,241.94
+Singapore,Asia-Pacific,SGP,2019,Wholesale,72.11
+Singapore,Asia-Pacific,SGP,2020,Wholesale,50.75
+Singapore,Asia-Pacific,SGP,2021,Wholesale,144.77
+Singapore,Asia-Pacific,SGP,2022,Wholesale,211.34
+Singapore,Asia-Pacific,SGP,2023,Wholesale,186.8
+Singapore,Asia-Pacific,SGP,2024,Wholesale,148.52
+South Africa,Africa,ZAF,2019,Average,74.14
+South Africa,Africa,ZAF,2020,Average,88.04
+South Africa,Africa,ZAF,2021,Average,101.23
+South Africa,Africa,ZAF,2022,Average,99.93
+South Africa,Africa,ZAF,2023,Average,89.74
+South Africa,Africa,ZAF,2024,Average,96.45
+South Africa,Africa,ZAF,2019,Commercial,82.95
+South Africa,Africa,ZAF,2020,Commercial,106.5
+South Africa,Africa,ZAF,2021,Commercial,81.73
+South Africa,Africa,ZAF,2022,Commercial,81.24
+South Africa,Africa,ZAF,2023,Commercial,80.78
+South Africa,Africa,ZAF,2024,Commercial,92.19
+South Africa,Africa,ZAF,2019,Industrial,51.97
+South Africa,Africa,ZAF,2020,Industrial,42.31
+South Africa,Africa,ZAF,2021,Industrial,49.04
+South Africa,Africa,ZAF,2022,Industrial,48.74
+South Africa,Africa,ZAF,2023,Industrial,34.9
+South Africa,Africa,ZAF,2024,Industrial,39.81
+South Africa,Africa,ZAF,2019,Residential,87.5
+South Africa,Africa,ZAF,2020,Residential,115.32
+South Africa,Africa,ZAF,2021,Residential,172.92
+South Africa,Africa,ZAF,2022,Residential,169.81
+South Africa,Africa,ZAF,2023,Residential,153.55
+South Africa,Africa,ZAF,2024,Residential,157.37
+Sri Lanka,Asia-Pacific,LKA,2019,Average,86.28
+Sri Lanka,Asia-Pacific,LKA,2020,Average,84.35
+Sri Lanka,Asia-Pacific,LKA,2021,Average,89.5
+Sri Lanka,Asia-Pacific,LKA,2022,Average,64.36
+Sri Lanka,Asia-Pacific,LKA,2023,Average,130.93
+Sri Lanka,Asia-Pacific,LKA,2024,Average,142.15
+Sri Lanka,Asia-Pacific,LKA,2019,Commercial,116.5
+Sri Lanka,Asia-Pacific,LKA,2020,Commercial,113.39
+Sri Lanka,Asia-Pacific,LKA,2021,Commercial,119.48
+Sri Lanka,Asia-Pacific,LKA,2022,Commercial,75.24
+Sri Lanka,Asia-Pacific,LKA,2023,Commercial,141.98
+Sri Lanka,Asia-Pacific,LKA,2024,Commercial,154.15
+Sri Lanka,Asia-Pacific,LKA,2019,Industrial,82.35
+Sri Lanka,Asia-Pacific,LKA,2020,Industrial,80.07
+Sri Lanka,Asia-Pacific,LKA,2021,Industrial,73.9
+Sri Lanka,Asia-Pacific,LKA,2022,Industrial,63.32
+Sri Lanka,Asia-Pacific,LKA,2023,Industrial,117.95
+Sri Lanka,Asia-Pacific,LKA,2024,Industrial,128.07
+Sri Lanka,Asia-Pacific,LKA,2019,Residential,59.97
+Sri Lanka,Asia-Pacific,LKA,2020,Residential,59.57
+Sri Lanka,Asia-Pacific,LKA,2021,Residential,75.11
+Sri Lanka,Asia-Pacific,LKA,2022,Residential,54.53
+Sri Lanka,Asia-Pacific,LKA,2023,Residential,132.85
+Sri Lanka,Asia-Pacific,LKA,2024,Residential,144.24
+Sri Lanka,Asia-Pacific,LKA,2022,Wholesale,65.28
+Sri Lanka,Asia-Pacific,LKA,2023,Wholesale,130.83
+Sri Lanka,Asia-Pacific,LKA,2024,Wholesale,142.05
+Taiwan,Asia-Pacific,TWN,2019,Average,92.73
+Taiwan,Asia-Pacific,TWN,2020,Average,96.46
+Taiwan,Asia-Pacific,TWN,2021,Average,101.13
+Taiwan,Asia-Pacific,TWN,2022,Average,97.13
+Taiwan,Asia-Pacific,TWN,2023,Average,99.68
+Taiwan,Asia-Pacific,TWN,2024,Average,108.03
+Taiwan,Asia-Pacific,TWN,2019,Commercial,113.57
+Taiwan,Asia-Pacific,TWN,2020,Commercial,116.53
+Taiwan,Asia-Pacific,TWN,2021,Commercial,122.75
+Taiwan,Asia-Pacific,TWN,2022,Commercial,114.98
+Taiwan,Asia-Pacific,TWN,2023,Commercial,113.7
+Taiwan,Asia-Pacific,TWN,2024,Commercial,115.86
+Taiwan,Asia-Pacific,TWN,2019,Industrial,82.91
+Taiwan,Asia-Pacific,TWN,2020,Industrial,85.96
+Taiwan,Asia-Pacific,TWN,2021,Industrial,90.73
+Taiwan,Asia-Pacific,TWN,2022,Industrial,90.76
+Taiwan,Asia-Pacific,TWN,2023,Industrial,101.82
+Taiwan,Asia-Pacific,TWN,2024,Industrial,114.77
+Taiwan,Asia-Pacific,TWN,2019,Residential,81.72
+Taiwan,Asia-Pacific,TWN,2020,Residential,86.89
+Taiwan,Asia-Pacific,TWN,2021,Residential,89.89
+Taiwan,Asia-Pacific,TWN,2022,Residential,85.66
+Taiwan,Asia-Pacific,TWN,2023,Residential,83.53
+Taiwan,Asia-Pacific,TWN,2024,Residential,93.46
+Taiwan,Asia-Pacific,TWN,2019,Wholesale,72.15
+Taiwan,Asia-Pacific,TWN,2020,Wholesale,68.57
+Taiwan,Asia-Pacific,TWN,2021,Wholesale,71.96
+Taiwan,Asia-Pacific,TWN,2022,Wholesale,113.56
+Taiwan,Asia-Pacific,TWN,2023,Wholesale,115.13
+Taiwan,Asia-Pacific,TWN,2024,Wholesale,97.73
+Tajikistan,Asia-Pacific,TJK,2019,Average,46.48
+Tajikistan,Asia-Pacific,TJK,2020,Average,42.94
+Tajikistan,Asia-Pacific,TJK,2021,Average,39.97
+Tajikistan,Asia-Pacific,TJK,2022,Average,40.66
+Tajikistan,Asia-Pacific,TJK,2023,Average,47.61
+Tajikistan,Asia-Pacific,TJK,2024,Average,55.27
+Tajikistan,Asia-Pacific,TJK,2019,Commercial,57.84
+Tajikistan,Asia-Pacific,TJK,2020,Commercial,53.43
+Tajikistan,Asia-Pacific,TJK,2021,Commercial,49.69
+Tajikistan,Asia-Pacific,TJK,2022,Commercial,50.54
+Tajikistan,Asia-Pacific,TJK,2023,Commercial,59.16
+Tajikistan,Asia-Pacific,TJK,2024,Commercial,68.67
+Tajikistan,Asia-Pacific,TJK,2019,Industrial,57.84
+Tajikistan,Asia-Pacific,TJK,2020,Industrial,53.43
+Tajikistan,Asia-Pacific,TJK,2021,Industrial,49.69
+Tajikistan,Asia-Pacific,TJK,2022,Industrial,50.54
+Tajikistan,Asia-Pacific,TJK,2023,Industrial,59.16
+Tajikistan,Asia-Pacific,TJK,2024,Industrial,68.67
+Tajikistan,Asia-Pacific,TJK,2019,Residential,23.77
+Tajikistan,Asia-Pacific,TJK,2020,Residential,21.96
+Tajikistan,Asia-Pacific,TJK,2021,Residential,20.55
+Tajikistan,Asia-Pacific,TJK,2022,Residential,20.9
+Tajikistan,Asia-Pacific,TJK,2023,Residential,24.52
+Tajikistan,Asia-Pacific,TJK,2024,Residential,28.46
+Tanzania,Africa,TZA,2019,Average,85.9
+Tanzania,Africa,TZA,2020,Average,85.66
+Tanzania,Africa,TZA,2021,Average,85.6
+Tanzania,Africa,TZA,2022,Average,85.2
+Tanzania,Africa,TZA,2023,Average,82.1
+Tanzania,Africa,TZA,2024,Average,75.85
+Tanzania,Africa,TZA,2019,Commercial,105.64
+Tanzania,Africa,TZA,2020,Commercial,105.35
+Tanzania,Africa,TZA,2021,Commercial,105.27
+Tanzania,Africa,TZA,2022,Commercial,104.78
+Tanzania,Africa,TZA,2023,Commercial,100.97
+Tanzania,Africa,TZA,2024,Commercial,93.28
+Tanzania,Africa,TZA,2019,Industrial,67.03
+Tanzania,Africa,TZA,2020,Industrial,66.84
+Tanzania,Africa,TZA,2021,Industrial,66.79
+Tanzania,Africa,TZA,2022,Industrial,66.48
+Tanzania,Africa,TZA,2023,Industrial,64.07
+Tanzania,Africa,TZA,2024,Industrial,59.19
+Tanzania,Africa,TZA,2019,Residential,85.03
+Tanzania,Africa,TZA,2020,Residential,84.8
+Tanzania,Africa,TZA,2021,Residential,84.74
+Tanzania,Africa,TZA,2022,Residential,84.34
+Tanzania,Africa,TZA,2023,Residential,81.28
+Tanzania,Africa,TZA,2024,Residential,75.08
+Thailand,Asia-Pacific,THA,2019,Average,114.39
+Thailand,Asia-Pacific,THA,2020,Average,113.23
+Thailand,Asia-Pacific,THA,2021,Average,109.7
+Thailand,Asia-Pacific,THA,2022,Average,113.4
+Thailand,Asia-Pacific,THA,2023,Average,128.86
+Thailand,Asia-Pacific,THA,2024,Average,118.75
+Thailand,Asia-Pacific,THA,2019,Commercial,122.03
+Thailand,Asia-Pacific,THA,2020,Commercial,121.03
+Thailand,Asia-Pacific,THA,2021,Commercial,117.35
+Thailand,Asia-Pacific,THA,2022,Commercial,120.38
+Thailand,Asia-Pacific,THA,2023,Commercial,137.85
+Thailand,Asia-Pacific,THA,2024,Commercial,128.11
+Thailand,Asia-Pacific,THA,2019,Industrial,98.21
+Thailand,Asia-Pacific,THA,2020,Industrial,96.75
+Thailand,Asia-Pacific,THA,2021,Industrial,93.55
+Thailand,Asia-Pacific,THA,2022,Industrial,98.66
+Thailand,Asia-Pacific,THA,2023,Industrial,115.97
+Thailand,Asia-Pacific,THA,2024,Industrial,107.98
+Thailand,Asia-Pacific,THA,2019,Residential,122.91
+Thailand,Asia-Pacific,THA,2020,Residential,121.9
+Thailand,Asia-Pacific,THA,2021,Residential,118.2
+Thailand,Asia-Pacific,THA,2022,Residential,121.16
+Thailand,Asia-Pacific,THA,2023,Residential,132.75
+Thailand,Asia-Pacific,THA,2024,Residential,120.17
+Togo,Africa,TGO,2019,Average,183.49
+Togo,Africa,TGO,2020,Average,185.9
+Togo,Africa,TGO,2021,Average,211.78
+Togo,Africa,TGO,2022,Average,182.66
+Togo,Africa,TGO,2023,Average,192.99
+Togo,Africa,TGO,2024,Average,193.05
+Togo,Africa,TGO,2019,Commercial,184.85
+Togo,Africa,TGO,2020,Commercial,185.71
+Togo,Africa,TGO,2021,Commercial,191.3
+Togo,Africa,TGO,2022,Commercial,158.45
+Togo,Africa,TGO,2023,Commercial,166.01
+Togo,Africa,TGO,2024,Commercial,166.05
+Togo,Africa,TGO,2019,Industrial,148.66
+Togo,Africa,TGO,2020,Industrial,151.63
+Togo,Africa,TGO,2021,Industrial,214.47
+Togo,Africa,TGO,2022,Industrial,184.17
+Togo,Africa,TGO,2023,Industrial,194.11
+Togo,Africa,TGO,2024,Industrial,194.17
+Togo,Africa,TGO,2019,Residential,216.95
+Togo,Africa,TGO,2020,Residential,220.36
+Togo,Africa,TGO,2021,Residential,229.59
+Togo,Africa,TGO,2022,Residential,205.38
+Togo,Africa,TGO,2023,Residential,218.86
+Togo,Africa,TGO,2024,Residential,218.92
+Tunisia,Africa,TUN,2019,Average,57.79
+Tunisia,Africa,TUN,2020,Average,60.39
+Tunisia,Africa,TUN,2021,Average,63.14
+Tunisia,Africa,TUN,2022,Average,59.03
+Tunisia,Africa,TUN,2023,Average,58.89
+Tunisia,Africa,TUN,2024,Average,58.7
+Tunisia,Africa,TUN,2019,Commercial,66.55
+Tunisia,Africa,TUN,2020,Commercial,69.54
+Tunisia,Africa,TUN,2021,Commercial,70.09
+Tunisia,Africa,TUN,2022,Commercial,63.02
+Tunisia,Africa,TUN,2023,Commercial,62.86
+Tunisia,Africa,TUN,2024,Commercial,62.66
+Tunisia,Africa,TUN,2019,Industrial,85.66
+Tunisia,Africa,TUN,2020,Industrial,89.51
+Tunisia,Africa,TUN,2021,Industrial,97.05
+Tunisia,Africa,TUN,2022,Industrial,94.04
+Tunisia,Africa,TUN,2023,Industrial,93.81
+Tunisia,Africa,TUN,2024,Industrial,93.51
+Tunisia,Africa,TUN,2019,Residential,21.16
+Tunisia,Africa,TUN,2020,Residential,22.11
+Tunisia,Africa,TUN,2021,Residential,22.29
+Tunisia,Africa,TUN,2022,Residential,20.04
+Tunisia,Africa,TUN,2023,Residential,19.99
+Tunisia,Africa,TUN,2024,Residential,19.92
+Turkey,Europe,TUR,2019,Average,108.24
+Turkey,Europe,TUR,2020,Average,95.02
+Turkey,Europe,TUR,2021,Average,95.93
+Turkey,Europe,TUR,2022,Average,163.96
+Turkey,Europe,TUR,2023,Average,121.36
+Turkey,Europe,TUR,2024,Average,90.6
+Turkey,Europe,TUR,2019,Commercial,114.61
+Turkey,Europe,TUR,2020,Commercial,103.51
+Turkey,Europe,TUR,2021,Commercial,101.44
+Turkey,Europe,TUR,2022,Commercial,204.95
+Turkey,Europe,TUR,2023,Commercial,161.34
+Turkey,Europe,TUR,2024,Commercial,122
+Turkey,Europe,TUR,2019,Industrial,93.28
+Turkey,Europe,TUR,2020,Industrial,78.56
+Turkey,Europe,TUR,2021,Industrial,90.95
+Turkey,Europe,TUR,2022,Industrial,192.34
+Turkey,Europe,TUR,2023,Industrial,129.21
+Turkey,Europe,TUR,2024,Industrial,98.95
+Turkey,Europe,TUR,2019,Residential,116.82
+Turkey,Europe,TUR,2020,Residential,102.99
+Turkey,Europe,TUR,2021,Residential,95.4
+Turkey,Europe,TUR,2022,Residential,94.57
+Turkey,Europe,TUR,2023,Residential,73.52
+Turkey,Europe,TUR,2024,Residential,50.84
+Turkey,Europe,TUR,2019,Wholesale,45.84
+Turkey,Europe,TUR,2020,Wholesale,39.69
+Turkey,Europe,TUR,2021,Wholesale,61.55
+Turkey,Europe,TUR,2022,Wholesale,131.14
+Turkey,Europe,TUR,2023,Wholesale,99.35
+Turkey,Europe,TUR,2024,Wholesale,68.08
+Turkmenistan,Asia-Pacific,TKM,2019,Average,1.41
+Turkmenistan,Asia-Pacific,TKM,2020,Average,1.41
+Turkmenistan,Asia-Pacific,TKM,2021,Average,1.36
+Turkmenistan,Asia-Pacific,TKM,2022,Average,1.36
+Turkmenistan,Asia-Pacific,TKM,2023,Average,1.43
+Turkmenistan,Asia-Pacific,TKM,2024,Average,1.43
+Turkmenistan,Asia-Pacific,TKM,2019,Commercial,1.76
+Turkmenistan,Asia-Pacific,TKM,2020,Commercial,1.76
+Turkmenistan,Asia-Pacific,TKM,2021,Commercial,1.7
+Turkmenistan,Asia-Pacific,TKM,2022,Commercial,1.7
+Turkmenistan,Asia-Pacific,TKM,2023,Commercial,1.79
+Turkmenistan,Asia-Pacific,TKM,2024,Commercial,1.79
+Turkmenistan,Asia-Pacific,TKM,2019,Industrial,1.76
+Turkmenistan,Asia-Pacific,TKM,2020,Industrial,1.76
+Turkmenistan,Asia-Pacific,TKM,2021,Industrial,1.7
+Turkmenistan,Asia-Pacific,TKM,2022,Industrial,1.7
+Turkmenistan,Asia-Pacific,TKM,2023,Industrial,1.79
+Turkmenistan,Asia-Pacific,TKM,2024,Industrial,1.79
+Turkmenistan,Asia-Pacific,TKM,2019,Residential,0.7
+Turkmenistan,Asia-Pacific,TKM,2020,Residential,0.7
+Turkmenistan,Asia-Pacific,TKM,2021,Residential,0.68
+Turkmenistan,Asia-Pacific,TKM,2022,Residential,0.68
+Turkmenistan,Asia-Pacific,TKM,2023,Residential,0.71
+Turkmenistan,Asia-Pacific,TKM,2024,Residential,0.71
+Uganda,Africa,UGA,2019,Average,160.39
+Uganda,Africa,UGA,2020,Average,152.92
+Uganda,Africa,UGA,2021,Average,158.08
+Uganda,Africa,UGA,2022,Average,165.58
+Uganda,Africa,UGA,2023,Average,162.31
+Uganda,Africa,UGA,2024,Average,159.84
+Uganda,Africa,UGA,2019,Commercial,179.8
+Uganda,Africa,UGA,2020,Commercial,172.28
+Uganda,Africa,UGA,2021,Commercial,168.94
+Uganda,Africa,UGA,2022,Commercial,172.75
+Uganda,Africa,UGA,2023,Commercial,165.36
+Uganda,Africa,UGA,2024,Commercial,161.74
+Uganda,Africa,UGA,2019,Industrial,98.25
+Uganda,Africa,UGA,2020,Industrial,97.75
+Uganda,Africa,UGA,2021,Industrial,96.95
+Uganda,Africa,UGA,2022,Industrial,101.62
+Uganda,Africa,UGA,2023,Industrial,105.13
+Uganda,Africa,UGA,2024,Industrial,103.08
+Uganda,Africa,UGA,2019,Residential,203.12
+Uganda,Africa,UGA,2020,Residential,188.74
+Uganda,Africa,UGA,2021,Residential,208.36
+Uganda,Africa,UGA,2022,Residential,222.38
+Uganda,Africa,UGA,2023,Residential,216.42
+Uganda,Africa,UGA,2024,Residential,214.72
+United Arab Emirates,Middle East,ARE,2019,Average,59.31
+United Arab Emirates,Middle East,ARE,2020,Average,59.31
+United Arab Emirates,Middle East,ARE,2021,Average,59.31
+United Arab Emirates,Middle East,ARE,2022,Average,59.31
+United Arab Emirates,Middle East,ARE,2023,Average,59.31
+United Arab Emirates,Middle East,ARE,2024,Average,59.31
+United Arab Emirates,Middle East,ARE,2019,Commercial,54.45
+United Arab Emirates,Middle East,ARE,2020,Commercial,54.45
+United Arab Emirates,Middle East,ARE,2021,Commercial,54.45
+United Arab Emirates,Middle East,ARE,2022,Commercial,54.45
+United Arab Emirates,Middle East,ARE,2023,Commercial,54.45
+United Arab Emirates,Middle East,ARE,2024,Commercial,54.45
+United Arab Emirates,Middle East,ARE,2019,Industrial,77.87
+United Arab Emirates,Middle East,ARE,2020,Industrial,77.87
+United Arab Emirates,Middle East,ARE,2021,Industrial,77.87
+United Arab Emirates,Middle East,ARE,2022,Industrial,77.87
+United Arab Emirates,Middle East,ARE,2023,Industrial,77.87
+United Arab Emirates,Middle East,ARE,2024,Industrial,77.87
+United Arab Emirates,Middle East,ARE,2019,Residential,45.6
+United Arab Emirates,Middle East,ARE,2020,Residential,45.6
+United Arab Emirates,Middle East,ARE,2021,Residential,45.6
+United Arab Emirates,Middle East,ARE,2022,Residential,45.6
+United Arab Emirates,Middle East,ARE,2023,Residential,45.61
+United Arab Emirates,Middle East,ARE,2024,Residential,45.6
+Uzbekistan,Asia-Pacific,UZB,2019,Average,44.95
+Uzbekistan,Asia-Pacific,UZB,2020,Average,39.61
+Uzbekistan,Asia-Pacific,UZB,2021,Average,37.53
+Uzbekistan,Asia-Pacific,UZB,2022,Average,66.24
+Uzbekistan,Asia-Pacific,UZB,2023,Average,62.36
+Uzbekistan,Asia-Pacific,UZB,2024,Average,64.56
+Uzbekistan,Asia-Pacific,UZB,2019,Commercial,50.78
+Uzbekistan,Asia-Pacific,UZB,2020,Commercial,44.75
+Uzbekistan,Asia-Pacific,UZB,2021,Commercial,42.4
+Uzbekistan,Asia-Pacific,UZB,2022,Commercial,81.48
+Uzbekistan,Asia-Pacific,UZB,2023,Commercial,76.71
+Uzbekistan,Asia-Pacific,UZB,2024,Commercial,79.06
+Uzbekistan,Asia-Pacific,UZB,2019,Industrial,50.78
+Uzbekistan,Asia-Pacific,UZB,2020,Industrial,44.75
+Uzbekistan,Asia-Pacific,UZB,2021,Industrial,42.4
+Uzbekistan,Asia-Pacific,UZB,2022,Industrial,90.53
+Uzbekistan,Asia-Pacific,UZB,2023,Industrial,85.23
+Uzbekistan,Asia-Pacific,UZB,2024,Industrial,79.06
+Uzbekistan,Asia-Pacific,UZB,2019,Residential,33.29
+Uzbekistan,Asia-Pacific,UZB,2020,Residential,29.34
+Uzbekistan,Asia-Pacific,UZB,2021,Residential,27.79
+Uzbekistan,Asia-Pacific,UZB,2022,Residential,26.71
+Uzbekistan,Asia-Pacific,UZB,2023,Residential,25.14
+Uzbekistan,Asia-Pacific,UZB,2024,Residential,35.57
+Vietnam,Asia-Pacific,VNM,2019,Average,97.22
+Vietnam,Asia-Pacific,VNM,2020,Average,97.26
+Vietnam,Asia-Pacific,VNM,2021,Average,98.48
+Vietnam,Asia-Pacific,VNM,2022,Average,96.4
+Vietnam,Asia-Pacific,VNM,2023,Average,103.02
+Vietnam,Asia-Pacific,VNM,2024,Average,100.98
+Vietnam,Asia-Pacific,VNM,2019,Commercial,118.43
+Vietnam,Asia-Pacific,VNM,2020,Commercial,118.47
+Vietnam,Asia-Pacific,VNM,2021,Commercial,119.96
+Vietnam,Asia-Pacific,VNM,2022,Commercial,117.43
+Vietnam,Asia-Pacific,VNM,2023,Commercial,128.5
+Vietnam,Asia-Pacific,VNM,2024,Commercial,125.97
+Vietnam,Asia-Pacific,VNM,2019,Industrial,77.31
+Vietnam,Asia-Pacific,VNM,2020,Industrial,77.34
+Vietnam,Asia-Pacific,VNM,2021,Industrial,78.32
+Vietnam,Asia-Pacific,VNM,2022,Industrial,76.66
+Vietnam,Asia-Pacific,VNM,2023,Industrial,83.04
+Vietnam,Asia-Pacific,VNM,2024,Industrial,81.37
+Vietnam,Asia-Pacific,VNM,2019,Residential,95.93
+Vietnam,Asia-Pacific,VNM,2020,Residential,95.96
+Vietnam,Asia-Pacific,VNM,2021,Residential,97.17
+Vietnam,Asia-Pacific,VNM,2022,Residential,95.12
+Vietnam,Asia-Pacific,VNM,2023,Residential,97.52
+Vietnam,Asia-Pacific,VNM,2024,Residential,95.59
+Vietnam,Asia-Pacific,VNM,2019,Wholesale,51.83
+Vietnam,Asia-Pacific,VNM,2020,Wholesale,38.16
+Vietnam,Asia-Pacific,VNM,2021,Wholesale,43.65
+Vietnam,Asia-Pacific,VNM,2022,Wholesale,65.69
+Vietnam,Asia-Pacific,VNM,2023,Wholesale,58.57
+Vietnam,Asia-Pacific,VNM,2024,Wholesale,56.92
+Zambia,Africa,ZMB,2019,Average,58.37
+Zambia,Africa,ZMB,2020,Average,73.04
+Zambia,Africa,ZMB,2021,Average,67.12
+Zambia,Africa,ZMB,2022,Average,73.79
+Zambia,Africa,ZMB,2023,Average,69.71
+Zambia,Africa,ZMB,2024,Average,56.18
+Zambia,Africa,ZMB,2019,Commercial,49.35
+Zambia,Africa,ZMB,2020,Commercial,58.51
+Zambia,Africa,ZMB,2021,Commercial,53.77
+Zambia,Africa,ZMB,2022,Commercial,107.63
+Zambia,Africa,ZMB,2023,Commercial,86.52
+Zambia,Africa,ZMB,2024,Commercial,63.08
+Zambia,Africa,ZMB,2019,Industrial,55.33
+Zambia,Africa,ZMB,2020,Industrial,101.16
+Zambia,Africa,ZMB,2021,Industrial,92.96
+Zambia,Africa,ZMB,2022,Industrial,61.7
+Zambia,Africa,ZMB,2023,Industrial,68.72
+Zambia,Africa,ZMB,2024,Industrial,51.73
+Zambia,Africa,ZMB,2019,Residential,70.43
+Zambia,Africa,ZMB,2020,Residential,59.44
+Zambia,Africa,ZMB,2021,Residential,54.62
+Zambia,Africa,ZMB,2022,Residential,52.04
+Zambia,Africa,ZMB,2023,Residential,53.89
+Zambia,Africa,ZMB,2024,Residential,53.72
+Zimbabwe,Africa,ZWE,2019,Average,102.22
+Zimbabwe,Africa,ZWE,2020,Average,102.22
+Zimbabwe,Africa,ZWE,2021,Average,114.8
+Zimbabwe,Africa,ZWE,2022,Average,112.73
+Zimbabwe,Africa,ZWE,2023,Average,200
+Zimbabwe,Africa,ZWE,2024,Average,283.33
+Zimbabwe,Africa,ZWE,2019,Commercial,100.28
+Zimbabwe,Africa,ZWE,2020,Commercial,100.28
+Zimbabwe,Africa,ZWE,2021,Commercial,112.62
+Zimbabwe,Africa,ZWE,2022,Commercial,109.7
+Zimbabwe,Africa,ZWE,2023,Commercial,180
+Zimbabwe,Africa,ZWE,2024,Commercial,260
+Zimbabwe,Africa,ZWE,2019,Industrial,100.28
+Zimbabwe,Africa,ZWE,2020,Industrial,100.28
+Zimbabwe,Africa,ZWE,2021,Industrial,112.62
+Zimbabwe,Africa,ZWE,2022,Industrial,109.7
+Zimbabwe,Africa,ZWE,2023,Industrial,180
+Zimbabwe,Africa,ZWE,2024,Industrial,260
+Zimbabwe,Africa,ZWE,2019,Residential,106.1
+Zimbabwe,Africa,ZWE,2020,Residential,106.1
+Zimbabwe,Africa,ZWE,2021,Residential,119.15
+Zimbabwe,Africa,ZWE,2022,Residential,118.8
+Zimbabwe,Africa,ZWE,2023,Residential,240
+Zimbabwe,Africa,ZWE,2024,Residential,330

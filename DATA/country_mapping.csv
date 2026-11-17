@@ -1,0 +1,251 @@
+Country code,index,Region,name,region,sub-region,status
+AND,1,,Andorra,Europe,Southern Europe,Advanced
+ARE,2,MEA,United Arab Emirates,Asia,Western Asia,EMDE
+AFG,3,ODA,Afghanistan,Asia,Southern Asia,EMDE
+ATG,4,CSA,Antigua and Barbuda,LAC,LAC,EMDE
+AIA,5,,Anguilla,LAC,LAC,EMDE
+ALB,6,EEU,Albania,Europe,Southern Europe,EMDE
+ARM,7,FSU,Armenia,Asia,Western Asia,EMDE
+AGO,8,AFR,Angola,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+ARG,9,CSA,Argentina,LAC,LAC,EMDE
+ASM,10,,American Samoa,Oceania,Oceania,EMDE
+AUT,11,WEU,Austria,Europe,Western Europe,Advanced
+AUS,12,AUS,Australia,Oceania,Australia and New Zealand,Advanced
+ABW,13,,Aruba,LAC,LAC,EMDE
+ALA,14,,Åland Islands,Europe,Northern Europe,Advanced
+AZE,15,FSU,Azerbaijan,Asia,Western Asia,EMDE
+BIH,16,EEU,Bosnia and Herzegovina,Europe,Southern Europe,EMDE
+BRB,17,CSA,Barbados,LAC,LAC,EMDE
+BGD,18,ODA,Bangladesh,Asia,Southern Asia,EMDE
+BEL,19,WEU,Belgium,Europe,Western Europe,Advanced
+BFA,20,AFR,Burkina Faso,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+BGR,21,EEU,Bulgaria,Europe,Eastern Europe,Advanced
+BHR,22,MEA,Bahrain,Asia,Western Asia,EMDE
+BDI,23,AFR,Burundi,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+BEN,24,AFR,Benin,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+BLM,25,,Saint Barthélemy,LAC,LAC,EMDE
+BMU,26,CSA,Bermuda,North America,Northern America,Advanced
+BRN,27,ODA,Brunei Darussalam,Asia,South-eastern Asia,EMDE
+BOL,28,CSA,Bolivia (Plurinational State of),LAC,LAC,EMDE
+BES,29,,"Bonaire, Sint Eustatius and Saba",LAC,LAC,EMDE
+BRA,30,CSA,Brazil,LAC,LAC,EMDE
+BHS,31,CSA,Bahamas,LAC,LAC,EMDE
+BTN,32,ODA,Bhutan,Asia,Southern Asia,EMDE
+BVT,33,,Bouvet Island,LAC,LAC,Advanced
+BWA,34,AFR,Botswana,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+BLR,35,FSU,Belarus,Europe,Eastern Europe,EMDE
+BLZ,36,CSA,Belize,LAC,LAC,EMDE
+CAN,37,CAN,Canada,North America,Northern America,Advanced
+CCK,38,,Cocos (Keeling) Islands,Oceania,Australia and New Zealand,EMDE
+COD,39,AFR,"Congo, Democratic Republic of the",Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+CAF,40,AFR,Central African Republic,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+COG,41,AFR,Congo,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+CHE,42,WEU,Switzerland,Europe,Western Europe,Advanced
+CIV,43,AFR,Côte d'Ivoire,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+COK,44,ODA,Cook Islands,Oceania,Oceania,EMDE
+CHL,45,CSA,Chile,LAC,LAC,EMDE
+CMR,46,AFR,Cameroon,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+CHN,47,CHN,China,Asia,Eastern Asia,China
+COL,48,CSA,Colombia,LAC,LAC,EMDE
+CRI,49,CSA,Costa Rica,LAC,LAC,EMDE
+CUB,50,CSA,Cuba,LAC,LAC,EMDE
+CPV,51,AFR,Cabo Verde,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+CUW,52,,Curaçao,LAC,LAC,EMDE
+CXR,53,,Christmas Island,Oceania,Australia and New Zealand,EMDE
+CYP,54,MEA,Cyprus,Asia,Western Asia,Advanced
+CZE,55,EEU,Czechia,Europe,Eastern Europe,Advanced
+DEU,56,WEU,Germany,Europe,Western Europe,Advanced
+DJI,57,AFR,Djibouti,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+DNK,58,WEU,Denmark,Europe,Northern Europe,Advanced
+DMA,59,CSA,Dominica,LAC,LAC,EMDE
+DOM,60,CSA,Dominican Republic,LAC,LAC,EMDE
+DZA,61,AFR,Algeria,North Africa,Northern Africa,EMDE
+ECU,62,CSA,Ecuador,LAC,LAC,EMDE
+EST,63,FSU,Estonia,Europe,Northern Europe,Advanced
+EGY,64,AFR,Egypt,North Africa,Northern Africa,EMDE
+ESH,65,,Western Sahara,North Africa,Northern Africa,EMDE
+ERI,66,,Eritrea,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+ESP,67,WEU,Spain,Europe,Southern Europe,Advanced
+ETH,68,AFR,Ethiopia,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+FIN,69,WEU,Finland,Europe,Northern Europe,Advanced
+FJI,70,ODA,Fiji,Oceania,Oceania,EMDE
+FLK,71,,Falkland Islands (Malvinas),LAC,LAC,Advanced
+FSM,72,,Oceania (Federated States of),Oceania,Oceania,EMDE
+FRO,73,,Faroe Islands,Europe,Northern Europe,Advanced
+FRA,74,WEU,France,Europe,Western Europe,Advanced
+GAB,75,AFR,Gabon,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+GBR,76,WEU,United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,Advanced
+GRD,77,CSA,Grenada,LAC,LAC,EMDE
+GEO,78,FSU,Georgia,Asia,Western Asia,EMDE
+GUF,79,CSA,French Guiana,LAC,LAC,Advanced
+GGY,80,,Guernsey,Europe,Northern Europe,Advanced
+GHA,81,AFR,Ghana,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+GIB,82,WEU,Gibraltar,Europe,Southern Europe,Advanced
+GRL,83,WEU,Greenland,North America,Northern America,Advanced
+GMB,84,AFR,Gambia,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+GIN,85,AFR,Guinea,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+GLP,86,CSA,Guadeloupe,LAC,LAC,EMDE
+GNQ,87,AFR,Equatorial Guinea,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+GRC,88,WEU,Greece,Europe,Southern Europe,Advanced
+SGS,89,,South Georgia and the South Sandwich Islands,LAC,LAC,EMDE
+GTM,90,CSA,Guatemala,LAC,LAC,EMDE
+GUM,91,ODA,Guam,Oceania,Oceania,EMDE
+GNB,92,AFR,Guinea-Bissau,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+GUY,93,CSA,Guyana,LAC,LAC,EMDE
+HKG,94,,Hong Kong,Asia,Eastern Asia,China
+HMD,95,,Heard Island and McDonald Islands,Oceania,Australia and New Zealand,EMDE
+HND,96,CSA,Honduras,LAC,LAC,EMDE
+HRV,97,EEU,Croatia,Europe,Southern Europe,Advanced
+HTI,98,CSA,Haiti,LAC,LAC,EMDE
+HUN,99,EEU,Hungary,Europe,Eastern Europe,Advanced
+IDN,100,ODA,Indonesia,Asia,South-eastern Asia,EMDE
+IRL,101,WEU,Ireland,Europe,Northern Europe,Advanced
+ISR,102,MEA,Israel,Asia,Western Asia,EMDE
+IMN,103,,Isle of Man,Europe,Northern Europe,Advanced
+IND,104,IND,India,Asia,Southern Asia,EMDE
+IOT,105,,British Indian Ocean Territory,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+IRQ,106,MEA,Iraq,Asia,Western Asia,EMDE
+IRN,107,MEA,Iran (Islamic Republic of),Asia,Southern Asia,EMDE
+ISL,108,WEU,Iceland,Europe,Northern Europe,Advanced
+ITA,109,WEU,Italy,Europe,Southern Europe,Advanced
+JEY,110,,Jersey,Europe,Northern Europe,Advanced
+JAM,111,CSA,Jamaica,LAC,LAC,EMDE
+JOR,112,MEA,Jordan,Asia,Western Asia,EMDE
+JPN,113,JPN,Japan,Asia,Eastern Asia,Advanced
+KEN,114,AFR,Kenya,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+KGZ,115,FSU,Kyrgyzstan,Asia,Central Asia,EMDE
+KHM,116,ODA,Cambodia,Asia,South-eastern Asia,EMDE
+KIR,117,ODA,Kiribati,Oceania,Oceania,EMDE
+COM,118,AFR,Comoros,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+KNA,119,CSA,Saint Kitts and Nevis,LAC,LAC,EMDE
+PRK,120,ODA,Korea (Democratic People's Republic of),Asia,Eastern Asia,EMDE
+KOR,121,KOR,"Korea, Republic of",Asia,Eastern Asia,Advanced
+KWT,122,MEA,Kuwait,Asia,Western Asia,EMDE
+CYM,123,CSA,Cayman Islands,LAC,LAC,Advanced
+KAZ,124,FSU,Kazakhstan,Asia,Central Asia,EMDE
+LAO,125,ODA,Lao People's Democratic Republic,Asia,South-eastern Asia,EMDE
+LBN,126,MEA,Lebanon,Asia,Western Asia,EMDE
+LCA,127,CSA,Saint Lucia,LAC,LAC,EMDE
+LIE,128,WEU,Liechtenstein,Europe,Western Europe,Advanced
+LKA,129,ODA,Sri Lanka,Asia,Southern Asia,EMDE
+LBR,130,AFR,Liberia,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+LSO,131,AFR,Lesotho,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+LTU,132,FSU,Lithuania,Europe,Northern Europe,Advanced
+LUX,133,WEU,Luxembourg,Europe,Western Europe,Advanced
+LVA,134,FSU,Latvia,Europe,Northern Europe,Advanced
+LBY,135,AFR,Libya,North Africa,Northern Africa,EMDE
+MAR,136,AFR,Morocco,North Africa,Northern Africa,EMDE
+MCO,137,WEU,Monaco,Europe,Western Europe,Advanced
+MDA,138,FSU,"Moldova, Republic of",Europe,Eastern Europe,EMDE
+MNE,139,EEU,Montenegro,Europe,Southern Europe,Advanced
+MAF,140,,Saint Martin (French part),LAC,LAC,EMDE
+MDG,141,AFR,Madagascar,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+MHL,142,,Marshall Islands,Oceania,Oceania,EMDE
+MKD,143,,North Macedonia,Europe,Southern Europe,EMDE
+MLI,144,AFR,Mali,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+MMR,145,ODA,Myanmar,Asia,South-eastern Asia,EMDE
+MNG,146,ODA,Mongolia,Asia,Eastern Asia,EMDE
+MAC,147,ODA,Macao,Asia,Eastern Asia,EMDE
+MNP,148,,Northern Mariana Islands,Oceania,Oceania,EMDE
+MTQ,149,CSA,Martinique,LAC,LAC,EMDE
+MRT,150,AFR,Mauritania,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+MSR,151,,Montserrat,LAC,LAC,EMDE
+MLT,152,WEU,Malta,Europe,Southern Europe,Advanced
+MUS,153,AFR,Mauritius,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+MDV,154,ODA,Maldives,Asia,Southern Asia,EMDE
+MWI,155,AFR,Malawi,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+MEX,156,MEX,Mexico,LAC,LAC,EMDE
+MYS,157,ODA,Malaysia,Asia,South-eastern Asia,EMDE
+MOZ,158,AFR,Mozambique,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+NAM,159,AFR,Namibia,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+NCL,160,ODA,New Caledonia,Oceania,Oceania,EMDE
+NER,161,AFR,Niger,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+NFK,162,,Norfolk Island,Oceania,Australia and New Zealand,EMDE
+NGA,163,AFR,Nigeria,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+NIC,164,CSA,Nicaragua,LAC,LAC,EMDE
+NLD,165,WEU,Netherlands,Europe,Western Europe,Advanced
+NOR,166,WEU,Norway,Europe,Northern Europe,Advanced
+NPL,167,ODA,Nepal,Asia,Southern Asia,EMDE
+NRU,168,ODA,Nauru,Oceania,Oceania,EMDE
+NIU,169,ODA,Niue,Oceania,Oceania,EMDE
+NZL,170,AUS,New Zealand,Oceania,Australia and New Zealand,Advanced
+OMN,171,MEA,Oman,Asia,Western Asia,EMDE
+PAN,172,CSA,Panama,LAC,LAC,EMDE
+PER,173,CSA,Peru,LAC,LAC,EMDE
+PYF,174,ODA,French Oceania,Oceania,Oceania,EMDE
+PNG,175,ODA,Papua New Guinea,Oceania,Oceania,EMDE
+PHL,176,ODA,Philippines,Asia,South-eastern Asia,EMDE
+PAK,177,ODA,Pakistan,Asia,Southern Asia,EMDE
+POL,178,EEU,Poland,Europe,Eastern Europe,Advanced
+SPM,179,,Saint Pierre and Miquelon,North America,Northern America,Advanced
+PCN,180,,Pitcairn,Oceania,Oceania,EMDE
+PRI,181,,Puerto Rico,LAC,LAC,Advanced
+PSE,182,,"Palestine, State of",Asia,Western Asia,EMDE
+PRT,183,WEU,Portugal,Europe,Southern Europe,Advanced
+PLW,184,,Palau,Oceania,Oceania,EMDE
+PRY,185,CSA,Paraguay,LAC,LAC,EMDE
+QAT,186,MEA,Qatar,Asia,Western Asia,EMDE
+REU,187,AFR,Réunion,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+ROU,188,EEU,Romania,Europe,Eastern Europe,Advanced
+SRB,189,,Serbia,Europe,Southern Europe,EMDE
+RUS,190,FSU,Russian Federation,Europe,Eastern Europe,EMDE
+RWA,191,AFR,Rwanda,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+SAU,192,MEA,Saudi Arabia,Asia,Western Asia,EMDE
+SLB,193,ODA,Solomon Islands,Oceania,Oceania,EMDE
+SYC,194,AFR,Seychelles,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+SDN,195,AFR,Sudan,North Africa,Northern Africa,EMDE
+SWE,196,WEU,Sweden,Europe,Northern Europe,Advanced
+SGP,197,ODA,Singapore,Asia,South-eastern Asia,EMDE
+SHN,198,,"Saint Helena, Ascension and Tristan da Cunha",Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+SVN,199,EEU,Slovenia,Europe,Southern Europe,Advanced
+SJM,200,,Svalbard and Jan Mayen,Europe,Northern Europe,Advanced
+SVK,201,EEU,Slovakia,Europe,Eastern Europe,Advanced
+SLE,202,AFR,Sierra Leone,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+SMR,203,WEU,San Marino,Europe,Southern Europe,Advanced
+SEN,204,AFR,Senegal,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+SOM,205,AFR,Somalia,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+SUR,206,CSA,Suriname,LAC,LAC,EMDE
+SSD,207,,South Sudan,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+STP,208,,Sao Tome and Principe,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+SLV,209,CSA,El Salvador,LAC,LAC,EMDE
+SXM,210,,Sint Maarten (Dutch part),LAC,LAC,EMDE
+SYR,211,MEA,Syrian Arab Republic,Asia,Western Asia,EMDE
+SWZ,212,AFR,Eswatini,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+TCA,213,,Turks and Caicos Islands,LAC,LAC,EMDE
+TCD,214,AFR,Chad,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+ATF,215,,French Southern Territories,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+TGO,216,AFR,Togo,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+THA,217,ODA,Thailand,Asia,South-eastern Asia,EMDE
+TJK,218,FSU,Tajikistan,Asia,Central Asia,EMDE
+TKL,219,,Tokelau,Oceania,Oceania,EMDE
+TLS,220,,Timor-Leste,Asia,South-eastern Asia,EMDE
+TKM,221,FSU,Turkmenistan,Asia,Central Asia,EMDE
+TUN,222,AFR,Tunisia,North Africa,Northern Africa,EMDE
+TON,223,,Tonga,Oceania,Oceania,EMDE
+TUR,224,MEA,Turkey,Asia,Western Asia,EMDE
+TTO,225,CSA,Trinidad and Tobago,LAC,LAC,EMDE
+TUV,226,,Tuvalu,Oceania,Oceania,EMDE
+TWN,227,ODA,"Taiwan, Province of China",Asia,Eastern Asia,EMDE
+TZA,228,AFR,"Tanzania, United Republic of",Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+UKR,229,FSU,Ukraine,Europe,Eastern Europe,EMDE
+UGA,230,AFR,Uganda,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+UMI,231,,United States Minor Outlying Islands,Oceania,Oceania,EMDE
+USA,232,USA,United States of America,North America,Northern America,Advanced
+URY,233,CSA,Uruguay,LAC,LAC,EMDE
+UZB,234,FSU,Uzbekistan,Asia,Central Asia,EMDE
+VAT,235,WEU,Holy See,Europe,Southern Europe,Advanced
+VCT,236,CSA,Saint Vincent and the Grenadines,LAC,LAC,EMDE
+VEN,237,CSA,Venezuela (Bolivarian Republic of),LAC,LAC,EMDE
+VGB,238,,Virgin Islands (British),LAC,LAC,EMDE
+VIR,239,,Virgin Islands (U.S.),LAC,LAC,EMDE
+VNM,240,ODA,Viet Nam,Asia,South-eastern Asia,EMDE
+VUT,241,ODA,Vanuatu,Oceania,Oceania,EMDE
+WLF,242,,Wallis and Futuna,Oceania,Oceania,EMDE
+WSM,243,ODA,Samoa,Oceania,Oceania,EMDE
+XKX,244,,,Unclassified,Unclassified,Advanced
+XXA,245,,,Unclassified,Unclassified,EMDE
+YEM,246,MEA,Yemen,Asia,Western Asia,EMDE
+MYT,247,,Mayotte,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+ZAF,248,AFR,South Africa,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+ZMB,249,AFR,Zambia,Sub-Saharan Africa,Sub-Saharan Africa,EMDE
+ZWE,250,AFR,Zimbabwe,Sub-Saharan Africa,Sub-Saharan Africa,EMDE

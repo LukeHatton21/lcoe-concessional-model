@@ -1,0 +1,24 @@
+﻿Number,GlobCover global legend,Merged LU,PV LU,Wind LU
+150,"Sparse (>15%) vegetation (woody vegetation, shrubs, grassland)",Barren,0.1,0.9
+200,Bare areas,Barren,0.1,0.9
+14,Rainfed croplands,Cropland,0.5,0.6
+20,"Mosaic Cropland (50-70%) / Vegetation (grassland, shrubland, forest) (20-50%)",Cropland,0.5,0.6
+11,Post-flooding or irrigated croplands,Cropland natural,0.1,0.7
+30,"Mosaic Vegetation (grassland, shrubland, forest) (50-70%) / Cropland (20-50%)",Cropland natural,0.1,0.7
+40,Closed to open (>15%) broadleaved evergreen and/or semi-deciduous forest (>5m),Forest,0,0.1
+50,Closed (>40%) broadleaved deciduous forest (>5m),Forest,0,0.1
+60,Open (15-40%) broadleaved deciduous forest (>5m),Forest,0,0.1
+70,Closed (>40%) needleleaved evergreen forest (>5m),Forest,0,0.1
+90,Open (15-40%) needleleaved deciduous or evergreen forest (>5m),Forest,0,0.1
+100,Closed to open (>15%) mixed broadleaved and needleleaved forest (>5m),Forest,0,0.1
+120,Mosaic Grassland (50-70%) / Forest/Shrubland (20-50%),Grassland,0.1,0.9
+140,Closed to open (>15%) grassland,Grassland,0.1,0.9
+230,No Data,No data,0,0
+110,Mosaic Forest/Shrubland (50-70%) / Grassland (20-50%),Shrubland,0.05,0.5
+130,Closed to open (>15%) shrubland (<5m),Shrubland,0.05,0.5
+220,Permanent snow and ice,Snow and ice,0,0
+190,Artificial surfaces and associated areas (urban areas >50%),Urban,0,1
+160,Closed (>40%) broadleaved forest regularly flooded - Fresh water,Water,0,1
+170,"Closed(>40%)broadleavedsemi-deciduousand/orevergreenforestregularlyflooded - Saline water",Water,0,1
+180,"Closed to open (>15%) vegetation (grassland, shrubland, woody vegetation) onregularly flooded or waterlogged soil - Fresh, brackish or saline water",Water,0,1
+210,Water bodies,Water,0,1

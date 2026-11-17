@@ -1,0 +1,251 @@
+index,country,Country code,country_name,region,status
+1,AD,AND,Andorra,Europe,Advanced
+2,AE,ARE,United Arab Emirates,Asia,EMDE
+3,AF,AFG,Afghanistan,Asia,EMDE
+4,AG,ATG,Antigua and Barbuda,LAC,EMDE
+5,AI,AIA,Anguilla,LAC,EMDE
+6,AL,ALB,Albania,Europe,EMDE
+7,AM,ARM,Armenia,Asia,EMDE
+8,AO,AGO,Angola,Africa,EMDE
+9,AR,ARG,Argentina,LAC,EMDE
+10,AS,ASM,American Samoa,Oceania,EMDE
+11,AT,AUT,Austria,Europe,Advanced
+12,AU,AUS,Australia,Oceania,Advanced
+13,AW,ABW,Aruba,LAC,EMDE
+14,AX,ALA,Aland Islands,Europe,Advanced
+15,AZ,AZE,Azerbaijan,Asia,EMDE
+16,BA,BIH,Bosnia and Herzegovina,Europe,EMDE
+17,BB,BRB,Barbados,LAC,EMDE
+18,BD,BGD,Bangladesh,Asia,EMDE
+19,BE,BEL,Belgium,Europe,Advanced
+20,BF,BFA,Burkina Faso,Africa,EMDE
+21,BG,BGR,Bulgaria,Europe,Advanced
+22,BH,BHR,Bahrain,Asia,EMDE
+23,BI,BDI,Burundi,Africa,EMDE
+24,BJ,BEN,Benin,Africa,EMDE
+25,BL,BLM,Saint Barthelemy,LAC,EMDE
+26,BM,BMU,Bermuda,North America,Advanced
+27,BN,BRN,Brunei,Asia,EMDE
+28,BO,BOL,Bolivia,LAC,EMDE
+29,BQ,BES,Caribbean Netherlands,LAC,EMDE
+30,BR,BRA,Brazil,LAC,EMDE
+31,BS,BHS,Bahamas,LAC,EMDE
+32,BT,BTN,Bhutan,Asia,EMDE
+33,BV,BVT,Bouvet Island,Europe,Advanced
+34,BW,BWA,Botswana,Africa,EMDE
+35,BY,BLR,Belarus,Europe,EMDE
+36,BZ,BLZ,Belize,LAC,EMDE
+37,CA,CAN,Canada,North America,Advanced
+38,CC,CCK,Cocos (Keeling) Islands,Asia,EMDE
+39,CD,COD,Democratic Republic of the Congo,Africa,EMDE
+40,CF,CAF,Central African Republic,Africa,EMDE
+41,CG,COG,Republic of the Congo,Africa,EMDE
+42,CH,CHE,Switzerland,Europe,Advanced
+43,CI,CIV,Cote d'Ivoire,Africa,EMDE
+44,CK,COK,Cook Islands,Oceania,EMDE
+45,CL,CHL,Chile,LAC,EMDE
+46,CM,CMR,Cameroon,Africa,EMDE
+47,CN,CHN,China,Asia,China
+48,CO,COL,Colombia,LAC,EMDE
+49,CR,CRI,Costa Rica,LAC,EMDE
+50,CU,CUB,Cuba,LAC,EMDE
+51,CV,CPV,Cabo Verde,Africa,EMDE
+52,CW,CUW,Curacao,LAC,EMDE
+53,CX,CXR,Christmas Island,Asia,EMDE
+54,CY,CYP,Cyprus,Europe,Advanced
+55,CZ,CZE,Czechia,Europe,Advanced
+56,DE,DEU,Germany,Europe,Advanced
+57,DJ,DJI,Djibouti,Africa,EMDE
+58,DK,DNK,Denmark,Europe,Advanced
+59,DM,DMA,Dominica,LAC,EMDE
+60,DO,DOM,Dominican Republic,LAC,EMDE
+61,DZ,DZA,Algeria,Africa,EMDE
+62,EC,ECU,Ecuador,LAC,EMDE
+63,EE,EST,Estonia,Europe,Advanced
+64,EG,EGY,Egypt,Africa,EMDE
+65,EH,ESH,Western Sahara,Africa,EMDE
+66,ER,ERI,Eritrea,Africa,EMDE
+67,ES,ESP,Spain,Europe,Advanced
+68,ET,ETH,Ethiopia,Africa,EMDE
+69,FI,FIN,Finland,Europe,Advanced
+70,FJ,FJI,Fiji,Oceania,EMDE
+71,FK,FLK,Falkland Islands,LAC,Advanced
+72,FM,FSM,Federated States of Micronesia,Oceania,EMDE
+73,FO,FRO,Faroe Islands,Europe,Advanced
+74,FR,FRA,France,Europe,Advanced
+75,GA,GAB,Gabon,Africa,EMDE
+76,GB,GBR,United Kingdom,Europe,Advanced
+77,GD,GRD,Grenada,LAC,EMDE
+78,GE,GEO,Georgia,Asia,EMDE
+79,GF,GUF,French Guiana,LAC,Advanced
+80,GG,GGY,Guernsey,Europe,Advanced
+81,GH,GHA,Ghana,Africa,EMDE
+82,GI,GIB,Gibraltar,Europe,Advanced
+83,GL,GRL,Greenland,North America,Advanced
+84,GM,GMB,Gambia,Africa,EMDE
+85,GN,GIN,Guinea,Africa,EMDE
+86,GP,GLP,Guadeloupe,LAC,EMDE
+87,GQ,GNQ,Equatorial Guinea,Africa,EMDE
+88,GR,GRC,Greece,Europe,Advanced
+89,GS,SGS,South Georgia and the South Sandwich Islands,LAC,EMDE
+90,GT,GTM,Guatemala,LAC,EMDE
+91,GU,GUM,Guam,Oceania,EMDE
+92,GW,GNB,Guinea-Bissau,Africa,EMDE
+93,GY,GUY,Guyana,LAC,EMDE
+94,HK,HKG,Hong Kong,Asia,China
+95,HM,HMD,Heard Island and McDonald Islands,Oceania,EMDE
+96,HN,HND,Honduras,LAC,EMDE
+97,HR,HRV,Croatia,Europe,Advanced
+98,HT,HTI,Haiti,LAC,EMDE
+99,HU,HUN,Hungary,Europe,Advanced
+100,ID,IDN,Indonesia,Asia,EMDE
+101,IE,IRL,Ireland,Europe,Advanced
+102,IL,ISR,Israel,Asia,EMDE
+103,IM,IMN,Isle of Man,Europe,Advanced
+104,IN,IND,India,Asia,EMDE
+105,IO,IOT,British Indian Ocean Territory,Asia,EMDE
+106,IQ,IRQ,Iraq,Asia,EMDE
+107,IR,IRN,Iran,Asia,EMDE
+108,IS,ISL,Iceland,Europe,Advanced
+109,IT,ITA,Italy,Europe,Advanced
+110,JE,JEY,Jersey,Europe,Advanced
+111,JM,JAM,Jamaica,LAC,EMDE
+112,JO,JOR,Jordan,Asia,EMDE
+113,JP,JPN,Japan,Asia,Advanced
+114,KE,KEN,Kenya,Africa,EMDE
+115,KG,KGZ,Kyrgyzstan,Asia,EMDE
+116,KH,KHM,Cambodia,Asia,EMDE
+117,KI,KIR,Kiribati,Oceania,EMDE
+118,KM,COM,Comoros,Africa,EMDE
+119,KN,KNA,Saint Kitts and Nevis,LAC,EMDE
+120,KP,PRK,North Korea,Asia,EMDE
+121,KR,KOR,South Korea,Asia,Advanced
+122,KW,KWT,Kuwait,Asia,EMDE
+123,KY,CYM,Cayman Islands,LAC,Advanced
+124,KZ,KAZ,Kazakhstan,Asia,EMDE
+125,LA,LAO,Laos,Asia,EMDE
+126,LB,LBN,Lebanon,Asia,EMDE
+127,LC,LCA,Saint Lucia,LAC,EMDE
+128,LI,LIE,Liechtenstein,Europe,Advanced
+129,LK,LKA,Sri Lanka,Asia,EMDE
+130,LR,LBR,Liberia,Africa,EMDE
+131,LS,LSO,Lesotho,Africa,EMDE
+132,LT,LTU,Lithuania,Europe,Advanced
+133,LU,LUX,Luxembourg,Europe,Advanced
+134,LV,LVA,Latvia,Europe,Advanced
+135,LY,LBY,Libya,Africa,EMDE
+136,MA,MAR,Morocco,Africa,EMDE
+137,MC,MCO,Monaco,Europe,Advanced
+138,MD,MDA,Moldova,Europe,EMDE
+139,ME,MNE,Montenegro,Europe,Advanced
+140,MF,MAF,Saint Martin,LAC,EMDE
+141,MG,MDG,Madagascar,Africa,EMDE
+142,MH,MHL,Marshall Islands,Oceania,EMDE
+143,MK,MKD,North Macedonia,Europe,EMDE
+144,ML,MLI,Mali,Africa,EMDE
+145,MM,MMR,Myanmar,Asia,EMDE
+146,MN,MNG,Mongolia,Asia,EMDE
+147,MO,MAC,Macao,Asia,EMDE
+148,MP,MNP,Northern Mariana Islands,Oceania,EMDE
+149,MQ,MTQ,Martinique,LAC,EMDE
+150,MR,MRT,Mauritania,Africa,EMDE
+151,MS,MSR,Montserrat,LAC,EMDE
+152,MT,MLT,Malta,Europe,Advanced
+153,MU,MUS,Mauritius,Africa,EMDE
+154,MV,MDV,Maldives,Asia,EMDE
+155,MW,MWI,Malawi,Africa,EMDE
+156,MX,MEX,Mexico,North America,EMDE
+157,MY,MYS,Malaysia,Asia,EMDE
+158,MZ,MOZ,Mozambique,Africa,EMDE
+159,NA,NAM,Namibia,Africa,EMDE
+160,NC,NCL,New Caledonia,Oceania,EMDE
+161,NE,NER,Niger,Africa,EMDE
+162,NF,NFK,Norfolk Island,Oceania,EMDE
+163,NG,NGA,Nigeria,Africa,EMDE
+164,NI,NIC,Nicaragua,LAC,EMDE
+165,NL,NLD,Netherlands,Europe,Advanced
+166,NO,NOR,Norway,Europe,Advanced
+167,NP,NPL,Nepal,Asia,EMDE
+168,NR,NRU,Nauru,Oceania,EMDE
+169,NU,NIU,Niue,Oceania,EMDE
+170,NZ,NZL,New Zealand,Oceania,Advanced
+171,OM,OMN,Oman,Asia,EMDE
+172,PA,PAN,Panama,LAC,EMDE
+173,PE,PER,Peru,LAC,EMDE
+174,PF,PYF,French Polynesia,Oceania,EMDE
+175,PG,PNG,Papua New Guinea,Oceania,EMDE
+176,PH,PHL,Philippines,Asia,EMDE
+177,PK,PAK,Pakistan,Asia,EMDE
+178,PL,POL,Poland,Europe,Advanced
+179,PM,SPM,Saint Pierre and Miquelon,North America,Advanced
+180,PN,PCN,Pitcairn,Oceania,EMDE
+181,PR,PRI,Puerto Rico,North America,Advanced
+182,PS,PSE,Palestine,Asia,EMDE
+183,PT,PRT,Portugal,Europe,Advanced
+184,PW,PLW,Palau,Oceania,EMDE
+185,PY,PRY,Paraguay,LAC,EMDE
+186,QA,QAT,Qatar,Asia,EMDE
+187,RE,REU,Reunion,Africa,EMDE
+188,RO,ROU,Romania,Europe,Advanced
+189,RS,SRB,Serbia,Europe,EMDE
+190,RU,RUS,Russia,Europe,EMDE
+191,RW,RWA,Rwanda,Africa,EMDE
+192,SA,SAU,Saudi Arabia,Asia,EMDE
+193,SB,SLB,Solomon Islands,Oceania,EMDE
+194,SC,SYC,Seychelles,Africa,EMDE
+195,SD,SDN,Sudan,Africa,EMDE
+196,SE,SWE,Sweden,Europe,Advanced
+197,SG,SGP,Singapore,Asia,EMDE
+198,SH,SHN,Saint Helena,Africa,EMDE
+199,SI,SVN,Slovenia,Europe,Advanced
+200,SJ,SJM,Svalbard and Jan Mayen,Europe,Advanced
+201,SK,SVK,Slovakia,Europe,Advanced
+202,SL,SLE,Sierra Leone,Africa,EMDE
+203,SM,SMR,San Marino,Europe,Advanced
+204,SN,SEN,Senegal,Africa,EMDE
+205,SO,SOM,Somalia,Africa,EMDE
+206,SR,SUR,Suriname,LAC,EMDE
+207,SS,SSD,South Sudan,Africa,EMDE
+208,ST,STP,Sao Tome and Principe,Africa,EMDE
+209,SV,SLV,El Salvador,LAC,EMDE
+210,SX,SXM,Sint Maarten,LAC,EMDE
+211,SY,SYR,Syria,Asia,EMDE
+212,SZ,SWZ,Eswatini,Africa,EMDE
+213,TC,TCA,Turks and Caicos Islands,LAC,EMDE
+214,TD,TCD,Chad,Africa,EMDE
+215,TF,ATF,French Southern Territories,Africa,EMDE
+216,TG,TGO,Togo,Africa,EMDE
+217,TH,THA,Thailand,Asia,EMDE
+218,TJ,TJK,Tajikistan,Asia,EMDE
+219,TK,TKL,Tokelau,Oceania,EMDE
+220,TL,TLS,Timor-Leste,Asia,EMDE
+221,TM,TKM,Turkmenistan,Asia,EMDE
+222,TN,TUN,Tunisia,Africa,EMDE
+223,TO,TON,Tonga,Oceania,EMDE
+224,TR,TUR,Turkey,Asia,EMDE
+225,TT,TTO,Trinidad and Tobago,LAC,EMDE
+226,TV,TUV,Tuvalu,Oceania,EMDE
+227,TW,TWN,Taiwan,Asia,EMDE
+228,TZ,TZA,Tanzania,Africa,EMDE
+229,UA,UKR,Ukraine,Europe,EMDE
+230,UG,UGA,Uganda,Africa,EMDE
+231,UM,UMI,United States Minor Outlying Islands,Oceania,EMDE
+232,US,USA,United States,North America,Advanced
+233,UY,URY,Uruguay,LAC,EMDE
+234,UZ,UZB,Uzbekistan,Asia,EMDE
+235,VA,VAT,Vatican City,Europe,Advanced
+236,VC,VCT,Saint Vincent and the Grenadines,LAC,EMDE
+237,VE,VEN,Venezuela,LAC,EMDE
+238,VG,VGB,British Virgin Islands,LAC,EMDE
+239,VI,VIR,U.S. Virgin Islands,LAC,EMDE
+240,VN,VNM,Vietnam,Asia,EMDE
+241,VU,VUT,Vanuatu,Oceania,EMDE
+242,WF,WLF,Wallis and Futuna,Oceania,EMDE
+243,WS,WSM,Samoa,Oceania,EMDE
+244,XK,XKX,Kosovo,Europe,Advanced
+245,XX,XXX,Unknown,Asia,EMDE
+246,YE,YEM,Yemen,Asia,EMDE
+247,YT,MYT,Mayotte,Africa,EMDE
+248,ZA,ZAF,South Africa,Africa,EMDE
+249,ZM,ZMB,Zambia,Africa,EMDE
+250,ZW,ZWE,Zimbabwe,Africa,EMDE
