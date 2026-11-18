@@ -1454,7 +1454,7 @@ class LCOEEstimator:
         filenames=["Geothermal", "Hydro", "Bioenergy", "Wind", "Solar", "Full_Cheapest"]
         for i, results in enumerate([self.geothermal_lcoe, self.hydro_lcoe, self.bioenergy_lcoe, self.wind_lcoe, self.solar_lcoe, cheapest_technology]):
             name = filenames[i]
-            results.to_netcdf("./RESULTS/CHECKFINALFullResults_" + name + ".nc")
+            results.to_netcdf("./RESULTS/FullResults_" + name + ".nc")
         
         
         
